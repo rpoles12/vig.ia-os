@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/assets/capa.png" alt="VIG.IA OS — O Arquivo Corrompido" width="100%"></p>
+<p align="center"><img src="docs/assets/capa-investigacao.png" alt="VIG.IA OS — O Arquivo Corrompido" width="100%"></p>
 <p align="center"><strong>Um sistema operacional fictício que transforma um computador em uma cena de investigação.</strong></p>
 <p align="center"><code>Design de experiência</code> · <code>Interfaces</code> · <code>Narrativa interativa</code> · <code>HTML / CSS / JavaScript</code></p>
 <p align="center"><a href="#a-experiência">Projeto</a> · <a href="#por-dentro-do-sistema">Telas</a> · <a href="#vídeos">Vídeos</a> · <a href="#executar-localmente">Executar</a> · <a href="#publicação-na-vercel">Publicação</a></p>
