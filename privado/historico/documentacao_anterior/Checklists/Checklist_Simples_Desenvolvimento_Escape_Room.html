@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111827" />
+  <title>Escape Room - Checklist Simples</title>
+  <meta name="description" content="Checklist direto para colocar em prática o Escape Room O Arquivo Corrompido." />
+  <style>
+    :root {
+      --navy:#111827; --red:#8f1d2c; --gold:#d5a625; --ink:#202733;
+      --muted:#667085; --line:#e2e5ea; --bg:#f4f5f7; --paper:#fff;
+      --green:#167052; --soft-red:#faecef; --soft-gold:#fff8e5;
+    }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; color:var(--ink); background:var(--bg); }
+    button,input { font:inherit; }
+    button:focus-visible,input:focus-visible,summary:focus-visible { outline:3px solid rgba(213,166,37,.55); outline-offset:2px; }
+    header { background:var(--navy); color:#fff; padding:42px 22px 78px; position:relative; overflow:hidden; }
+    header::after { content:""; position:absolute; width:80%; height:1px; background:#465268; left:12%; top:62%; transform:rotate(-4deg); }
+    .dot { position:absolute; width:14px; height:14px; border-radius:50%; background:var(--gold); right:22%; top:60%; z-index:1; }
+    .wrap { width:min(980px,calc(100% - 28px)); margin:auto; }
+    .hero { position:relative; z-index:2; }
+    .kicker { color:#f3c84a; text-transform:uppercase; letter-spacing:.14em; font-size:.75rem; font-weight:900; }
+    h1 { font-size:clamp(2.3rem,7vw,4.8rem); line-height:.96; letter-spacing:-.05em; margin:22px 0 16px; }
+    header p { color:#d8dee8; max-width:650px; font-size:1.08rem; line-height:1.6; }
+    .base-link { display:inline-block; color:#e3e8ef; font-size:.83rem; margin-top:10px; padding:8px 12px; border:1px solid #3b4658; border-radius:999px; }
+    main { margin-top:-44px; position:relative; z-index:3; padding-bottom:64px; }
+    .summary { background:var(--paper); border:1px solid var(--line); border-radius:18px; padding:22px; box-shadow:0 16px 40px rgba(17,24,39,.08); }
+    .summary-row { display:flex; justify-content:space-between; align-items:end; gap:16px; }
+    .summary h2 { margin:3px 0 0; font-size:1.2rem; }
+    .percent { font-size:2.5rem; font-weight:950; color:var(--red); letter-spacing:-.05em; }
+    .bar { height:11px; background:#e8ebf0; border-radius:999px; overflow:hidden; margin:16px 0 9px; }
+    .bar span { display:block; height:100%; width:0; border-radius:inherit; background:linear-gradient(90deg,var(--red),#c43b50); transition:width .2s; }
+    .meta { display:flex; justify-content:space-between; color:var(--muted); font-size:.87rem; }
+    .controls { display:flex; justify-content:space-between; align-items:center; margin:18px 0; gap:12px; }
+    .instruction { color:var(--muted); font-size:.9rem; }
+    .reset { border:1px solid #e7b9c1; background:var(--soft-red); color:var(--red); border-radius:10px; padding:9px 12px; font-weight:800; cursor:pointer; }
+    .stages { display:grid; gap:16px; }
+    details { background:var(--paper); border:1px solid var(--line); border-radius:17px; overflow:hidden; }
+    details[open] { box-shadow:0 12px 32px rgba(17,24,39,.06); }
+    summary { list-style:none; cursor:pointer; display:grid; grid-template-columns:48px 1fr auto; gap:13px; align-items:center; padding:18px 20px; }
+    summary::-webkit-details-marker { display:none; }
+    .stage-num { width:44px; height:44px; border-radius:13px; background:var(--soft-red); color:var(--red); display:grid; place-items:center; font-weight:950; }
+    .stage-title strong { display:block; font-size:1.1rem; }
+    .stage-title small { display:block; color:var(--muted); margin-top:4px; line-height:1.4; }
+    .stage-status { text-align:right; font-size:.84rem; color:var(--muted); }
+    .stage-status b { color:var(--navy); font-size:.95rem; display:block; }
+    .tasks { border-top:1px solid var(--line); padding:9px 17px 16px; }
+    .task { display:grid; grid-template-columns:25px 1fr; gap:11px; padding:13px 8px; border-bottom:1px solid #edf0f3; }
+    .task:last-child { border-bottom:0; }
+    .task input { width:19px; height:19px; accent-color:var(--green); margin-top:3px; cursor:pointer; }
+    .task label { cursor:pointer; line-height:1.4; }
+    .task label strong { display:block; font-size:.96rem; }
+    .task label small { display:block; color:var(--muted); margin-top:4px; }
+    .task label small b { color:#5a6473; }
+    .task.done label { text-decoration:line-through; color:#818997; }
+    .task.done label small { color:#a1a7b1; }
+    .finish { margin-top:18px; padding:18px 20px; background:var(--soft-gold); border:1px solid #ecd38a; border-radius:16px; color:#63521d; line-height:1.55; }
+    footer { text-align:center; color:var(--muted); font-size:.82rem; padding:0 20px 36px; }
+    @media(max-width:650px){
+      header{padding-top:32px;min-height:330px}.summary-row{align-items:center}.percent{font-size:2rem}
+      summary{grid-template-columns:44px 1fr}.stage-status{grid-column:2;text-align:left}.controls{align-items:flex-start}
+    }
+    @media print {
+      header{padding:20px;min-height:0} header::after,.dot,.reset{display:none} main{margin:16px auto}.summary,details[open]{box-shadow:none}
+      details{break-inside:avoid} details>.tasks{display:block!important}.task input{appearance:none;border:1px solid #555;border-radius:3px}
+      .task.done input::after{content:"✓";display:block;text-align:center;line-height:17px}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <span class="dot" aria-hidden="true"></span>
+    <div class="wrap hero">
+      <div class="kicker">O Arquivo Corrompido</div>
+      <h1>Checklist simples</h1>
+      <p>Uma sequência direta para transformar o roteiro final em um Escape Room pronto para funcionar.</p>
+      <span class="base-link">A checklist detalhada continua preservada como documento-base</span>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="summary" aria-label="Progresso geral">
+      <div class="summary-row">
+        <div><div class="kicker" style="color:var(--red)">Progresso</div><h2>Execução do projeto</h2></div>
+        <div class="percent" id="percent">0%</div>
+      </div>
+      <div class="bar"><span id="bar"></span></div>
+      <div class="meta"><span id="doneText">0 de 32 concluídas</span><span id="pendingText">32 pendentes</span></div>
+    </section>
+
+    <div class="controls">
+      <span class="instruction">Siga os blocos na ordem e marque somente entregas realmente prontas.</span>
+      <button class="reset" id="reset">Zerar progresso</button>
+    </div>
+
+    <section class="stages" id="stages"></section>
+    <div class="finish"><strong>Regra simples:</strong> o bloco seguinte pode começar antes do anterior terminar, mas nenhum bloco é considerado concluído enquanto suas oito entregas não estiverem prontas.</div>
+  </main>
+
+  <footer>O progresso fica salvo neste navegador. Roteiro e solução permanecem inalterados.</footer>
+
+  <script>
+    const stages = [
+      {
+        number:"01", title:"Criar as pistas", subtitle:"Produzir os materiais que contam o caso.",
+        tasks:[
+          ["p1","Criar a parede com os 8 funcionários","Apresentar os suspeitos atuais e permitir eliminações."],
+          ["p2","Criar a Foto F1 e a Ficha A-17","Levar o grupo até Bryan Almeida e BA-17."],
+          ["p3","Criar o Log B_A_17 e o Manifesto V-17","Provar o acesso de Bryan e explicar o que foi roubado."],
+          ["p4","Criar o crachá 2847 e o registro de entrada","Provar que a credencial de Helena foi usada às 22:31."],
+          ["p5","Criar as mensagens de Helena e Rafael","Explicar a chantagem que obrigou Helena a entregar o crachá."],
+          ["p6","Criar as mensagens e documentos de Marcelo","Provar a fraude de R$ 3.840 e a criação da conta RV-MANUT."],
+          ["p7","Criar os 6 cartões da cronologia","Permitir a reconstrução dos acontecimentos até 22:49."],
+          ["p8","Criar o protocolo final e dois kits reserva","Finalizar o jogo e substituir rapidamente materiais perdidos."],
+        ]
+      },
+      {
+        number:"02", title:"Construir o sistema e as mídias", subtitle:"Fazer a VIGIA/3, os áudios e o vídeo funcionarem.",
+        tasks:[
+          ["s1","Criar a tela principal da VIGIA/3","Mostrar cronômetro, memória, consultas e progresso."],
+          ["s2","Programar as respostas da IA","Responder somente sobre pessoas, acessos e horários do caso."],
+          ["s3","Programar as 3 validações","Aceitar Bryan, credencial 2847 e horário 22:46."],
+          ["s4","Programar o código final","Gerar BA17-2847-2246 e iniciar a reconstrução."],
+          ["s5","Gravar e editar os 3 áudios","Guiar a abertura, a separação dos acessos e a descoberta de 22:46."],
+          ["s6","Gravar e editar o vídeo final","Mostrar a solução completa em 70 a 90 segundos."],
+          ["s7","Adicionar legendas e transcrições","Garantir compreensão e uma alternativa quando o áudio falhar."],
+          ["s8","Criar painel de operador e reset","Permitir dicas, avanço manual, conclusão e reinício rápido."],
+        ]
+      },
+      {
+        number:"03", title:"Montar e preparar a sala", subtitle:"Organizar a experiência e treinar quem vai operar.",
+        tasks:[
+          ["m1","Desenhar a planta da sala","Definir parede, mesas, terminal, cronologia, operador e saída."],
+          ["m2","Montar as 3 estações","Separar identidade, acessos e cronologia de forma clara."],
+          ["m3","Instalar computador, som e iluminação","Garantir leitura, áudio compreensível e funcionamento offline."],
+          ["m4","Proteger cabos e manter a saída livre","Eliminar riscos e permitir saída imediata."],
+          ["m5","Montar a pasta de contingência","Guardar transcrições, protocolo, storyboard e respostas impressas."],
+          ["m6","Definir operadores e turnos","Garantir briefing, acompanhamento, reset e suporte técnico."],
+          ["m7","Treinar briefing, dicas e encerramento","Padronizar a experiência para todos os grupos."],
+          ["m8","Treinar o reset em até 2 minutos","Manter a fila andando e a sala pronta entre rodadas."],
+        ]
+      },
+      {
+        number:"04", title:"Testar e liberar", subtitle:"Comprovar que o jogo é claro, seguro e repetível.",
+        tasks:[
+          ["t1","Conferir nomes, números e horários","Eliminar qualquer divergência entre pistas, sistema, áudio e vídeo."],
+          ["t2","Fazer um teste apenas com as pistas","Validar a lógica antes de depender da tecnologia."],
+          ["t3","Fazer 20 ciclos do sistema","Confirmar estabilidade, mídias, protocolo e reset."],
+          ["t4","Testar todas as contingências","Garantir continuidade sem IA, áudio, vídeo ou computador."],
+          ["t5","Fazer 3 testes com alunos","Medir compreensão, dificuldade e necessidade de dicas."],
+          ["t6","Ajustar o jogo para 10-15 minutos","Remover gargalos sem mudar o roteiro final."],
+          ["t7","Simular 10 rodadas seguidas","Testar fila, desgaste, equipe, equipamento e tempo de reset."],
+          ["t8","Obter aprovação e liberar para a feira","Confirmar segurança, conteúdo, escala e inventário final."],
+        ]
+      }
+    ];
+
+    const KEY="escape-room-checklist-simples-v1";
+    let state={}; try{state=JSON.parse(localStorage.getItem(KEY)||"{}")}catch{state={}}
+    const root=document.getElementById("stages");
+    const all=stages.flatMap(s=>s.tasks);
+
+    function render(){
+      root.innerHTML=stages.map((stage,i)=>`
+        <details ${i===0?"open":""} data-stage="${stage.number}">
+          <summary>
+            <span class="stage-num">${stage.number}</span>
+            <span class="stage-title"><strong>${stage.title}</strong><small>${stage.subtitle}</small></span>
+            <span class="stage-status"><b id="count-${stage.number}">0 / 8</b>concluídas</span>
+          </summary>
+          <div class="tasks">
+            ${stage.tasks.map(([id,title,fn])=>`
+              <div class="task" data-id="${id}">
+                <input id="${id}" type="checkbox" ${state[id]?"checked":""}>
+                <label for="${id}"><strong>${title}</strong><small><b>Função:</b> ${fn}</small></label>
+              </div>`).join("")}
+          </div>
+        </details>`).join("");
+      document.querySelectorAll('.task input').forEach(input=>input.addEventListener('change',()=>{
+        state[input.id]=input.checked; localStorage.setItem(KEY,JSON.stringify(state)); update();
+      }));
+      update();
+    }
+
+    function update(){
+      document.querySelectorAll('.task').forEach(task=>task.classList.toggle('done',task.querySelector('input').checked));
+      stages.forEach(stage=>{
+        const done=stage.tasks.filter(([id])=>state[id]).length;
+        document.getElementById(`count-${stage.number}`).textContent=`${done} / ${stage.tasks.length}`;
+      });
+      const done=all.filter(([id])=>state[id]).length, total=all.length, pct=Math.round(done/total*100);
+      document.getElementById('percent').textContent=`${pct}%`;
+      document.getElementById('bar').style.width=`${pct}%`;
+      document.getElementById('doneText').textContent=`${done} de ${total} concluídas`;
+      document.getElementById('pendingText').textContent=`${total-done} pendentes`;
+    }
+
+    document.getElementById('reset').addEventListener('click',()=>{
+      if(confirm('Zerar todo o progresso desta checklist?')){
+        state={};localStorage.removeItem(KEY);document.querySelectorAll('.task input').forEach(i=>i.checked=false);update();
+      }
+    });
+    render();
+  </script>
+</body>
+</html>

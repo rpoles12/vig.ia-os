@@ -1,0 +1,15 @@
+{
+  "pages": 3,
+  "paper_mm": [
+    297,
+    420
+  ],
+  "copies_of_each_sheet": 1,
+  "order": [
+    "jornal 1",
+    "jornal 2",
+    "manchetes"
+  ],
+  "print": "A3, retrato, escala 100%, frente única. Imprimir uma cópia do arquivo. Sem páginas de reserva.",
+  "sha256": "c31c817be2ca12b0545634d30fdb8257d846ee4d65faa1267c75029ae2283aa1"
+}

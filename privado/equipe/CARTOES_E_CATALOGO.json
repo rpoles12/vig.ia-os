@@ -1,0 +1,242 @@
+{
+  "data": "2026-11-24",
+  "ordem": [
+    {
+      "id": "k7",
+      "title": "Catraca lateral",
+      "visible_time": "22:31",
+      "time_label": "22:31",
+      "description": "Credencial 2847 utilizada na entrada lateral.",
+      "alt": "Catraca lateral. 22:31. Credencial 2847 utilizada na entrada lateral."
+    },
+    {
+      "id": "m2",
+      "title": "Sessão iniciada",
+      "visible_time": "22:36",
+      "time_label": "22:36",
+      "description": "Conta RV-MANUT. Assinatura recuperada: B_A_17.",
+      "alt": "Sessão iniciada. 22:36. Conta RV-MANUT. Assinatura recuperada: B_A_17."
+    },
+    {
+      "id": "q8",
+      "title": "Alerta local",
+      "visible_time": "22:41",
+      "time_label": "22:41",
+      "description": "Sensor de movimento envia um alerta a Carlos Mendes.",
+      "alt": "Alerta local. 22:41. Sensor de movimento envia um alerta a Carlos Mendes."
+    },
+    {
+      "id": "r4",
+      "title": "Porta técnica aberta",
+      "visible_time": "22:44",
+      "time_label": "22:44",
+      "description": "Carlos entra na sala técnica e confronta o invasor.",
+      "alt": "Porta técnica aberta. 22:44. Carlos entra na sala técnica e confronta o invasor."
+    },
+    {
+      "id": "v9",
+      "title": "Câmera interrompida",
+      "visible_time": null,
+      "time_label": "CORROMPIDO",
+      "description": "Sinal perdido durante o confronto na sala técnica.",
+      "alt": "Câmera interrompida. Horário corrompido. Sinal perdido durante o confronto na sala técnica."
+    },
+    {
+      "id": "b6",
+      "title": "Saída de emergência",
+      "visible_time": "22:49",
+      "time_label": "22:49",
+      "description": "Saída acionada no corredor de emergência.",
+      "alt": "Saída de emergência. 22:49. Saída acionada no corredor de emergência."
+    }
+  ],
+  "catalogo": [
+    {
+      "id": "T3",
+      "title": "Extrato de ocorrências",
+      "file": "evidencias/T3_extrato_ocorrencias.png",
+      "stage": 2
+    },
+    {
+      "id": "F1_ID",
+      "title": "Identificação do arquivo visual",
+      "file": "evidencias/F1_identificacao.png",
+      "stage": 0
+    },
+    {
+      "id": "F1",
+      "title": "Arquivo visual da equipe",
+      "file": "evidencias/F1_composicao.jpg",
+      "stage": 0
+    },
+    {
+      "id": "A17",
+      "title": "Arquivo estudantil A-17",
+      "file": "evidencias/A17_ficha_projeto.png",
+      "stage": 0
+    },
+    {
+      "id": "L1",
+      "title": "Log L1",
+      "file": "evidencias/L1_registro_acesso.png",
+      "stage": 0
+    },
+    {
+      "id": "N1",
+      "title": "Proposta NORTHSTAR",
+      "file": "evidencias/N1_mensagem_northstar.png",
+      "stage": 1
+    },
+    {
+      "id": "V17",
+      "title": "Manifesto V-17",
+      "file": "evidencias/V17_manifesto_lote.png",
+      "stage": 0
+    },
+    {
+      "id": "C1",
+      "title": "Catraca lateral",
+      "file": "evidencias/C1_registro_catraca.png",
+      "stage": 1
+    },
+    {
+      "id": "H1",
+      "title": "Conversa recuperada H1",
+      "file": "evidencias/H1_conversa_bryan_helena.png",
+      "stage": 1
+    },
+    {
+      "id": "R1",
+      "title": "Acessos anteriores",
+      "file": "evidencias/R1_acessos_anteriores.png",
+      "stage": 1
+    },
+    {
+      "id": "R2",
+      "title": "Mensagem familiar",
+      "file": "evidencias/R2_mensagem_rafael.png",
+      "stage": 1
+    },
+    {
+      "id": "AL",
+      "title": "Presença remota",
+      "file": "evidencias/AL_relatorio_presenca_remota.png",
+      "stage": 1
+    },
+    {
+      "id": "APOIO_01_pessoas_registros",
+      "title": "APOIO 01 pessoas registros",
+      "file": "evidencias/APOIO_01_pessoas_registros.png",
+      "stage": 0
+    },
+    {
+      "id": "APOIO_02_pessoas_registros",
+      "title": "APOIO 02 pessoas registros",
+      "file": "evidencias/APOIO_02_pessoas_registros.png",
+      "stage": 0
+    },
+    {
+      "id": "APOIO_03_pessoas_registros",
+      "title": "APOIO 03 pessoas registros",
+      "file": "evidencias/APOIO_03_pessoas_registros.png",
+      "stage": 0
+    },
+    {
+      "id": "NF318",
+      "title": "FIN01 NF 318",
+      "file": "evidencias/FIN01_NF_318.png",
+      "stage": 1
+    },
+    {
+      "id": "NF318B",
+      "title": "FIN01 NF 318B",
+      "file": "evidencias/FIN01_NF_318B.png",
+      "stage": 1
+    },
+    {
+      "id": "NF427",
+      "title": "FIN01 NF 427",
+      "file": "evidencias/FIN01_NF_427.png",
+      "stage": 1
+    },
+    {
+      "id": "NF427B",
+      "title": "FIN01 NF 427B",
+      "file": "evidencias/FIN01_NF_427B.png",
+      "stage": 1
+    },
+    {
+      "id": "NF512",
+      "title": "FIN01 NF 512",
+      "file": "evidencias/FIN01_NF_512.png",
+      "stage": 1
+    },
+    {
+      "id": "NF512B",
+      "title": "FIN01 NF 512B",
+      "file": "evidencias/FIN01_NF_512B.png",
+      "stage": 1
+    },
+    {
+      "id": "FIN02",
+      "title": "Resumo financeiro",
+      "file": "evidencias/FIN02_resumo_financeiro.png",
+      "stage": 1
+    },
+    {
+      "id": "M1",
+      "title": "Conversa recuperada M1",
+      "file": "evidencias/M1_conversa_bryan_marcelo.png",
+      "stage": 1
+    },
+    {
+      "id": "RVM",
+      "title": "Auditoria da conta",
+      "file": "evidencias/RVM_auditoria_conta.png",
+      "stage": 1
+    },
+    {
+      "id": "CAM01",
+      "title": "Integridade da mídia",
+      "file": "evidencias/CAM01_interrupcao_camera.png",
+      "stage": 3
+    }
+  ],
+  "chave": {
+    "correct_order": [
+      "k7",
+      "m2",
+      "q8",
+      "r4",
+      "v9",
+      "b6"
+    ],
+    "internal_mapping": {
+      "A": "k7",
+      "B": "m2",
+      "C": "q8",
+      "D": "r4",
+      "E": "v9",
+      "F": "b6"
+    },
+    "critical_time": "22:46",
+    "camera_end": "22:46:32",
+    "answers": {
+      "identity": [
+        "BRYAN",
+        "BRYAN ALMEIDA",
+        "BA17",
+        "BA-17"
+      ],
+      "credential": [
+        "2847"
+      ],
+      "critical_time": [
+        "22:46",
+        "2246"
+      ],
+      "generated_protocol": "BA17-2847-2246"
+    },
+    "warning": "PRODUÇÃO INTERNA. Não exibir como documento ao jogador."
+  }
+}

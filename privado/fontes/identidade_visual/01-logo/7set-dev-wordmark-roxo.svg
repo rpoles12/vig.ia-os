@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">7set.dev</title>
+  <desc id="desc">Wordmark tipografico oficial da 7set.dev em roxo neon.</desc>
+  <rect width="1600" height="480" fill="none"/>
+  <text x="800" y="325" text-anchor="middle"
+        font-family="Space Grotesk, Arial, sans-serif"
+        font-size="300" font-weight="700" letter-spacing="-13"
+        fill="#A66BFF">7set.dev</text>
+</svg>

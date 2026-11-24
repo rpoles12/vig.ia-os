@@ -1,0 +1,16 @@
+#intro-film{position:fixed;inset:0;margin:0;padding:0;width:100vw;height:100dvh;max-width:none;max-height:none;border:0;border-radius:0;background:#000;color:#efe5ff;overflow:hidden;box-shadow:none}
+#intro-film[open]{display:flex;align-items:center;justify-content:center}
+#intro-film::backdrop{background:#000}
+#intro-film-player{display:block;width:100%;height:100%;object-fit:contain;background:#000}
+#intro-film-ready{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;background:linear-gradient(140deg,#0c0715cc,#180d28b8);font-family:Arial,sans-serif}
+#intro-film-ready>p:first-child{font-size:15px;letter-spacing:5px;color:#c596ff}#intro-film-ready h1{font-size:clamp(36px,5vw,78px);margin:10px 0 18px;max-width:950px;line-height:1.1}#intro-film-ready>p{font-size:20px;color:#cbb8dd}#intro-film-start{margin-top:28px;padding:18px 42px;min-width:210px;font-size:22px;background:linear-gradient(120deg,#8b45cb,#6530a7);border:1px solid #c997ff;color:#fff;box-shadow:0 0 50px #9247cc40;display:flex;justify-content:center;gap:28px;align-items:center}
+#intro-film-loading{position:absolute;bottom:7%;left:0;right:0;text-align:center;font:16px Arial,sans-serif;color:#c7addd}
+#intro-film-error{position:absolute;inset:auto 20%;padding:28px;border:1px solid #8154a6;border-radius:16px;background:#170e24;box-shadow:0 20px 100px #000;font:16px Arial,sans-serif}
+#intro-film-error h2{font-size:25px;margin:0 0 16px}#intro-film-error p{line-height:1.6}#intro-film-error>div{display:flex;gap:12px;flex-wrap:wrap}
+.intro-film-active #os-desktop,.intro-film-active #os-taskbar,.intro-film-active #os-window-layer{visibility:hidden!important}
+#app-introvideo .os-app-body{padding:0;display:flex;background:#08060c}
+#introvideo{width:100%;min-height:0;display:flex;flex-direction:column}
+#intro-replay-player{width:100%;height:calc(100% - 44px);flex:1;min-height:0;object-fit:contain;background:#000}
+.intro-replay-footer{height:44px;flex-shrink:0;display:flex;align-items:center;justify-content:space-between;padding:0 18px;color:#bca5d3;font:13px Arial,sans-serif;background:#1a1027}
+.intro-replay-footer a{color:#d6b3ff}
+@media(max-width:700px){#intro-film-error{inset:auto 5%;padding:20px}}

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "P01_Carlos_Mendes",
+    "subject": "Man approximately 48, medium brown pardo skin, broad rectangular face, short black hair graying at the temples, neatly trimmed short mustache, no beard, subtle forehead and eye wrinkles. Plain graphite-gray cotton polo shirt with realistic knit texture and natural collar folds.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Man approximately 48, medium brown pardo skin, broad rectangular face, short black hair graying at the temples, neatly trimmed short mustache, no beard, subtle forehead and eye wrinkles. Plain graphite-gray cotton polo shirt with realistic knit texture and natural collar folds.",
+    "source": "exec-6dec2d45-be44-4fb2-b0a3-4acac20eda46.png",
+    "output": "P01_Carlos_Mendes_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P02_Helena_Duarte",
+    "subject": "Woman approximately 47, dark brown Black skin, oval face, natural coily black hair in a low bun, subtle nasolabial and eye expression lines, ordinary natural eyebrows, minimal makeup. Simple clean gray professional work blouse with modest neckline, no logo. Her expression is neutral, not frightened or suspicious.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Woman approximately 47, dark brown Black skin, oval face, natural coily black hair in a low bun, subtle nasolabial and eye expression lines, ordinary natural eyebrows, minimal makeup. Simple clean gray professional work blouse with modest neckline, no logo. Her expression is neutral, not frightened or suspicious.",
+    "source": "exec-068ea543-3e07-4446-8b3a-b387b5638d77.png",
+    "output": "P02_Helena_Duarte_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P03_Marcelo_Vieira",
+    "subject": "Man approximately 35, light skin, long narrow face, short slightly wavy brown hair, neatly trimmed short brown beard, subtle rectangular eyeglasses with physically plausible symmetrical frame and clear lenses, visible eyes without glare. Plain blue-gray casual button-front shirt, no tie.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Man approximately 35, light skin, long narrow face, short slightly wavy brown hair, neatly trimmed short brown beard, subtle rectangular eyeglasses with physically plausible symmetrical frame and clear lenses, visible eyes without glare. Plain blue-gray casual button-front shirt, no tie.",
+    "source": "exec-dac96dc7-be63-429f-9b6a-901479d4ad4f.png",
+    "output": "P03_Marcelo_Vieira_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P04_Renata_Lima",
+    "subject": "Woman approximately 43, medium brown pardo skin, rounded face, straight dark-brown shoulder-length hair, subtle natural forehead and eye expression lines, discreet everyday makeup. Plain beige blouse underneath a simple charcoal-gray everyday blazer, natural fabric weave and folds.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Woman approximately 43, medium brown pardo skin, rounded face, straight dark-brown shoulder-length hair, subtle natural forehead and eye expression lines, discreet everyday makeup. Plain beige blouse underneath a simple charcoal-gray everyday blazer, natural fabric weave and folds.",
+    "source": "exec-6d3e1044-4dc9-4d9d-b6d1-28125e538df4.png",
+    "output": "P04_Renata_Lima_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P05_Eduardo_Nunes",
+    "subject": "Man approximately 54, dark brown Black skin, oval face, very short gray salt-and-pepper hair, clean-shaven, natural forehead and eye wrinkles. Light gray cotton button-front business shirt, no tie, first button open, realistic fabric folds.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Man approximately 54, dark brown Black skin, oval face, very short gray salt-and-pepper hair, clean-shaven, natural forehead and eye wrinkles. Light gray cotton button-front business shirt, no tie, first button open, realistic fabric folds.",
+    "source": "exec-0542c7a2-5eb2-4560-a972-869558092469.png",
+    "output": "P05_Eduardo_Nunes_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P06_Patricia_Alves",
+    "subject": "Woman approximately 32, light skin, softly square face and jaw, dark-brown wavy chin-length bob haircut, no glasses, minimal natural everyday makeup, subtle skin pores and tiny natural skin irregularities. Plain muted gray-green matte fabric blouse with modest neckline.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Woman approximately 32, light skin, softly square face and jaw, dark-brown wavy chin-length bob haircut, no glasses, minimal natural everyday makeup, subtle skin pores and tiny natural skin irregularities. Plain muted gray-green matte fabric blouse with modest neckline.",
+    "source": "exec-c4b5a148-7463-4b92-a3dd-b2ad0cab9963.png",
+    "output": "P06_Patricia_Alves_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P07_Lucas_Martins",
+    "subject": "Man approximately 39, medium brown pardo skin, wide face and broad jaw, short naturally curly black hair, clean-shaven, no glasses, natural skin texture and understated facial asymmetry. Plain navy blue cotton work shirt, button front, without badges, equipment or logos.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Man approximately 39, medium brown pardo skin, wide face and broad jaw, short naturally curly black hair, clean-shaven, no glasses, natural skin texture and understated facial asymmetry. Plain navy blue cotton work shirt, button front, without badges, equipment or logos.",
+    "source": "exec-3c608cfb-39d2-4d75-8e6b-0bb8cea67723.png",
+    "output": "P07_Lucas_Martins_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P08_Camila_Rocha",
+    "subject": "Woman approximately 29, dark brown Black skin, elongated face, fine black braids pulled back neatly, no glasses, very discreet natural makeup, visible realistic pores. Simple muted terracotta blouse in matte fabric, no blazer, modest neckline, natural folds.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Woman approximately 29, dark brown Black skin, elongated face, fine black braids pulled back neatly, no glasses, very discreet natural makeup, visible realistic pores. Simple muted terracotta blouse in matte fabric, no blazer, modest neckline, natural folds.",
+    "source": "exec-cbbc3ab4-3278-464e-a868-e261e812c65a.png",
+    "output": "P08_Camila_Rocha_4x3_v01.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes."
+  },
+  {
+    "id": "P09_Bryan_Almeida",
+    "subject": "Aproximadamente 25 anos; óculos pretos retangulares, olheiras, cabelo castanho desalinhado, rosto mais magro e barba rala. Camiseta cinza; aparência de nerd cansado.",
+    "prompt": "Use case: photorealistic-natural. Create one extremely photorealistic institutional staff portrait of an entirely fictional adult, not a real person or celebrity. Landscape 4:3 composition, target 2048x1536 pixels. One person centered from complete head through upper chest, face frontal and eyes looking directly at camera, relaxed shoulders, mouth closed, neutral calm expression. Head occupies approximately half image height, generous headroom and side margins for later vertical crop. Plain light neutral gray studio backdrop. Soft broad diffused neutral light, mild shadows, natural color, 85mm portrait perspective. Real skin pores, tiny asymmetries, age-appropriate fine lines, realistic hair strands, natural cloth weave and folds. Ordinary believable person, not fashion model. No hands in frame, no text, badges, logos, watermark, frame, props, dramatic lighting, neon, purple tint, beauty retouch, plastic skin, CGI or illustration. Adult man approximately 25, light skin with faint natural freckles over nose and cheeks, narrow oval face, short dark-brown wavy hair, clean-shaven, no glasses. Plain gray cotton crewneck T-shirt. Ordinary approachable neutral expression, absolutely no villain styling or threatening gaze.",
+    "source": "exec-8d48d2b1-aec5-4194-bedd-943434a33a1a.png",
+    "output": "P09_Bryan_Almeida_4x3_v02.png",
+    "method": "Gerador de imagens integrado; pessoa fictícia sem referência de rosto real",
+    "status": "Retrato conferido e aplicado aos documentos correspondentes.",
+    "approved_by_user": true,
+    "edit_notes": "Revisão do retrato v01 com gerador integrado: manter 4:3, fundo e luz; reduzir aparência idealizada, adicionar óculos, olheiras, cabelo desalinhado e barba rala. Aprovada pelo usuário."
+  }
+]

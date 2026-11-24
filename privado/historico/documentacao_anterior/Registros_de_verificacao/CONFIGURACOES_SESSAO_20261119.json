@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-19",
+  "changes": [
+    "session-settings.js",
+    "session-settings.css",
+    "countdown.js",
+    "app.js",
+    "index.html",
+    "VIGIA_OS_LEIA-ME.md",
+    "VIGIA_OS_V2.md"
+  ],
+  "backup": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\configuracoes_sessao_20261119_140108",
+  "browser": {
+    "gear_before_start": true,
+    "invalid_password_rejected": true,
+    "login_admin_accepted": true,
+    "reopening_requires_authentication": true,
+    "zero_duration_rejected": true,
+    "custom_duration_05m10s": true,
+    "custom_bonus_30s_popup_and_clock": true,
+    "ai_time_answer_uses_configuration": true,
+    "disabled_initial_narration": true,
+    "close_without_save_discards_draft": true,
+    "defaults_button": true,
+    "operator_reset_preserves_session_configuration": true,
+    "reload_restores_12m30s_and_15s": true,
+    "bonus_disabled_does_not_add_time": true,
+    "custom_20s_round_expires_with_transmission_failure": true,
+    "responsive_390x844_header_and_actions_visible": true,
+    "final_isolated_smoke_console_errors": []
+  },
+  "configuration_tests": {
+    "date": "2026-11-19",
+    "result": "passed",
+    "checks": 38,
+    "coverage": [
+      "Duração e bônus personalizados",
+      "Bônus desativado e zero",
+      "Acerto único por etapa e expiração",
+      "Limites e valores inválidos",
+      "Reinício mantém configuração e limpa bônus"
+    ]
+  },
+  "game": {
+    "date": "2026-11-19",
+    "checks": 116,
+    "result": "passed",
+    "coverage": [
+      "Progressão 8/34/67/100 e catálogo8/23/24/25",
+      "Todas as respostas sem consulta a documentos",
+      "Bônus únicos, limites, reset e alertas",
+      "Gabarito e caminhos de mídias",
+      "Consultas básicas da assistente"
+    ]
+  },
+  "defaults": {
+    "duration_seconds": 750,
+    "bonus_enabled": true,
+    "bonus_seconds": 15,
+    "auto_initial_narration": true,
+    "time_warning_sounds": true
+  },
+  "scope": "Only JavaScript memory of this page; no configuration storage or network service."
+}

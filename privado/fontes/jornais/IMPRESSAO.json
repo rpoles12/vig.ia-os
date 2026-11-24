@@ -1,0 +1,8 @@
+{
+  "pages": 3,
+  "size": "A4",
+  "scale": "100%",
+  "background": "RGB 255,255,255; paper values 245–255 are knocked out in the PDF onto a pure white page.",
+  "images": "Edited with integrated image_gen; text and page layout inspected before PDF output.",
+  "preserved": "Manchetes, artigos, ilustrações, colunas e recortes; sem respostas do caso."
+}

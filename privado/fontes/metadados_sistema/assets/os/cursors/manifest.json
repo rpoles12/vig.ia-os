@@ -1,0 +1,139 @@
+{
+  "identidade": "VIGIA/3 — roxo, lilás e borda clara com contraste escuro",
+  "producao": "Desenho geométrico local para combinar com os ícones SVG do projeto; PNG RGBA com antialiasing.",
+  "tamanho_cursor": "32x32 px",
+  "cursores": {
+    "default": {
+      "arquivo": "default.png",
+      "uso": "Navegação",
+      "hotspot": [
+        3,
+        2
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "pointer": {
+      "arquivo": "pointer.png",
+      "uso": "Botões e atalhos",
+      "hotspot": [
+        12,
+        3
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "text": {
+      "arquivo": "text.png",
+      "uso": "Campos de texto",
+      "hotspot": [
+        16,
+        16
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "grab": {
+      "arquivo": "grab.png",
+      "uso": "Arrastar janela ou cartão",
+      "hotspot": [
+        16,
+        16
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "grabbing": {
+      "arquivo": "grabbing.png",
+      "uso": "Arrasto em andamento",
+      "hotspot": [
+        16,
+        17
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "resize-nwse": {
+      "arquivo": "resize-nwse.png",
+      "uso": "Redimensionar janela",
+      "hotspot": [
+        16,
+        16
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "not-allowed": {
+      "arquivo": "not-allowed.png",
+      "uso": "Ação indisponível",
+      "hotspot": [
+        16,
+        16
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "wait": {
+      "arquivo": "wait.png",
+      "uso": "Carregamento de documento",
+      "hotspot": [
+        2,
+        2
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "zoom-in": {
+      "arquivo": "zoom-in.png",
+      "uso": "Ampliar documento",
+      "hotspot": [
+        13,
+        13
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "zoom-out": {
+      "arquivo": "zoom-out.png",
+      "uso": "Reduzir documento",
+      "hotspot": [
+        13,
+        13
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    },
+    "help": {
+      "arquivo": "help.png",
+      "uso": "Ajuda e capacidades da IA",
+      "hotspot": [
+        2,
+        2
+      ],
+      "dimensoes": [
+        32,
+        32
+      ]
+    }
+  }
+}

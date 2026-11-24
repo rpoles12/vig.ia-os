@@ -1,0 +1,44 @@
+{
+  "version": "VIGIA OS v2",
+  "date": "2026-11-19",
+  "backup": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\vigia_os_v2_publicacao_20261119_101642\\Escape_Room_Pacote_Completo",
+  "motor": {
+    "date": "2026-11-19",
+    "checks": 105,
+    "result": "passed",
+    "coverage": [
+      "Progressão 8/34/67/100 e catálogo8/23/24/25",
+      "Todas as respostas sem consulta a documentos",
+      "Bônus únicos, limites, reset e alertas",
+      "Gabarito e caminhos de mídias",
+      "Consultas básicas da assistente"
+    ]
+  },
+  "preserved": {
+    "engine_sha256": "e20439b3fb06ede78b71cb44db16707e1f8849cf9579c1a4984519ab3e7bc7ce",
+    "key": true,
+    "evidence": 25,
+    "chronology_cards": 6,
+    "identical_media_files": 103
+  },
+  "browser": {
+    "desktop_shortcuts_only": true,
+    "six_taskbar_apps": true,
+    "status_in_taskbar": true,
+    "file_preview_tiles": true,
+    "one_click_reader": true,
+    "notes_update_per_stage": true,
+    "timeline_inside_records_only": true,
+    "chat_bubbles_avatars_footer": true,
+    "chat_context_refresh": true,
+    "draft_minimize_maximize_restore": true,
+    "enter_answers": true,
+    "bonus": true,
+    "key_30s_auto_hide": true,
+    "wrong_and_correct_key_then_film": true
+  },
+  "limitations": [
+    "Navegador de teste bloqueia file://; conferir abertura direta no equipamento do evento.",
+    "Validar percepção dos efeitos sonoros e volume no equipamento do evento."
+  ]
+}

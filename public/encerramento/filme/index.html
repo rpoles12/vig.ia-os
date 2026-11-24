@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>VIG.IA · Reconstituição do incidente</title><link rel="stylesheet" href="estilo.css"><link rel="stylesheet" href="integrado.css"></head>
+<body class="embedded">
+<header><div><span class="brand">VIG.IA</span><span class="divider">/</span><span>RECONSTITUIÇÃO DO INCIDENTE</span></div><span class="preview-tag">MEMÓRIA RECUPERADA · 100%</span></header>
+<main>
+ <section id="player" aria-label="Reconstituição narrada">
+ <div id="viewport"><div id="stage"><div id="scenes"></div><div class="film-header"><span>VIG.IA <b>REGISTROS RECUPERADOS</b></span><span>INTEGRIDADE <strong>100%</strong></span></div><div id="subtitle" aria-live="off"></div></div>
+   <button id="start" class="start"><span class="play-disc">▶</span><strong>Reproduzir reconstituição</strong><small>26 quadros · narração contínua · 4min15s</small></button>
+   <div id="error" role="alert" hidden></div>
+  </div>
+  <div class="controls">
+   <div class="progress-wrap"><input id="seek" type="range" min="0" max="255.08" step="0.01" value="0" aria-label="Posição na reconstituição"></div>
+   <div class="control-row"><div class="control-group"><button id="play" aria-label="Reproduzir">▶</button><button id="back" title="Voltar 10 segundos">−10s</button><button id="forward" title="Avançar 10 segundos">+10s</button><output id="clock">00:00 / 04:15</output></div><span id="chapter-name">Memória recuperada</span><div class="control-group"><button id="cc" aria-pressed="true" title="Legendas da narração">CC</button><button id="mute" aria-label="Silenciar">Som</button><input id="volume" type="range" min="0" max="1" step="0.05" value="1" aria-label="Volume"><button id="fullscreen" aria-label="Tela cheia">⛶</button></div></div>
+  </div>
+ </section>
+ <section class="review"><div><h1>Reconstituição do incidente</h1><p>Narração contínua · duração aproximada: 4min15s</p></div><button id="transcript-toggle" aria-expanded="false">Ler narração</button></section>
+ <nav id="chapters" aria-label="Trechos da reconstituição"></nav>
+ <section id="transcript" hidden aria-label="Transcrição da narração"></section>
+</main>
+<audio id="voice" preload="none" src="../../audio/final_completo.wav"></audio>
+<script src="dados.js"></script><script src="filme.js?v=vig-ia"></script>
+</body></html>

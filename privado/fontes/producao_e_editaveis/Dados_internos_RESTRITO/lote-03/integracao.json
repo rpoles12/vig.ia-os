@@ -1,0 +1,39 @@
+{
+  "F1": {
+    "status": "final_composicao_retratos_ficticios",
+    "available_at": "inicio",
+    "files": [
+      "F1_composicao.jpg",
+      "F1_identificacao.png"
+    ],
+    "final_positions": {
+      "left": "Renata Lima",
+      "center": "Bryan Almeida",
+      "right": "Eduardo Nunes"
+    },
+    "other_people": [
+      "Renata Lima",
+      "Eduardo Nunes"
+    ]
+  },
+  "A17": {
+    "status": "diagramado",
+    "available_at": "inicio",
+    "file": "A17_ficha_projeto.png"
+  },
+  "L1": {
+    "status": "reutilizado_verificado",
+    "available_at": "inicio",
+    "file": "L1_registro_acesso.png"
+  },
+  "V17": {
+    "status": "diagramado",
+    "available_at": "inicio",
+    "file": "V17_manifesto_lote.png"
+  },
+  "N1": {
+    "status": "diagramado",
+    "available_at": "identidade_confirmada",
+    "file": "N1_mensagem_northstar.png"
+  }
+}

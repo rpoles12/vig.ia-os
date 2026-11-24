@@ -1,0 +1,56 @@
+{
+  "A17": {
+    "title": "Ficha do projeto A-17",
+    "project": "A-17",
+    "responsible": "Bryan Almeida",
+    "signature": "BA-17",
+    "description": "BA-17 era a identificação usada por Bryan Almeida nos arquivos de seu projeto estudantil A-17."
+  },
+  "V17": {
+    "title": "Manifesto do Lote V-17",
+    "repository": "Repositório Vértice",
+    "lot": "V-17",
+    "projects": [
+      "Célula robotizada modular",
+      "Sistema de visão de baixo custo",
+      "Controlador de eficiência energética"
+    ],
+    "file_types": [
+      "códigos-fonte",
+      "desenhos técnicos",
+      "esquemas eletrônicos",
+      "listas de componentes",
+      "relatórios de testes"
+    ]
+  },
+  "N1": {
+    "title": "Proposta recebida",
+    "from": "NORTHSTAR",
+    "to": "Bryan Almeida",
+    "offer_brl": 15000,
+    "text": "Pela cópia completa do Lote V-17 do Repositório Vértice, ofereço R$ 15.000. Preciso do conjunto completo de arquivos dos três projetos.",
+    "payment_confirmed": false
+  },
+  "F1": {
+    "title": "Equipe de Tecnologia 2024",
+    "year": 2024,
+    "confirmed_person": "Bryan Almeida",
+    "status": "final_composicao_retratos_ficticios",
+    "final_positions": {
+      "left": "Renata Lima",
+      "center": "Bryan Almeida",
+      "right": "Eduardo Nunes"
+    },
+    "other_people": [
+      "Renata Lima",
+      "Eduardo Nunes"
+    ]
+  },
+  "L1": {
+    "title": "Registro de acesso",
+    "session_time": "22:36",
+    "account": "RV-MANUT",
+    "recovered_signature": "B_A_17",
+    "origin": "PERFIL LEGADO"
+  }
+}

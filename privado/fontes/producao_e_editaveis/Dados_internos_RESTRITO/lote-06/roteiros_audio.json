@@ -1,0 +1,17 @@
+{
+  "status":"Texto pronto para produção de voz no lote 7; não há áudio gravado neste lote.",
+  "clips":[
+    {"id":"audio01","unlock":"inicio","target_seconds":10,"speaker":"VIGIA/3","text":"VIGIA três iniciada. Memória disponível: oito por cento. Último acesso confiável: vinte e duas horas e trinta e um minutos. Identifique o perfil legado."},
+    {"id":"audio02","unlock":"identidade_confirmada","target_seconds":9,"speaker":"VIGIA/3","text":"Identidade confirmada. Memória disponível: trinta e quatro por cento. Um acesso físico e um acesso digital foram fornecidos por pessoas diferentes."},
+    {"id":"audio03","unlock":"cronologia_correta","target_seconds_range":[18,22],"segments":[
+      {"type":"sfx","text":"Bip curto de registro."},
+      {"type":"speech","speaker":"VIGIA/3","text":"Registro local: vinte e duas horas e quarenta e seis minutos."},
+      {"type":"sfx","text":"Passos."},
+      {"type":"speech","speaker":"Carlos","text":"Helena, esse crachá é seu."},
+      {"type":"speech","speaker":"Bryan","text":"Se ele chamar alguém, acabou para vocês dois."},
+      {"type":"speech","speaker":"Helena","text":"Carlos, espera."},
+      {"type":"sfx","text":"Movimento curto, impacto sugerido, queda da câmera e silêncio."}
+    ]}
+  ],
+  "production_notes":["Voz principal calma, formal e inteligível.","Durações são referências do roteiro, a ajustar à gravação sem acelerar demais.","Não aplicar glitch a nomes, números ou horários.","Os efeitos não devem mascarar falas.","Legendas sincronizadas VTT/SRT só serão temporizadas após existir mídia final.","Não adicionar gritos prolongados nem som gráfico."]
+}

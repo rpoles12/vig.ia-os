@@ -1,0 +1,214 @@
+{
+  "M1": {
+    "title": "Conversa Bryan / Marcelo",
+    "messages": [
+      {
+        "from": "Bryan Almeida",
+        "text": "NF-318, NF-318B e mais quatro reembolsos. Total: 3.840. Abra RV-MANUT às 18:10, aponte para Vértice/V-17 e desligue o alerta de rede por seis minutos. Ou a auditoria recebe a planilha."
+      },
+      {
+        "from": "Marcelo Vieira",
+        "text": "A conta expira hoje. Não vou entrar na escola. Isso termina aqui."
+      }
+    ]
+  },
+  "FIN02": {
+    "title": "Resumo de reembolsos",
+    "requester": "Marcelo Vieira",
+    "records": [
+      {
+        "id": "NF-318",
+        "issue_day_month": "03/08",
+        "service_reference": "OS-078",
+        "service": "Revisão de estações de trabalho",
+        "amount_brl": 720,
+        "pair": "NF-318B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-318B",
+        "issue_day_month": "04/08",
+        "service_reference": "OS-078",
+        "service": "Revisão de estações de trabalho",
+        "amount_brl": 720,
+        "pair": "NF-318",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-427",
+        "issue_day_month": "07/08",
+        "service_reference": "OS-083",
+        "service": "Substituição de cabos e conectores",
+        "amount_brl": 560,
+        "pair": "NF-427B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-427B",
+        "issue_day_month": "08/08",
+        "service_reference": "OS-083",
+        "service": "Substituição de cabos e conectores",
+        "amount_brl": 560,
+        "pair": "NF-427",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-512",
+        "issue_day_month": "11/08",
+        "service_reference": "OS-091",
+        "service": "Manutenção de equipamento de rede",
+        "amount_brl": 640,
+        "pair": "NF-512B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-512B",
+        "issue_day_month": "12/08",
+        "service_reference": "OS-091",
+        "service": "Manutenção de equipamento de rede",
+        "amount_brl": 640,
+        "pair": "NF-512",
+        "service_authorized": false,
+        "service_executed": false
+      }
+    ],
+    "total_brl": 3840,
+    "finding": "Três serviços sem autorização e sem execução, apresentados duas vezes. Todos os seis reembolsos são irregulares."
+  },
+  "RVM": {
+    "title": "Auditoria RV-MANUT",
+    "creator": "Marcelo Vieira",
+    "creation_time": "18:10",
+    "account": "RV-MANUT",
+    "repository_path": "Vértice/V-17",
+    "alert_reduction_minutes": 6,
+    "alert_window_start": null,
+    "local_motion_sensor": "Não alterado",
+    "end_time": "22:54",
+    "operation_origin": "Remota"
+  },
+  "AL": {
+    "title": "Verificação de presença",
+    "person": "Marcelo Vieira",
+    "source": "Registro de videochamada",
+    "scope": "Trecho correspondente ao confronto",
+    "finding": "Marcelo identificado em sua residência durante o confronto.",
+    "access": "Remoto",
+    "media_created": false,
+    "format": "Relatório narrativo fictício; não é captura nem gravação de videochamada"
+  },
+  "APOIO": {
+    "title": "Pessoas e registros",
+    "records": [
+      {
+        "person": "Renata Lima",
+        "source": "Registro de estacionamento",
+        "data": "Saída registrada às 19:42.",
+        "note": "Declaração: saiu antes das 20h."
+      },
+      {
+        "person": "Eduardo Nunes",
+        "source": "Registro de aula on-line",
+        "data": "Aula gravada entre 22:00 e 22:50.",
+        "note": "Docente identificado na gravação da aula."
+      },
+      {
+        "person": "Patrícia Alves",
+        "source": "Perfil de permissões",
+        "data": "Acesso ao laboratório: não autorizado.",
+        "note": "Perfil funcional da secretaria."
+      },
+      {
+        "person": "Lucas Martins",
+        "source": "Ordem de serviço e acesso",
+        "data": "Serviço do sensor encerrado às 17:10.",
+        "note": "Credencial registrada em outra unidade no período investigado."
+      },
+      {
+        "person": "Camila Rocha",
+        "source": "Registro de catraca",
+        "data": "Saída registrada às 18:03.",
+        "note": "Indicou a compra duplicada nos documentos financeiros."
+      },
+      {
+        "person": "Carlos Mendes",
+        "source": "Registro de ronda",
+        "data": "Alerta local recebido às 22:41.",
+        "note": "O sensor de movimento permaneceu ativo."
+      }
+    ]
+  },
+  "FIN01": {
+    "supplier": "Oficina Nexo — fornecedor fictício",
+    "recipient": "Administração escolar — instituição fictícia",
+    "requester": "Marcelo Vieira",
+    "records": [
+      {
+        "id": "NF-318",
+        "issue_day_month": "03/08",
+        "service_reference": "OS-078",
+        "service": "Revisão de estações de trabalho",
+        "amount_brl": 720,
+        "pair": "NF-318B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-318B",
+        "issue_day_month": "04/08",
+        "service_reference": "OS-078",
+        "service": "Revisão de estações de trabalho",
+        "amount_brl": 720,
+        "pair": "NF-318",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-427",
+        "issue_day_month": "07/08",
+        "service_reference": "OS-083",
+        "service": "Substituição de cabos e conectores",
+        "amount_brl": 560,
+        "pair": "NF-427B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-427B",
+        "issue_day_month": "08/08",
+        "service_reference": "OS-083",
+        "service": "Substituição de cabos e conectores",
+        "amount_brl": 560,
+        "pair": "NF-427",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-512",
+        "issue_day_month": "11/08",
+        "service_reference": "OS-091",
+        "service": "Manutenção de equipamento de rede",
+        "amount_brl": 640,
+        "pair": "NF-512B",
+        "service_authorized": false,
+        "service_executed": false
+      },
+      {
+        "id": "NF-512B",
+        "issue_day_month": "12/08",
+        "service_reference": "OS-091",
+        "service": "Manutenção de equipamento de rede",
+        "amount_brl": 640,
+        "pair": "NF-512",
+        "service_authorized": false,
+        "service_executed": false
+      }
+    ],
+    "disclaimer": "Documento cenográfico. Sem valor fiscal."
+  }
+}

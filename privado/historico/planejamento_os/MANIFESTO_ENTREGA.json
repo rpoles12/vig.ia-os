@@ -1,0 +1,101 @@
+{
+  "files": [
+    {
+      "path": "ASSETS_FONTE.json",
+      "bytes": 12473,
+      "sha256": "5c7292ec33cad767e7c73d81368c007d4f9af50efe3b98cd2800d05ee0bbd46b"
+    },
+    {
+      "path": "ASSETS_NECESSARIOS.csv",
+      "bytes": 7532,
+      "sha256": "90194ef36a9bf7dca0da109d92a98d81710fc40ff96199d2e9292a214a08fda8"
+    },
+    {
+      "path": "GERACAO_REFERENCIAS.json",
+      "bytes": 27858,
+      "sha256": "12b61a0a0cd20d9eae68195acab003418a000d5b3643fe5922058b3a2843b90d"
+    },
+    {
+      "path": "imagens/01_area_trabalho.png",
+      "bytes": 1658486,
+      "sha256": "27a7440628d7f100a1885d4e6d4702c4bc925485a547b3532884a6ad897fe2dd"
+    },
+    {
+      "path": "imagens/02_explorador.png",
+      "bytes": 1631128,
+      "sha256": "0a373cbfa54d94452baa8000e1352687901be83070d353e1836662c5589d7b01"
+    },
+    {
+      "path": "imagens/03_ia.png",
+      "bytes": 1705354,
+      "sha256": "e67fc847d519cd927d9684ac8214f4d851c4247ff422cd3af9531c161624d8b0"
+    },
+    {
+      "path": "imagens/04_registros.png",
+      "bytes": 1633596,
+      "sha256": "31526c7fdff33a52ba50a608ac3c58f474665321a3c2bd4ab500b36e0ff7e7b7"
+    },
+    {
+      "path": "imagens/05_cronologia.png",
+      "bytes": 1763808,
+      "sha256": "141d4e1e1fc1714a35dbe9ecf26769f929b3c219628f47479c7020a26106c087"
+    },
+    {
+      "path": "imagens/06_audio.png",
+      "bytes": 1599226,
+      "sha256": "282cd31cdef4983e025ce74072e648f7e2f174a457907ee3be15415a47371ce9"
+    },
+    {
+      "path": "imagens/07_progressao.png",
+      "bytes": 1744750,
+      "sha256": "7501529e5722586ddf90945d1899929ec3a9b1ea1a8a4bfc2e5ca6a2e44011f7"
+    },
+    {
+      "path": "imagens/08_icones.png",
+      "bytes": 1388722,
+      "sha256": "4f461e6739a8907e5c38cd6ced2302edeb5ff2419ef4f79f1356c6f8304b72b9"
+    },
+    {
+      "path": "imagens/09_falha.png",
+      "bytes": 1539666,
+      "sha256": "9b90d69996d8c83f41a809cacd5b3d21467838ed376d0b6778c29b742ab99448"
+    },
+    {
+      "path": "imagens/10_fluxo_final.png",
+      "bytes": 1700990,
+      "sha256": "30337b91165e1487fe9de8a2f53f8009960afb986ea0c1376ef6e7520c663c6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51857,
+      "sha256": "817fbf3f26fff1f0bbb71f2db88f3b1dcdb293108b4530e424b7e6cc414f8950"
+    },
+    {
+      "path": "LEIA_PRIMEIRO.md",
+      "bytes": 1376,
+      "sha256": "6246dc30821397c2dc57e8204217a1e28cae9dce34a57e77a4a7f5b60fd9c314"
+    },
+    {
+      "path": "ROTEIRO_IMPLEMENTACAO.md",
+      "bytes": 28184,
+      "sha256": "2ee7a5052c6c016596dfdce4311774c31f761ab654364f39828364a7359af4da"
+    },
+    {
+      "path": "VERIFICACAO.json",
+      "bytes": 430,
+      "sha256": "47133e8859ca920d91fadbfe5530f305e2ab53bdc80e91e67e057bcf0bcb8b60"
+    }
+  ],
+  "pdf": {
+    "path": "../pdf/VIGIA_OS_Roteiro_e_Referencias.pdf",
+    "pages": 31,
+    "sha256": "e90b01eb7c073feee9a6a6b53684eb60b4665287db2a19704a30265abb572314"
+  },
+  "checks": {
+    "missing_links": [],
+    "bad_anchors": [],
+    "csv_groups": 45,
+    "png_count": 10,
+    "rendered_pages": 31
+  }
+}

@@ -1,0 +1,21 @@
+#time-up{isolation:isolate;padding:0;overflow:hidden;background:#020307;color:#c7e0d8;font-family:Consolas,'Courier New',monospace;cursor:none}
+#time-up:not([hidden]){display:block}
+#time-up:not([hidden]),#time-up:not([hidden]) *{cursor:none!important}
+#time-up .sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.failure-raster,.failure-errors,.failure-lcd-bleed,.failure-lcd-stripes,.failure-glass,.failure-scanlines{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.failure-raster{z-index:0;opacity:.9}
+.failure-errors{z-index:1;overflow:hidden;filter:contrast(1.15)}
+.failure-errors pre{position:absolute;max-width:45vw;margin:0;padding:7px 5px;color:#9de8c9;text-shadow:-2px 0 #e75a9566,2px 0 #47dcec44;line-height:1.5;letter-spacing:.7px;white-space:pre;opacity:.72;background:linear-gradient(90deg,#020509a3,#02050933);border-top:1px solid #74ccad38}
+.failure-errors pre:nth-child(3n){color:#d48ef3;opacity:.85;transform:skewX(-4deg)}
+.failure-errors pre:nth-child(4n){color:#ff7d94;text-shadow:3px 1px #463a86;background:#16040c88;border-color:#ff678849}
+.failure-errors pre:nth-child(7n){color:#d9dfde;filter:blur(.6px);font-size:20px!important;opacity:.45;letter-spacing:2px}
+.failure-lcd-bleed{z-index:2;background:radial-gradient(ellipse 17% 30% at 16% 37%,#000 0 14%,#040008eb 30%,#08040a88 49%,transparent 72%),radial-gradient(ellipse 20% 28% at 79% 73%,#000 0 17%,#040008eb 29%,#08040a99 48%,transparent 70%),linear-gradient(0deg,transparent 0 22%,#1d183b66 22% 24%,transparent 25% 61%,#000a 61% 64%,transparent 65%)}
+.failure-lcd-stripes{z-index:3;opacity:.55;background:repeating-linear-gradient(90deg,transparent 0 5px,#1ce1d440 5px 6px,transparent 6px 8px,#e4409566 8px 9px,transparent 9px 12px,#9b64ed66 12px 13px);clip-path:polygon(15% 0,22% 0,22% 34%,31% 56%,23% 45%,22% 100%,17% 100%,17% 41%,9% 17%,15% 27%);filter:drop-shadow(3px 0 #dc5186);animation:crash-lines 4s steps(5,end) infinite}
+.failure-lcd-stripes:after{content:'';position:absolute;inset:0;background:repeating-linear-gradient(0deg,#b26ce42e 0 1px,transparent 1px 4px)}
+.failure-glass{z-index:4;opacity:.91;animation:crash-fracture .6s cubic-bezier(.1,.7,.1,1) both;filter:drop-shadow(1px 0 0 #a87ce060) drop-shadow(-1px 1px 0 #70cecc30)}
+.failure-glass img{width:100%;height:100%;object-fit:fill;user-select:none;-webkit-user-drag:none}
+.failure-scanlines{z-index:5;opacity:.2;background:repeating-linear-gradient(0deg,#0000 0 2px,#000b 2px 4px);box-shadow:inset 0 0 90px #000c}
+@keyframes crash-fracture{0%{opacity:0;transform:scale(1.035)}18%{opacity:.97;transform:scale(1.006) translateX(3px)}43%{transform:scale(1.002) translateX(-2px)}100%{opacity:.91;transform:none}}
+@keyframes crash-lines{0%,100%{transform:translateX(0)}35%{transform:translateX(6px)}70%{transform:translateX(-4px)}}
+@media(max-width:600px){.failure-errors pre{max-width:70vw;font-size:10px!important;line-height:1.7}.failure-glass{opacity:.83}.failure-lcd-stripes{opacity:.4}}
+@media(prefers-reduced-motion:reduce){.failure-glass,.failure-lcd-stripes{animation:none}}

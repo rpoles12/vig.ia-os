@@ -1,0 +1,14 @@
+{
+  "before_end": {
+    "timer": "00:30",
+    "active": true,
+    "fullscreen": true
+  },
+  "result": "passed",
+  "checks": 37,
+  "console_errors": [],
+  "actual_first_play_reaches_end": true,
+  "reset_requires_first_play_again": true,
+  "replay_keeps_countdown_running": true,
+  "media_error_keeps_time_frozen": true
+}

@@ -1,0 +1,228 @@
+{
+  "conferido_em": "2026-11-12",
+  "sistema": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE",
+  "wav_count": 16,
+  "wav_interface": 11,
+  "wav_auxiliares": 5,
+  "temas_vigia": 17,
+  "dicas_progressivas": 12,
+  "avisos_temporizados": 5,
+  "motor_mensagens": [
+    "Confirme a hipótese na ficha A-17 do arquivo estudantil.",
+    "Identidade incompatível com o perfil legado. Compare o Log L1 com o arquivo estudantil.",
+    "IDENTIDADE CONFIRMADA",
+    "Confirme primeiro a identidade do perfil legado.",
+    "Uma porta e um servidor exigem acessos diferentes. Compare as duas trilhas.",
+    "ACESSOS CONFIRMADOS",
+    "Associe primeiro os acessos físico e digital.",
+    "Sequência inconsistente. Compare os horários e a interrupção da câmera.",
+    "OUÇA O FRAGMENTO 03",
+    "Fragmento 03 bloqueado. Reconstrua a sequência.",
+    "Consulte o minuto anunciado e o último registro da câmera.",
+    "Consulte o Fragmento 03 antes de concluir o protocolo.",
+    "Identidade inconsistente com o arquivo estudantil.",
+    "Credencial inconsistente. Compare o crachá com a catraca.",
+    "22:47 corresponde ao fim da cópia. Compare o áudio com a câmera.",
+    "Horário inconsistente. Compare o áudio com a câmera.",
+    "PROTOCOLO CONFIRMADO",
+    "Conclua a etapa anterior antes de consultar esta dica.",
+    "Esta etapa já foi confirmada."
+  ],
+  "orientacoes_interface": [
+    "Fragmento 03 · Registro interrompido",
+    "Aguardando correlação de identidade.",
+    "Protocolo confirmado. Consulte a reconstituição documental.",
+    "Correlacione identidade, credencial e minuto crítico.",
+    "Compare o Fragmento 03 com o último registro da câmera.",
+    "Ordene os seis registros na cronologia do incidente.",
+    "Uma credencial física e uma conta digital. Consulte os registros recuperados.",
+    "Compare o Log L1 com o arquivo estudantil.",
+    "Concluir identidade, credencial e horário",
+    "Registrar suas próximas conclusões",
+    "Informe a identidade do perfil legado",
+    " Solicite apoio de correlação na VIGIA/3.",
+    "REGISTRO BLOQUEADO · Confirme as correlações anteriores.",
+    "Registro visual indisponível. Solicite verificação à equipe.",
+    "FRAGMENTO CONSULTADO · Compare a câmera e registre suas respostas.",
+    "Áudio indisponível. Consulte a transcrição do registro.",
+    "Falha na leitura do áudio. A transcrição permanece disponível.",
+    "ANÁLISE INICIADA · Consulte o Log L1 e o arquivo estudantil.",
+    "JANELA DE ANÁLISE ENCERRADA · As correlações permanecem disponíveis.",
+    "Arraste os cartões para ordenar os registros. As setas também movem uma posição. Leia da esquerda para a direita, de cima para baixo."
+  ],
+  "transcricoes": {
+    "audio01": "VIGIA três iniciada. Memória disponível: oito por cento. Último acesso confiável: 22:31. Identifique o perfil legado.",
+    "audio02": "Identidade confirmada. Memória disponível: trinta e quatro por cento. Um acesso físico e um acesso digital foram fornecidos por pessoas diferentes.",
+    "audio03": "[Bip]\nVIGIA/3: Registro local: 22:46.\n[Passos]\nCarlos: Helena, esse crachá é seu.\nBryan: Se ele chamar alguém, acabou para vocês dois.\nHelena: Carlos, espera.\n[Movimento, impacto sugerido, interrupção e silêncio.]"
+  },
+  "audios": [
+    {
+      "file": "audio01.wav",
+      "seconds": 14.747,
+      "sha256": "32dc2986c31aea3a8ba9cd52860592e79c64c18ddf6859dabd0079295964404b",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "audio02.wav",
+      "seconds": 13.407,
+      "sha256": "4156481d9928048871baea5dce67c257231b4247dc05089391ac4d9e1ef3fda4",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "audio03.wav",
+      "seconds": 18.09,
+      "sha256": "24f8b3e286438e085b272fc258dfd252fb5e5ff98e4c64f4510a99037f13b25e",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final01.wav",
+      "seconds": 14.472,
+      "sha256": "86cfada44d858bdbb33eb79e77bc972d7b4be1395a51652811a12cc13b35923a",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final02.wav",
+      "seconds": 16.591,
+      "sha256": "4ee338019d94bb67054de40a8a2cf218485bb7ce9a590cb14a770ea5f6d5bb99",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final03.wav",
+      "seconds": 14.336,
+      "sha256": "980b06b9cc42bea8af47321edd9105e2609bc01f1d7ab862612a07bb7efa3e09",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final04.wav",
+      "seconds": 16.707,
+      "sha256": "9b69ddacc687736019bbbdc7b45b5d0fcf2dceed530ced7b57e10f12b8dd1ccd",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final05.wav",
+      "seconds": 15.892,
+      "sha256": "3a2356adcd4ef99daadd5f3fa20bdee6b6c6f3510aee187b54248469a1e849a3",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final06.wav",
+      "seconds": 17.476,
+      "sha256": "a86021c3e4aa07c282c075641c25f708863e6354bf66b9c5947bbe2929cb6cf7",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final07.wav",
+      "seconds": 16.287,
+      "sha256": "fe4aacf701c1807f683434dac0ccb884da7a270e4cf4c0fcdd5018ca9bef8eac",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final08.wav",
+      "seconds": 15.396,
+      "sha256": "987dda4a0c94901abf8a75366d86fe1acc72c0a684778ddc6a77d1734f0fe573",
+      "usage": "Reprodução na interface"
+    },
+    {
+      "file": "final_completo.wav",
+      "seconds": 127.157,
+      "sha256": "a88529a0c9d9ad802fe9b6772d32b901fc62e9289a3a4224c1b1b1434d36d259",
+      "usage": "Auxiliar"
+    },
+    {
+      "file": "frag_bryan.wav",
+      "seconds": 4.104,
+      "sha256": "5fb5631f661687902a1bf7bbcac7924cbf0e07fe26fbdb00c7aaac356b2936e6",
+      "usage": "Auxiliar"
+    },
+    {
+      "file": "frag_carlos.wav",
+      "seconds": 2.864,
+      "sha256": "533d714bdec3619b1acd2c5c6416016a4fde6199ab428ce778a1dac0bc6b675f",
+      "usage": "Auxiliar"
+    },
+    {
+      "file": "frag_helena.wav",
+      "seconds": 2.444,
+      "sha256": "2179f348721bfd612c20d8b429eec122b6c36bc71523b57387c3660f37472c80",
+      "usage": "Auxiliar"
+    },
+    {
+      "file": "frag_vigia.wav",
+      "seconds": 5.359,
+      "sha256": "97609520682bbc1bb0e76aaf6ea8fe3f43a39356f9520e652b37314fa67f0245",
+      "usage": "Auxiliar"
+    }
+  ],
+  "fonte_falas_sonoras": [
+    [
+      "audio01",
+      "Microsoft Maria Desktop",
+      "VIGIA três iniciada. Memória disponível: oito por cento. Último acesso confiável: vinte e duas horas e trinta e um minutos. Identifique o perfil legado."
+    ],
+    [
+      "audio02",
+      "Microsoft Maria Desktop",
+      "Identidade confirmada. Memória disponível: trinta e quatro por cento. Um acesso físico e um acesso digital foram fornecidos por pessoas diferentes."
+    ],
+    [
+      "frag_vigia",
+      "Microsoft Maria Desktop",
+      "Registro local: vinte e duas horas e quarenta e seis minutos."
+    ],
+    [
+      "frag_carlos",
+      "Microsoft Daniel",
+      "Helena, esse crachá é seu."
+    ],
+    [
+      "frag_bryan",
+      "Microsoft Daniel",
+      "Se ele chamar alguém, acabou para vocês dois."
+    ],
+    [
+      "frag_helena",
+      "Microsoft Maria Desktop",
+      "Carlos, espera."
+    ],
+    [
+      "final01",
+      "Microsoft Maria Desktop",
+      "Bryan Almeida planejou o roubo do banco de projetos tecnológicos Vértice. A NORTHSTAR ofereceu quinze mil reais pelo lote V dezessete. A oferta não comprova pagamento."
+    ],
+    [
+      "final02",
+      "Microsoft Maria Desktop",
+      "Bryan coagiu Helena com o uso indevido do laboratório por seu sobrinho Rafael. Ela forneceu o crachá dois oito quatro sete. Marcelo, técnico de TI, foi pressionado com provas de fraude financeira."
+    ],
+    [
+      "final03",
+      "Microsoft Maria Desktop",
+      "Marcelo criou remotamente a conta RV MANUT às dezoito e dez. Bryan entrou às vinte e duas e trinta e um, iniciou a sessão às vinte e duas e trinta e seis e começou a cópia dois minutos depois."
+    ],
+    [
+      "final04",
+      "Microsoft Maria Desktop",
+      "A redução dos alertas de rede não desativou o sensor local. Às vinte e duas e quarenta e um, Carlos recebeu o alerta. Helena retornou às quarenta e três. Carlos entrou na sala no minuto seguinte."
+    ],
+    [
+      "final05",
+      "Microsoft Maria Desktop",
+      "Bryan pressionou Helena durante o confronto. Ela empurrou Carlos para fazê-lo soltar Bryan. Carlos caiu contra a bancada e morreu. Helena era vítima de chantagem e também causou a morte."
+    ],
+    [
+      "final06",
+      "Microsoft Maria Desktop",
+      "A câmera parou às vinte e duas, quarenta e seis e trinta e dois segundos. Bryan concluiu a cópia às quarenta e sete, corrompeu os registros e saiu às quarenta e nove. Helena fez uma ligação anônima às cinquenta e dois."
+    ],
+    [
+      "final07",
+      "Microsoft Maria Desktop",
+      "Marcelo desativou a conta às vinte e duas e cinquenta e quatro. Sua colaboração foi remota e coagida. Bryan foi o principal articulador do crime. A responsabilidade de cada um não é a mesma."
+    ],
+    [
+      "final08",
+      "Microsoft Maria Desktop",
+      "Identidade, credencial e horário convergiram para o protocolo BA dezessete, dois oito quatro sete, dois dois quatro seis. Vocês reconstruíram o que os registros isolados não explicavam."
+    ]
+  ]
+}

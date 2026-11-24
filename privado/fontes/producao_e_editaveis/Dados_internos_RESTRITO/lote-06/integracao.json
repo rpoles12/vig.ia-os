@@ -1,0 +1,89 @@
+{
+  "files": [
+    {
+      "id": "T1_k7",
+      "file": "imagens/cartoes/T1_k7.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T1_m2",
+      "file": "imagens/cartoes/T1_m2.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T1_q8",
+      "file": "imagens/cartoes/T1_q8.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T1_r4",
+      "file": "imagens/cartoes/T1_r4.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T1_v9",
+      "file": "imagens/cartoes/T1_v9.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T1_b6",
+      "file": "imagens/cartoes/T1_b6.png",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "id": "T2",
+      "file": "imagens/T2_fragmento_recuperado.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "CAM01",
+      "file": "imagens/CAM01_interrupcao_camera.png",
+      "dimensions": [
+        1654,
+        2339
+      ]
+    },
+    {
+      "id": "PROTOCOLO",
+      "file": "imagens/protocolo_final_vazio.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "availability": {
+    "T1_*": "acessos_confirmados",
+    "T2": "cronologia_correta",
+    "CAM01": "cronologia_correta",
+    "audio03_e_transcricao": "cronologia_correta",
+    "PROTOCOLO": "fragmento03_consultado"
+  },
+  "notes": [
+    "Embaralhar os seis cartões a cada rodada. IDs opacos e sem numeração de ordem.",
+    "Não expor horário crítico em título, miniatura, nome de arquivo do cartão ou texto alternativo.",
+    "CAM01 só aparece após ordenar; não é uma captura de vídeo.",
+    "O formulário é montado com texto e campos reais. O PNG é referência de aparência."
+  ]
+}

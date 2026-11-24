@@ -1,0 +1,18 @@
+{
+  "data": "2026-11-17",
+  "alteracao": "Pistas de horário, placeholders e código em modal de exibição única",
+  "testes_browser": [
+    "T3 disponível e aberto antes da cronologia correta",
+    "T3 no meio das sugestões após ordem incorreta",
+    "placeholders Nome Sobrenome e Ex 1234",
+    "erro 22:47 indica confronto no T3",
+    "modal central, código e botão inicialmente desabilitado",
+    "Esc mantém o modal aberto",
+    "checkbox habilita confirmação",
+    "confirmar apaga texto do código",
+    "Arquivo → Respostas não reexibe código",
+    "reset confirmado volta ao início"
+  ],
+  "teste_som": "Agendamento de seis tons e preferência de silêncio conferidos por simulação da Web Audio API. Audição e volume no equipamento definitivo pendentes.",
+  "limites": "Prévia HTTP local. File://, toque e equipamento definitivo sujeitos a homologação."
+}

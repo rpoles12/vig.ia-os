@@ -1,0 +1,58 @@
+{
+  "C1": {
+    "title": "Registro de catraca",
+    "time": "22:31",
+    "credential": "2847",
+    "holder": "Helena Duarte",
+    "entry": "Porta lateral",
+    "result": "Entrada aceita",
+    "note": "O registro identifica a credencial utilizada. Não confirma quem a portava."
+  },
+  "H1": {
+    "title": "Conversa recuperada",
+    "participants": [
+      "Bryan Almeida",
+      "Helena Duarte"
+    ],
+    "messages": [
+      {
+        "from": "Bryan Almeida",
+        "text": "Tenho as imagens de Rafael no laboratório e os dois acessos feitos no seu crachá. Amanhã a direção recebe tudo. Deixe o 2847 disponível às 22:28. Eu devolvo hoje."
+      },
+      {
+        "from": "Helena Duarte",
+        "text": "Ele só precisava terminar o protótipo. Pegue e devolva. Não envolva meu sobrinho."
+      },
+      {
+        "from": "Helena Duarte",
+        "text": "Bryan, devolva meu crachá hoje."
+      }
+    ]
+  },
+  "R1": {
+    "title": "Entradas anteriores",
+    "credential": "2847",
+    "holder": "Helena Duarte",
+    "place": "Laboratório",
+    "records": [
+      {
+        "day_month": "12/08",
+        "year": null,
+        "time": null,
+        "period": "Fora do horário autorizado"
+      },
+      {
+        "day_month": "19/08",
+        "year": null,
+        "time": null,
+        "period": "Fora do horário autorizado"
+      }
+    ]
+  },
+  "R2": {
+    "title": "Mensagem familiar",
+    "from": "Rafael Duarte",
+    "to": "Helena Duarte",
+    "text": "Tia, obrigado por emprestar o crachá nos dias 12/08 e 19/08. Consegui terminar o protótipo no laboratório."
+  }
+}

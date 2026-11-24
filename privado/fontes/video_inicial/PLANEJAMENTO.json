@@ -1,0 +1,162 @@
+{
+  "duration": 100,
+  "base_duration": 166,
+  "saved_seconds": 66,
+  "preserved": [
+    "incidente e desafio",
+    "prazo de apagamento",
+    "painel, pastas e crachá escondidos",
+    "navegação e barra",
+    "consulta, pesquisa e zoom",
+    "áudio e transcrição",
+    "chat e memória da IA",
+    "envio por Enter e orientação dos erros",
+    "arrasto e validação",
+    "objetivo, tempo, memória e bônus configurável",
+    "anotação da chave e recapitulação"
+  ],
+  "motion": [
+    "manchetes em camadas e rotação",
+    "cartões físicos independentes",
+    "dados em trajetórias distintas",
+    "tipografia em sequência",
+    "câmera se aproxima e retorna nos apps",
+    "gravações sem pausas finais",
+    "legendas de ação com entrada e saída",
+    "transição da chave para o desafio final"
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0,
+      "duration": 6,
+      "kind": "headlines",
+      "title": "Um incidente. Muitas perguntas.",
+      "label": "O INCIDENTE",
+      "body": "Os fatos ainda precisam ser reconstruídos.",
+      "voice": "Incidente no Vértice. Arquivos danificados. Sua equipe precisa descobrir o que aconteceu.",
+      "short_title": "O incidente"
+    },
+    {
+      "id": 2,
+      "start": 6,
+      "duration": 5,
+      "kind": "data",
+      "title": "O tempo está correndo.",
+      "label": "REGISTROS COMPROMETIDOS",
+      "body": "Recuperar os dados é apenas o começo.",
+      "voice": "Os dados serão apagados ao fim do prazo. Acompanhem o relógio.",
+      "short_title": "O prazo"
+    },
+    {
+      "id": 3,
+      "start": 11,
+      "duration": 3,
+      "kind": "mission",
+      "title": "O ARQUIVO\nCORROMPIDO",
+      "label": "SUA MISSÃO",
+      "body": "Investigue. Compare. Reconstrua.",
+      "voice": "Investiguem. Comparem evidências. Reconstruam os fatos.",
+      "short_title": "A missão"
+    },
+    {
+      "id": 12,
+      "start": 14,
+      "duration": 11,
+      "kind": "physical",
+      "title": "A sala também\nfaz parte do caso.",
+      "label": "INVESTIGAÇÃO FÍSICA",
+      "body": "Consulte o painel de funcionários.\nProcure as pastas e o crachá escondidos.\nCompare com os registros do OS.",
+      "voice": "Consultem o painel de funcionários. Procurem as pastas e o crachá escondidos na sala. Comparem esses materiais com os registros do computador.",
+      "short_title": "Explore a sala"
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "duration": 8,
+      "kind": "desktop",
+      "title": "Tudo começa\nna área de trabalho.",
+      "label": "01 / NAVEGAÇÃO",
+      "body": "Abra os aplicativos.\nMinimize as janelas.\nVolte pela barra de tarefas.",
+      "voice": "Abram os aplicativos pelos ícones. Minimizem as janelas e voltem a elas pela barra de tarefas.",
+      "short_title": "Navegue pelo OS"
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "duration": 11,
+      "kind": "files",
+      "title": "Abra. Leia.\nCompare.",
+      "label": "02 / ARQUIVOS",
+      "body": "Pesquise os registros.\nAbra as prévias.\nAmplie os detalhes.",
+      "voice": "No Explorador, pesquisem e abram os documentos. Ampliem os detalhes e comparem as informações entre arquivos e materiais da sala.",
+      "short_title": "Consulte os arquivos"
+    },
+    {
+      "id": 6,
+      "start": 44,
+      "duration": 9,
+      "kind": "media",
+      "title": "Ouça os\nfragmentos.",
+      "label": "03 / ÁUDIOS",
+      "body": "Reproduza e pause.\nVolte a um trecho.\nConsulte a transcrição.",
+      "voice": "No player, reproduzam, pausem ou voltem a um trecho. Usem a transcrição e os controles da barra de tarefas.",
+      "short_title": "Ouça os registros"
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "duration": 12,
+      "kind": "vigia",
+      "title": "Converse com\na VIG.IA.",
+      "label": "04 / ASSISTENTE",
+      "body": "Pergunte onde procurar.\nPeça ajuda para comparar.\nA memória amplia o apoio.",
+      "voice": "Peçam ajuda à VIGIA: onde procurar ou como comparar informações. Digitem e enviem. Quanto mais memória recuperada, mais completas serão as orientações.",
+      "short_title": "Converse com a VIG.IA"
+    },
+    {
+      "id": 8,
+      "start": 65,
+      "duration": 11,
+      "kind": "solve",
+      "title": "Transforme pistas\nem conclusões.",
+      "label": "05 / REGISTROS",
+      "body": "Preencha o campo.\nEnvie pelo botão ou Enter.\nObserve as orientações.",
+      "voice": "Em Registros, preencham a resposta e enviem pelo botão ou Enter. Se errarem, sigam a orientação e consultem os documentos indicados.",
+      "short_title": "Registre as conclusões"
+    },
+    {
+      "id": 9,
+      "start": 76,
+      "duration": 8,
+      "kind": "timeline",
+      "title": "Coloque os fatos\nem sequência.",
+      "label": "06 / CRONOLOGIA",
+      "body": "Segure um cartão.\nArraste e solte.\nConfira antes de validar.",
+      "voice": "Na cronologia, arrastem os cartões do primeiro ao último evento. Confiram a ordem antes de validar.",
+      "short_title": "Organize a cronologia"
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "duration": 8,
+      "kind": "notes",
+      "title": "Saiba qual é\no próximo passo.",
+      "label": "07 / ACOMPANHAMENTO",
+      "body": "Consulte o arquivo de dicas.\nAcompanhe tempo e memória.\nSepare papel e caneta.",
+      "voice": "Próximos passos mostra o objetivo atual. Acompanhem tempo e memória. Separem papel e caneta para anotações.",
+      "short_title": "Acompanhe a investigação"
+    },
+    {
+      "id": 11,
+      "start": 92,
+      "duration": 8,
+      "kind": "end",
+      "title": "A investigação\ncomeça agora.",
+      "label": "VIG.IA OS",
+      "body": "Vocês conseguem reconstruir o que aconteceu?",
+      "voice": "Anotem a chave quando aparecer. Ela libera a recapitulação. Os arquivos estão nas suas mãos. Comecem a investigação.",
+      "short_title": "A investigação começa agora"
+    }
+  ]
+}

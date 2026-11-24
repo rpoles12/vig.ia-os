@@ -1,0 +1,83 @@
+{
+  "files": [
+    {
+      "id": "M1",
+      "file": "M1_conversa_bryan_marcelo.png",
+      "title": "Conversa Bryan / Marcelo",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-318",
+      "file": "FIN01_NF_318.png",
+      "title": "NF-318 — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-318B",
+      "file": "FIN01_NF_318B.png",
+      "title": "NF-318B — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-427",
+      "file": "FIN01_NF_427.png",
+      "title": "NF-427 — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-427B",
+      "file": "FIN01_NF_427B.png",
+      "title": "NF-427B — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-512",
+      "file": "FIN01_NF_512.png",
+      "title": "NF-512 — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "NF-512B",
+      "file": "FIN01_NF_512B.png",
+      "title": "NF-512B — serviço declarado",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "FIN02",
+      "file": "FIN02_resumo_financeiro.png",
+      "title": "Resumo financeiro",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "RVM",
+      "file": "RVM_auditoria_conta.png",
+      "title": "Auditoria RV-MANUT",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "AL",
+      "file": "AL_relatorio_presenca_remota.png",
+      "title": "Verificação de presença",
+      "available_at": "identidade_confirmada"
+    },
+    {
+      "id": "APOIO1",
+      "file": "APOIO_01_pessoas_registros.png",
+      "title": "Dossiê de apoio — 1",
+      "available_at": "inicio"
+    },
+    {
+      "id": "APOIO2",
+      "file": "APOIO_02_pessoas_registros.png",
+      "title": "Dossiê de apoio — 2",
+      "available_at": "inicio"
+    },
+    {
+      "id": "APOIO3",
+      "file": "APOIO_03_pessoas_registros.png",
+      "title": "Dossiê de apoio — 3",
+      "available_at": "inicio"
+    }
+  ],
+  "note": "Os seis comprovantes podem abrir como um único conjunto. Resumo visível evita exigir soma como gargalo. AL é relatório textual, não vídeo."
+}

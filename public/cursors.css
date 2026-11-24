@@ -1,0 +1,18 @@
+/* Local 32px transparent PNGs. Explicit hotspots and native fallbacks. */
+:root{--cursor-default:url("assets/os/cursors/default.png") 3 2,default;--cursor-pointer:url("assets/os/cursors/pointer.png") 12 3,pointer;--cursor-text:url("assets/os/cursors/text.png") 16 16,text;--cursor-grab:url("assets/os/cursors/grab.png") 16 16,grab;--cursor-grabbing:url("assets/os/cursors/grabbing.png") 16 17,grabbing;--cursor-resize:url("assets/os/cursors/resize-nwse.png") 16 16,nwse-resize;--cursor-blocked:url("assets/os/cursors/not-allowed.png") 16 16,not-allowed;--cursor-wait:url("assets/os/cursors/wait.png") 2 2,progress;--cursor-zoom-in:url("assets/os/cursors/zoom-in.png") 13 13,zoom-in;--cursor-zoom-out:url("assets/os/cursors/zoom-out.png") 13 13,zoom-out;--cursor-help:url("assets/os/cursors/help.png") 2 2,help}
+html,body{cursor:var(--cursor-default)}
+button,a[href],summary,.button,[role="button"],[role="checkbox"],input[type="range"],input[type="checkbox"],input[type="radio"]{cursor:var(--cursor-pointer)}
+input:not([type="range"]):not([type="checkbox"]):not([type="radio"]):not([type="button"]):not([type="submit"]),textarea,[contenteditable="true"]{cursor:var(--cursor-text)}
+.os-titlebar,#cards li,#cards .drag-handle{cursor:var(--cursor-grab)}
+.os-titlebar:active,#cards li:active,#cards .drag-handle:active{cursor:var(--cursor-grabbing)}
+.os-window.is-maximized .os-titlebar{cursor:var(--cursor-default)}
+.os-titlebar .os-window-controls button,#cards .event-controls button{cursor:var(--cursor-pointer)}
+.os-window .os-resize{cursor:var(--cursor-resize)}
+#zoom-in{cursor:var(--cursor-zoom-in)}#zoom-out{cursor:var(--cursor-zoom-out)}
+#chat-capabilities{cursor:var(--cursor-help)}
+button:disabled,input:disabled,[aria-disabled="true"],#cards .event-controls button:disabled{cursor:var(--cursor-blocked)}
+[aria-busy="true"]{cursor:var(--cursor-wait)}
+body.is-reordering,body.is-reordering *{cursor:var(--cursor-grabbing)!important}
+
+.os-reader .reader-head{cursor:var(--cursor-default)}
+#zoom-in:disabled,#zoom-out:disabled{cursor:var(--cursor-blocked)}

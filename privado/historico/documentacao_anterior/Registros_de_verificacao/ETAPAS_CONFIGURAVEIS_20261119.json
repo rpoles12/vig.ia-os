@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-19",
+  "changes": [
+    "engine.js",
+    "vigia.js",
+    "desktop.js",
+    "app.js",
+    "session-settings.js",
+    "session-settings.css",
+    "index.html",
+    "VIGIA_OS_LEIA-ME.md",
+    "VIGIA_OS_V2.md"
+  ],
+  "backup": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\etapas_configuraveis_20261119_142933",
+  "browser": {
+    "empty_selection_rejected": true,
+    "two_stage_identity_then_conclusions": true,
+    "only_selected_steps_visible": true,
+    "memory_8_54_100_for_two_stages": true,
+    "only_actual_identity_bonus": true,
+    "two_stage_code_and_entry_and_recap": true,
+    "single_access_starts_without_identity": true,
+    "single_access_ends_with_code_without_final_form": true,
+    "ai_distinguishes_skipped_stages_from_completed": true,
+    "mobile_390x844_selection_and_actions_fit": true,
+    "reload_restores_all_four_stages": true
+  },
+  "stage_tests": {
+    "date": "2026-11-19",
+    "result": "passed",
+    "checks": 596,
+    "combinations": 15,
+    "coverage": [
+      "Todas as combinações não vazias das quatro etapas",
+      "Sequência de pré-requisitos sem bloqueios",
+      "Respostas erradas e etapas excluídas rejeitadas",
+      "Bônus apenas de etapas selecionadas",
+      "Memória proporcional e coerente na VIG.IA",
+      "Geração da mesma chave ao concluir a última etapa",
+      "Reinício preserva seleção e limpa progresso",
+      "Todos os documentos disponíveis no modo somente conclusões"
+    ]
+  },
+  "game": {
+    "date": "2026-11-19",
+    "checks": 116,
+    "result": "passed",
+    "coverage": [
+      "Progressão 8/34/67/100 e catálogo8/23/24/25",
+      "Todas as respostas sem consulta a documentos",
+      "Bônus únicos, limites, reset e alertas",
+      "Gabarito e caminhos de mídias",
+      "Consultas básicas da assistente"
+    ]
+  },
+  "settings": {
+    "date": "2026-11-19",
+    "result": "passed",
+    "checks": 38,
+    "coverage": [
+      "Duração e bônus personalizados",
+      "Bônus desativado e zero",
+      "Acerto único por etapa e expiração",
+      "Limites e valores inválidos",
+      "Reinício mantém configuração e limpa bônus"
+    ]
+  },
+  "preserved": {
+    "key": "BA17-2847-2246",
+    "copy_countdown_seconds": 30,
+    "default_round_seconds": 750,
+    "default_bonus_seconds": 15,
+    "default_stages": "all four",
+    "invisible_grid": true,
+    "transmission_failure": true
+  },
+  "reduced_audio": "Original recordings remain available manually; automatic instructions use text and the assistant."
+}

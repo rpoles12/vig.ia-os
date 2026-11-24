@@ -1,0 +1,74 @@
+[
+  {
+    "id": "final01",
+    "title": "Recuperação completa e parabenização",
+    "text": "Protocolo confirmado. Memória recuperada: cem por cento.\nParabéns! Vocês solucionaram o caso.\nVocês identificaram o invasor, distinguiram as duas formas de acesso e localizaram o momento decisivo do incidente.\nAs conexões que estabeleceram permitiram recuperar os registros corrompidos. Agora posso explicar o que aconteceu, por que cada pessoa se envolveu e como a invasão terminou na morte de Carlos Mendes.",
+    "audio": "../audio/final01.wav",
+    "duration_seconds": 24.979,
+    "start_seconds": 0,
+    "end_seconds": 24.979
+  },
+  {
+    "id": "final02",
+    "title": "O objetivo de Bryan",
+    "text": "Bryan Almeida planejou roubar o banco de projetos tecnológicos do Repositório Vértice.\nA oferta da NORTHSTAR previa quinze mil reais pela cópia completa do lote vê dezessete, composto por três projetos. A motivação de Bryan era financeira: obter os arquivos para negociar sua entrega.\nOs registros comprovam a oferta e a realização da cópia, mas não comprovam pagamento nem entrega ao comprador.\nPara executar o plano, Bryan precisava entrar no prédio e acessar o repositório. Ele conseguiu essas duas coisas por meio de chantagem.",
+    "audio": "../audio/final02.wav",
+    "duration_seconds": 31.459,
+    "start_seconds": 24.979,
+    "end_seconds": 56.438
+  },
+  {
+    "id": "final03",
+    "title": "A chantagem contra Helena",
+    "text": "Helena Duarte permitira que seu sobrinho Rafael utilizasse indevidamente as instalações do laboratório com seu crachá. Bryan obteve registros dessas entradas e ameaçou expor a situação.\nPara proteger o sobrinho, Helena cedeu a credencial dois oito quatro sete.\nPor isso, o crachá registrado na entrada era dela, mas quem o utilizou para entrar às vinte e duas horas e trinta e um minutos foi Bryan.\nRafael não participou dessa invasão. Os registros anteriores envolvendo o sobrinho foram usados como instrumento de pressão contra Helena.",
+    "audio": "../audio/final03.wav",
+    "duration_seconds": 30.835,
+    "start_seconds": 56.438,
+    "end_seconds": 87.273
+  },
+  {
+    "id": "final04",
+    "title": "A chantagem contra Marcelo",
+    "text": "Marcelo Vieira, técnico de TI, estava associado a seis reembolsos irregulares, que totalizavam três mil oitocentos e quarenta reais.\nBryan usou as provas dessa fraude para ameaçá-lo. Para evitar a exposição, Marcelo criou remotamente a conta temporária érre vê manutenção, às dezoito horas e dez minutos, e viabilizou a redução dos alertas de rede por seis minutos.\nMarcelo forneceu o acesso digital. Helena forneceu o acesso físico. Nenhum desses fatos, isoladamente, identificava quem estava diante do computador.\nA assinatura recuperada foi o que vinculou a operação a Bryan.",
+    "audio": "../audio/final04.wav",
+    "duration_seconds": 34.747,
+    "start_seconds": 87.273,
+    "end_seconds": 122.02
+  },
+  {
+    "id": "final05",
+    "title": "A invasão e a chegada de Carlos",
+    "text": "Dentro do prédio, Bryan iniciou a sessão às vinte e duas horas e trinta e seis minutos. Dois minutos depois, começou a copiar os projetos.\nA redução dos alertas de rede não desativou o sensor local de movimento. Às vinte e duas horas e quarenta e um minutos, esse sensor enviou um alerta a Carlos Mendes.\nHelena retornou às vinte e duas horas e quarenta e três minutos para recuperar o crachá. Carlos entrou na sala técnica no minuto seguinte e confrontou Bryan.\nO plano de retirar os arquivos sem ser interceptado havia falhado.",
+    "audio": "../audio/final05.wav",
+    "duration_seconds": 31.075,
+    "start_seconds": 122.02,
+    "end_seconds": 153.095
+  },
+  {
+    "id": "final06",
+    "title": "O confronto e a morte",
+    "text": "Durante o confronto, Carlos relacionou o crachá a Helena. Bryan voltou a pressioná-la, explorando a chantagem para fazê-la intervir.\nÀs vinte e duas horas e quarenta e seis minutos, Helena empurrou Carlos para fazê-lo soltar Bryan.\nCarlos caiu contra a bancada e morreu.\nHelena era vítima da chantagem, mas também foi responsável pela ação que provocou a queda fatal. Uma condição não elimina a outra.\nBryan foi o principal articulador da invasão e das ameaças. Entretanto, não foi ele quem realizou o empurrão. Marcelo colaborou remotamente com o acesso digital; não estava na sala técnica.",
+    "audio": "../audio/final06.wav",
+    "duration_seconds": 33.883,
+    "start_seconds": 153.095,
+    "end_seconds": 186.978
+  },
+  {
+    "id": "final07",
+    "title": "A fuga e a diferença entre os horários",
+    "text": "O último registro da câmera é das vinte e duas horas, quarenta e seis minutos e trinta e dois segundos.\nBryan concluiu a cópia às vinte e duas horas e quarenta e sete minutos. Depois, corrompeu os registros e saiu às vinte e duas horas e quarenta e nove minutos.\nHelena fez uma ligação anônima às vinte e duas horas e cinquenta e dois minutos. Marcelo desativou a conta temporária às vinte e duas horas e cinquenta e quatro minutos.\nÉ por isso que o horário correto do protocolo era vinte e duas horas e quarenta e seis minutos: o minuto do confronto fatal. Vinte e duas horas e quarenta e sete minutos indicava apenas o término da cópia.",
+    "audio": "../audio/final07.wav",
+    "duration_seconds": 36.427,
+    "start_seconds": 186.978,
+    "end_seconds": 223.405
+  },
+  {
+    "id": "final08",
+    "title": "Fechamento da investigação",
+    "text": "Vocês separaram o titular do crachá de quem o utilizou. Distinguiram quem forneceu acesso de quem executou a invasão. E compreenderam que o responsável pelo plano não foi a mesma pessoa que causou a queda fatal.\nO roubo foi motivado pelo dinheiro. A colaboração de Helena e Marcelo foi obtida por chantagem. A intervenção de Helena provocou a morte de Carlos.\nOs registros estavam fragmentados, mas vocês conseguiram conectar as evidências e reconstruir o incidente.\nParabéns pela solução.\nInvestigação concluída. Arquivo recuperado.",
+    "audio": "../audio/final08.wav",
+    "duration_seconds": 31.675,
+    "start_seconds": 223.405,
+    "end_seconds": 255.08
+  }
+]

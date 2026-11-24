@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-24T12:44:55.529Z",
+  "result": "passed",
+  "checks": 64,
+  "pageErrors": [],
+  "failedRequests": [],
+  "coverage": [
+    "tutorial antes da contagem",
+    "replay e janelas",
+    "Enter e ajuda nos erros",
+    "ordenação acessível",
+    "código por 30s e inserção",
+    "reconstituição automática",
+    "25 documentos por HTTP",
+    "expiração e Esc",
+    "reset das configurações"
+  ]
+}

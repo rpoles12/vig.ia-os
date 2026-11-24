@@ -1,0 +1,13 @@
+privado/
+materiais/
+docs/
+tests/
+.reports/
+.github/
+node_modules/
+dist/
+.git/
+*.zip
+README.md
+CHANGELOG.md
+LICENCAS.md

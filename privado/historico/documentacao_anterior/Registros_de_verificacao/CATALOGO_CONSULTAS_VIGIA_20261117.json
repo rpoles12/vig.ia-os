@@ -1,0 +1,912 @@
+[
+  {
+    "id": "inicio",
+    "min": 0,
+    "aliases": [
+      "ajuda",
+      "me ajuda",
+      "socorro",
+      "nao sei",
+      "estou perdido",
+      "to perdido",
+      "travei",
+      "travado",
+      "nao entendi",
+      "nao entendo",
+      "por onde comecar",
+      "o que fazer agora",
+      "proximo passo",
+      "objetivo",
+      "como jogar",
+      "como funciona",
+      "o que falta",
+      "qual etapa",
+      "comecar",
+      "inicio"
+    ]
+  },
+  {
+    "id": "capacidades",
+    "min": 0,
+    "aliases": [
+      "o que voce faz",
+      "o que posso perguntar",
+      "como usar a ia",
+      "para que serve a ia",
+      "inteligencia artificial",
+      "voce e uma ia",
+      "voce consegue ajudar",
+      "quem e vigia",
+      "o que e vigia",
+      "quem esta falando",
+      "quem narra",
+      "como perguntar",
+      "suas possibilidades",
+      "ia",
+      "vigia"
+    ]
+  },
+  {
+    "id": "memoria",
+    "min": 0,
+    "aliases": [
+      "memoria",
+      "mermoria",
+      "memora",
+      "progresso",
+      "porcentagem",
+      "percentual",
+      "nivel de inteligencia",
+      "inteligencia aumenta",
+      "mais inteligente",
+      "evoluir",
+      "evolucao",
+      "recuperar memoria",
+      "por que nao sabe",
+      "voce nao lembra",
+      "lembra",
+      "capacidade",
+      "competencia"
+    ]
+  },
+  {
+    "id": "identidade",
+    "min": 0,
+    "aliases": [
+      "invasor",
+      "quem invadiu",
+      "quem entrou",
+      "identidade",
+      "nome do invasor",
+      "descobrir o nome",
+      "perfil legado",
+      "perfil antigo",
+      "quem roubou",
+      "quem copiou",
+      "aluno antigo",
+      "estudante",
+      "ex aluno",
+      "assinatura do acesso"
+    ]
+  },
+  {
+    "id": "bryan",
+    "min": 0,
+    "aliases": [
+      "bryan",
+      "brian",
+      "brayan",
+      "bryam",
+      "bryann",
+      "ba17",
+      "b_a_17",
+      "assinatura ba17",
+      "assinatura b a 17"
+    ]
+  },
+  {
+    "id": "identificadores",
+    "min": 0,
+    "aliases": [
+      "a17 e v17",
+      "ba17 e v17",
+      "a17 e ba17",
+      "diferenca dos codigos",
+      "siglas",
+      "identificadores",
+      "o que significa a17",
+      "a17",
+      "projeto a17"
+    ]
+  },
+  {
+    "id": "l1",
+    "min": 0,
+    "aliases": [
+      "l1",
+      "log l1",
+      "registro de sessao",
+      "log de acesso",
+      "sessao recuperada",
+      "sessao iniciada",
+      "horario da sessao",
+      "22:36",
+      "2236"
+    ]
+  },
+  {
+    "id": "arquivo_estudantil",
+    "min": 0,
+    "aliases": [
+      "arquivo estudantil",
+      "ficha estudantil",
+      "cadastro estudantil",
+      "ficha do aluno",
+      "documento do aluno"
+    ]
+  },
+  {
+    "id": "pessoas",
+    "min": 0,
+    "aliases": [
+      "pessoas",
+      "suspeitos",
+      "funcionarios",
+      "cadastro",
+      "equipe",
+      "quem sao eles",
+      "quais pessoas",
+      "foto",
+      "retratos",
+      "identificacao da equipe"
+    ]
+  },
+  {
+    "id": "outros_funcionarios",
+    "min": 0,
+    "aliases": [
+      "renata",
+      "eduardo",
+      "patricia",
+      "lucas",
+      "camila",
+      "outro funcionario"
+    ]
+  },
+  {
+    "id": "fisico",
+    "min": 1,
+    "aliases": [
+      "acesso fisico",
+      "acesso presencial",
+      "entrada fisica",
+      "quem deu o cracha",
+      "quem forneceu o cracha",
+      "quem emprestou o cracha",
+      "quem cedeu a credencial",
+      "quem forneceu o acesso fisico",
+      "porta fisica",
+      "entrar no predio",
+      "entrada no predio"
+    ]
+  },
+  {
+    "id": "digital",
+    "min": 1,
+    "aliases": [
+      "acesso digital",
+      "acesso logico",
+      "quem criou a conta",
+      "quem forneceu o acesso digital",
+      "acessar o servidor",
+      "conta de acesso",
+      "conta digital",
+      "senha do servidor",
+      "senha da conta",
+      "login",
+      "rvmanut",
+      "rv manut",
+      "manutencao",
+      "conta e pessoa",
+      "usuario",
+      "username",
+      "senha",
+      "servidor"
+    ]
+  },
+  {
+    "id": "acessos",
+    "min": 1,
+    "aliases": [
+      "acessos",
+      "dois acessos",
+      "diferenca entre fisico e digital",
+      "diferenca entre os dois acessos",
+      "fisico e digital",
+      "credencial e conta",
+      "porta e servidor",
+      "acesso fisico ou digital"
+    ]
+  },
+  {
+    "id": "helena",
+    "min": 1,
+    "aliases": [
+      "helena",
+      "elena",
+      "helenna",
+      "helela",
+      "helena duarte",
+      "limpeza",
+      "funcionaria da limpeza"
+    ]
+  },
+  {
+    "id": "credencial",
+    "min": 1,
+    "aliases": [
+      "cracha",
+      "crachá",
+      "credencial",
+      "2847",
+      "numero do cracha",
+      "numero da credencial",
+      "catraca",
+      "c1",
+      "registro de entrada",
+      "22:31",
+      "2231",
+      "cracha prova",
+      "titular"
+    ]
+  },
+  {
+    "id": "coacao_helena",
+    "min": 1,
+    "aliases": [
+      "por que helena",
+      "porque helena",
+      "helena colaborou",
+      "helena ajudou",
+      "helena foi ameacada",
+      "ameaca a helena",
+      "chantagem de helena",
+      "sobrinho de helena",
+      "familia da helena"
+    ]
+  },
+  {
+    "id": "rafael",
+    "min": 1,
+    "aliases": [
+      "rafael",
+      "raphael",
+      "raffael",
+      "sobrinho",
+      "mensagem familiar",
+      "r2",
+      "acessos anteriores",
+      "r1",
+      "laboratorio anterior"
+    ]
+  },
+  {
+    "id": "marcelo",
+    "min": 1,
+    "aliases": [
+      "marcelo",
+      "marcelu",
+      "marcello",
+      "marcelo vieira",
+      "tecnico de ti",
+      "funcionario de ti"
+    ]
+  },
+  {
+    "id": "presenca",
+    "min": 1,
+    "aliases": [
+      "marcelo estava no local",
+      "marcelo estava na sala",
+      "marcelo estava la",
+      "marcelo presencial",
+      "marcelo foi ao predio",
+      "marcelo entrou",
+      "presenca remota",
+      "alibi",
+      "álibi",
+      "al",
+      "relatorio de presenca",
+      "quem estava remoto",
+      "marcelo matou"
+    ]
+  },
+  {
+    "id": "coacao_marcelo",
+    "min": 1,
+    "aliases": [
+      "por que marcelo",
+      "porque marcelo",
+      "marcelo ajudou",
+      "marcelo colaborou",
+      "ameaca a marcelo",
+      "marcelo foi ameacado",
+      "chantagem de marcelo",
+      "chantagem financeira"
+    ]
+  },
+  {
+    "id": "fraude",
+    "min": 1,
+    "aliases": [
+      "fraude",
+      "reembolso",
+      "reembolsos",
+      "nota fiscal",
+      "notas fiscais",
+      "financeiro",
+      "fin02",
+      "nf318",
+      "nf318b",
+      "nf427",
+      "nf427b",
+      "nf512",
+      "nf512b",
+      "318",
+      "318b",
+      "427",
+      "427b",
+      "512",
+      "512b",
+      "3840",
+      "3.840",
+      "duplicadas",
+      "referencias repetidas",
+      "notas",
+      "nota",
+      "notinhas",
+      "documentos financeiros"
+    ]
+  },
+  {
+    "id": "coacao",
+    "min": 1,
+    "aliases": [
+      "chantagem",
+      "coacao",
+      "coagido",
+      "coagida",
+      "ameaca",
+      "motivo dos colaboradores",
+      "por que ajudaram",
+      "porque ajudaram",
+      "relacao entre os envolvidos"
+    ]
+  },
+  {
+    "id": "northstar",
+    "min": 1,
+    "aliases": [
+      "northstar",
+      "north star",
+      "nortstar",
+      "nortistar",
+      "comprador",
+      "contato externo",
+      "proposta",
+      "n1",
+      "15.000",
+      "15000",
+      "quinze mil"
+    ]
+  },
+  {
+    "id": "pagamento",
+    "min": 1,
+    "aliases": [
+      "pagou",
+      "pagamento",
+      "recebeu o dinheiro",
+      "dinheiro recebido",
+      "entregou o lote",
+      "entrega comprovada",
+      "venda concluida",
+      "northstar recebeu",
+      "bryan recebeu"
+    ]
+  },
+  {
+    "id": "lote",
+    "min": 0,
+    "aliases": [
+      "v17",
+      "v-17",
+      "vertice",
+      "repositorio",
+      "projetos",
+      "lote",
+      "manifesto",
+      "o que foi roubado",
+      "o que foi copiado",
+      "conteudo copiado"
+    ]
+  },
+  {
+    "id": "carlos",
+    "min": 0,
+    "aliases": [
+      "carlos",
+      "carlos mendes",
+      "seguranca",
+      "vitima",
+      "quem morreu",
+      "agente de seguranca"
+    ]
+  },
+  {
+    "id": "alerta",
+    "min": 2,
+    "aliases": [
+      "alerta",
+      "sensor",
+      "alarme",
+      "22:41",
+      "2241",
+      "aviso local",
+      "quem chamou carlos",
+      "como carlos soube"
+    ]
+  },
+  {
+    "id": "cronologia",
+    "min": 2,
+    "aliases": [
+      "cronologia",
+      "cromologia",
+      "cronolgia",
+      "linha do tempo",
+      "sequencia",
+      "ordem dos eventos",
+      "ordem correta",
+      "ordenar",
+      "qual vem primeiro",
+      "antes ou depois",
+      "horarios",
+      "quando",
+      "o que aconteceu primeiro",
+      "horario",
+      "hora",
+      "horas",
+      "ordem"
+    ]
+  },
+  {
+    "id": "arrastar",
+    "min": 2,
+    "aliases": [
+      "arrastar",
+      "arrasto",
+      "arraste",
+      "mover cartoes",
+      "mover cartões",
+      "como mover",
+      "como organizar os cartoes",
+      "cartao nao move",
+      "soltar",
+      "colocar aqui",
+      "botao antes",
+      "botao depois"
+    ]
+  },
+  {
+    "id": "extrato",
+    "min": 2,
+    "aliases": [
+      "t3",
+      "extrato",
+      "extrato de ocorrencias",
+      "qual documento mostra os horarios",
+      "documento com horarios",
+      "documento do horario",
+      "tabela de horarios",
+      "onde vejo os horarios",
+      "ocorrencias",
+      "registro do confronto"
+    ]
+  },
+  {
+    "id": "hora_copia",
+    "min": 2,
+    "aliases": [
+      "22:47",
+      "2247",
+      "fim da copia",
+      "termino da copia",
+      "copia terminou",
+      "copia acabou",
+      "hora da copia",
+      "horario da copia"
+    ]
+  },
+  {
+    "id": "hora_confronto",
+    "min": 3,
+    "aliases": [
+      "hora do confronto",
+      "horario do confronto",
+      "minuto do confronto",
+      "hora da morte",
+      "horario da morte",
+      "que horas morreu",
+      "quando carlos morreu",
+      "ultimo horario",
+      "horario final",
+      "qual horario devo usar",
+      "horario devo usar",
+      "22:46",
+      "2246",
+      "horario errado",
+      "erro no horario",
+      "resposta de horario",
+      "hora errada"
+    ]
+  },
+  {
+    "id": "camera",
+    "min": 3,
+    "aliases": [
+      "camera",
+      "câmera",
+      "cam01",
+      "filmagem",
+      "video da camera",
+      "ultimo registro",
+      "ultimo quadro",
+      "152",
+      "duracao do trecho",
+      "s02",
+      "s-02",
+      "22:46:32",
+      "224632",
+      "calcular o ultimo registro"
+    ]
+  },
+  {
+    "id": "cabecalho",
+    "min": 3,
+    "aliases": [
+      "cabecalho",
+      "cabeçalho",
+      "s03",
+      "s-03",
+      "zero quadros",
+      "sem quadros",
+      "sem imagem",
+      "registro vazio",
+      "telemetria",
+      "diagnostico",
+      "22:48",
+      "2248",
+      "camera 2247",
+      "camera 22:47"
+    ]
+  },
+  {
+    "id": "segundo_exato",
+    "min": 3,
+    "aliases": [
+      "segundo exato",
+      "momento exato da morte",
+      "morreu 224632",
+      "morte 22:46:32",
+      "segundo da morte",
+      "hora exata da morte"
+    ]
+  },
+  {
+    "id": "autoria",
+    "min": 3,
+    "aliases": [
+      "quem matou",
+      "quem causou",
+      "assassino",
+      "assassina",
+      "responsavel pela morte",
+      "empurrou",
+      "queda",
+      "empurrao",
+      "helena matou",
+      "bryan matou",
+      "como carlos morreu",
+      "causa da morte",
+      "responsabilidade de cada pessoa",
+      "culpado",
+      "culpa"
+    ]
+  },
+  {
+    "id": "fragmento3",
+    "min": 3,
+    "aliases": [
+      "fragmento03",
+      "fragmento 03",
+      "fragmento 3",
+      "audio03",
+      "audio 03",
+      "audio 3",
+      "terceiro audio",
+      "terceiro fragmento",
+      "transcricao do confronto"
+    ]
+  },
+  {
+    "id": "audios",
+    "min": 0,
+    "aliases": [
+      "audio",
+      "áudio",
+      "audios",
+      "ouvir",
+      "transcricao",
+      "ler a fala",
+      "nao consigo ouvir",
+      "sem som",
+      "voz",
+      "fragmento01",
+      "fragmento 01",
+      "fragmento02",
+      "fragmento 02"
+    ]
+  },
+  {
+    "id": "porta",
+    "min": 2,
+    "aliases": [
+      "porta tecnica",
+      "sala tecnica",
+      "22:44",
+      "2244",
+      "carlos entrou",
+      "chegada de carlos",
+      "abertura da sala"
+    ]
+  },
+  {
+    "id": "saida",
+    "min": 2,
+    "aliases": [
+      "saida de emergencia",
+      "saida",
+      "fuga",
+      "fugiu",
+      "22:49",
+      "2249",
+      "deixou o local"
+    ]
+  },
+  {
+    "id": "criacao_conta",
+    "min": 1,
+    "aliases": [
+      "18:10",
+      "1810",
+      "hora da criacao",
+      "horario de criacao",
+      "criacao da conta",
+      "conta criada",
+      "22:54",
+      "2254",
+      "desativacao",
+      "conta desativada"
+    ]
+  },
+  {
+    "id": "copia_inicio",
+    "min": 1,
+    "aliases": [
+      "22:38",
+      "2238",
+      "inicio da copia",
+      "copia comecou",
+      "quando comecou a copia"
+    ]
+  },
+  {
+    "id": "conclusoes",
+    "min": 3,
+    "aliases": [
+      "respostas finais",
+      "conclusoes",
+      "protocolo",
+      "tres campos",
+      "preencher os campos",
+      "o que responder",
+      "qual credencial usada",
+      "nome sobrenome",
+      "gerar codigo",
+      "gerar chave"
+    ]
+  },
+  {
+    "id": "codigo",
+    "min": 0,
+    "aliases": [
+      "codigo final",
+      "codigo de recuperacao",
+      "qual e o codigo",
+      "me da o codigo",
+      "chave final",
+      "esqueci o codigo",
+      "rever o codigo",
+      "copiar codigo",
+      "anotar codigo",
+      "codigo sumiu",
+      "caderno",
+      "30 segundos",
+      "timer do codigo"
+    ]
+  },
+  {
+    "id": "recapitulacao",
+    "min": 0,
+    "aliases": [
+      "recapitulacao",
+      "reconstituicao",
+      "video final",
+      "filme final",
+      "encerramento",
+      "rever filme",
+      "abrir video",
+      "abrir filme"
+    ]
+  },
+  {
+    "id": "documentos",
+    "min": 0,
+    "aliases": [
+      "documentos",
+      "documento",
+      "onde procurar",
+      "abrir arquivo",
+      "encontrar evidencia",
+      "buscar documento",
+      "localizar registro",
+      "onde encontro",
+      "onde fica",
+      "qual documento",
+      "pasta arquivo",
+      "pasta registros"
+    ]
+  },
+  {
+    "id": "navegacao",
+    "min": 0,
+    "aliases": [
+      "onde responder",
+      "onde registro",
+      "registrar resposta",
+      "aba respostas",
+      "abrir respostas",
+      "onde coloco",
+      "onde digito",
+      "onde escrevo",
+      "tela de respostas",
+      "confirmar resposta",
+      "voltar ao formulario",
+      "como confirmar"
+    ]
+  },
+  {
+    "id": "erro",
+    "min": 0,
+    "aliases": [
+      "deu erro",
+      "resposta errada",
+      "nao aceita",
+      "nao funciona",
+      "errei",
+      "erro",
+      "inconsistente",
+      "nao validou",
+      "nao confirmou",
+      "minha resposta",
+      "resposta nao aceita"
+    ]
+  },
+  {
+    "id": "dica",
+    "min": 0,
+    "aliases": [
+      "dica",
+      "pista",
+      "me de uma dica",
+      "dica direta",
+      "mais direto",
+      "mais ajuda",
+      "resposta direta"
+    ]
+  },
+  {
+    "id": "tempo",
+    "min": 0,
+    "aliases": [
+      "tempo",
+      "cronometro",
+      "timer",
+      "relogio",
+      "tempo acabou",
+      "acabou o tempo",
+      "pausar tempo",
+      "quanto tempo",
+      "12:30",
+      "1230"
+    ]
+  },
+  {
+    "id": "offline",
+    "min": 0,
+    "aliases": [
+      "internet",
+      "offline",
+      "online",
+      "chatgpt",
+      "modelo",
+      "funciona sem internet",
+      "conversa livre",
+      "voce inventa",
+      "nao sabe a resposta",
+      "fora do arquivo"
+    ]
+  },
+  {
+    "id": "saudacao",
+    "min": 0,
+    "aliases": [
+      "oi",
+      "ola",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "obrigado",
+      "obrigada",
+      "valeu",
+      "eai"
+    ]
+  },
+  {
+    "id": "motivo_bryan",
+    "min": 1,
+    "aliases": [
+      "por que bryan",
+      "porque bryan",
+      "motivo de bryan",
+      "motivacao do invasor",
+      "interesse de bryan",
+      "por que roubaram",
+      "porque roubaram"
+    ]
+  },
+  {
+    "id": "copia",
+    "min": 1,
+    "aliases": [
+      "copia",
+      "copiaram",
+      "copiado",
+      "copia dos projetos"
+    ]
+  },
+  {
+    "id": "operacao",
+    "min": 0,
+    "aliases": [
+      "operador",
+      "operacao",
+      "painel da equipe",
+      "reiniciar",
+      "reset",
+      "apagar partida",
+      "comecar de novo"
+    ]
+  }
+]

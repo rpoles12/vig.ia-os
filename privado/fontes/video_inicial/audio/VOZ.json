@@ -1,0 +1,8 @@
+{
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "+5%",
+  "pitch": "-2Hz",
+  "matched_to": "output/vigia_os_sistema/audio/manifesto_integracao.json",
+  "note": "Mesma voz e prosódia-base do sistema; sem acrescentar chiado à locução didática.",
+  "provider": "Serviço de leitura em voz alta do Microsoft Edge via edge-tts; sem credenciais de cobrança."
+}

@@ -1,0 +1,30 @@
+{
+  "status": "Retratos aplicados e arquivos substituídos após backup",
+  "date": "20261015_144750",
+  "bryan": "Versão 02 aprovada pelo usuário; óculos, olheiras, cabelo desalinhado e barba rala. Alias v01 agora usa a mesma versão aprovada; original anterior no backup.",
+  "scope": [
+    "Oito fichas e suas matrizes PDF/PNG",
+    "Crachá e amostras de Helena",
+    "Nove espaços legados de retratos",
+    "Ficha A-17 de Bryan",
+    "F1 composição e identificação",
+    "Cópias e referências no sistema offline",
+    "Galeria de personagens, documentação e inventários"
+  ],
+  "F1": "Composição documental de retratos: Renata à esquerda, Bryan ao centro e Eduardo à direita; não fotografia de grupo.",
+  "verification": [
+    "29 PDFs reabertos e conteúdo essencial conferido",
+    "Quatro folhas A4, fichas, crachá, A-17 e F1 inspecionados visualmente",
+    "F1 abriu no navegador com 1920x1080; A-17 abriu com Bryan aprovado",
+    "Motor de validação preservado; 720 permutações testadas",
+    "SHA-256 conferido depois de cada substituição"
+  ],
+  "remaining": [
+    "Prova física de impressão em 100%",
+    "Volume e compreensão dos áudios no local",
+    "Partida-piloto com 3–5 alunos"
+  ],
+  "no_videos": true,
+  "backup": "C:\\Users\\45061155890\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Backup_antes_fotos_20261015_144750",
+  "sources": "sources/ e referências sincronizadas não foram modificados."
+}

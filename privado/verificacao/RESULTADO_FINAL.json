@@ -1,0 +1,41 @@
+{
+  "data": "2026-11-24",
+  "testes_automaticos": {
+    "resultado": "passed",
+    "casos": 25,
+    "combinacoes_etapas": 15
+  },
+  "navegador": {
+    "date": "2026-11-24T12:44:55.529Z",
+    "result": "passed",
+    "checks": 64,
+    "pageErrors": [],
+    "failedRequests": [],
+    "coverage": [
+      "tutorial antes da contagem",
+      "replay e janelas",
+      "Enter e ajuda nos erros",
+      "ordenação acessível",
+      "código por 30s e inserção",
+      "reconstituição automática",
+      "25 documentos por HTTP",
+      "expiração e Esc",
+      "reset das configurações"
+    ]
+  },
+  "integridade": {
+    "data": "2026-11-24",
+    "originais_do_pacote": 364,
+    "correspondencias": 613,
+    "originais_ausentes": [],
+    "conteudos_divergentes": []
+  },
+  "repositorio": {
+    "arquivos": 211,
+    "bytes": 216605560,
+    "maior_arquivo": "materiais\\impressao\\01_cenario\\Cenario_A4_horizontal.pdf",
+    "maior_arquivo_bytes": 33830934
+  },
+  "publicacao_remota_realizada": false,
+  "copia_final": "C:\\Users\\45061155890\\Desktop\\O_Arquivo_Corrompido"
+}

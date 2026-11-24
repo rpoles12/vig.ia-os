@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111827" />
+  <title>Escape Room - Plano de Execução</title>
+  <meta name="description" content="Checklist interativo para produzir, montar, testar e operar o Escape Room O Arquivo Corrompido." />
+  <style>
+    :root {
+      --bg: #f3f4f6;
+      --paper: #ffffff;
+      --ink: #18202d;
+      --muted: #687182;
+      --navy: #111827;
+      --navy-2: #1f2937;
+      --red: #8f1d2c;
+      --red-soft: #faecef;
+      --gold: #d5a625;
+      --gold-soft: #fff8e5;
+      --green: #167052;
+      --green-soft: #e9f6f0;
+      --line: #dde1e7;
+      --shadow: 0 16px 45px rgba(17, 24, 39, .08);
+      --radius: 18px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 0%, rgba(213, 166, 37, .12), transparent 26rem),
+        linear-gradient(180deg, #eceff3 0, var(--bg) 24rem);
+    }
+
+    button, input { font: inherit; }
+    button { cursor: pointer; }
+    button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px solid rgba(213, 166, 37, .55); outline-offset: 2px; }
+
+    .hero {
+      color: white;
+      background: var(--navy);
+      min-height: 340px;
+      padding: 44px 24px 84px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before, .hero::after {
+      content: "";
+      position: absolute;
+      width: 720px;
+      height: 1px;
+      background: #465268;
+      transform: rotate(-5deg);
+      left: 8%;
+    }
+    .hero::before { top: 115px; }
+    .hero::after { top: 245px; }
+    .evidence-dot { position: absolute; width: 14px; height: 14px; border-radius: 50%; background: var(--gold); z-index: 1; }
+    .dot-a { left: 28%; top: 101px; }
+    .dot-b { right: 18%; top: 226px; }
+
+    .hero-inner, main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
+    .hero-inner { position: relative; z-index: 2; }
+    .eyebrow { color: #f4c84e; font-weight: 800; font-size: .78rem; letter-spacing: .14em; text-transform: uppercase; }
+    h1 { font-size: clamp(2.2rem, 6vw, 4.6rem); line-height: .95; margin: 24px 0 18px; max-width: 760px; letter-spacing: -.045em; }
+    .hero p { color: #d7dee9; max-width: 720px; font-size: 1.1rem; line-height: 1.6; }
+    .final-badge { display: inline-flex; gap: 9px; align-items: center; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 9px 14px; color: #e8edf4; font-size: .86rem; }
+    .final-badge::before { content: "✓"; color: #f3c84a; font-weight: 900; }
+
+    main { margin-top: -54px; padding-bottom: 80px; position: relative; z-index: 4; }
+    .dashboard { display: grid; grid-template-columns: 1.35fr .65fr; gap: 18px; margin-bottom: 20px; }
+    .panel { background: rgba(255,255,255,.96); border: 1px solid rgba(221,225,231,.85); border-radius: var(--radius); box-shadow: var(--shadow); }
+    .overview { padding: 24px; }
+    .overview-top { display: flex; justify-content: space-between; align-items: flex-end; gap: 18px; }
+    .overview h2 { margin: 0; font-size: 1.3rem; }
+    .percentage { font-size: 2.7rem; font-weight: 900; color: var(--red); letter-spacing: -.05em; }
+    .progress { height: 12px; border-radius: 999px; overflow: hidden; background: #e7eaf0; margin: 18px 0 11px; }
+    .progress > span { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--red), #c4384c); transition: width .25s ease; border-radius: inherit; }
+    .progress-meta { display: flex; justify-content: space-between; color: var(--muted); font-size: .9rem; }
+    .next-box { padding: 24px; background: var(--gold-soft); border-color: #ead595; }
+    .next-box h2 { margin: 0 0 10px; font-size: 1.05rem; color: #5d4810; }
+    .next-box p { margin: 0; color: #675b39; line-height: 1.55; font-size: .93rem; }
+
+    .toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 16px; margin-bottom: 20px; }
+    .search { flex: 1 1 270px; border: 1px solid var(--line); border-radius: 12px; padding: 11px 13px; background: #fbfcfe; color: var(--ink); }
+    .filter, .action { border: 1px solid var(--line); border-radius: 11px; padding: 10px 13px; background: white; color: var(--navy-2); font-weight: 700; }
+    .filter.active { background: var(--navy); color: white; border-color: var(--navy); }
+    .action:hover, .filter:hover { border-color: #aab2bf; }
+    .action.danger { color: var(--red); }
+
+    .phase-list { display: grid; gap: 18px; }
+    .phase { overflow: hidden; }
+    .phase[open] { box-shadow: var(--shadow); }
+    .phase summary { list-style: none; display: grid; grid-template-columns: 54px 1fr auto; gap: 14px; align-items: center; padding: 20px 22px; cursor: pointer; user-select: none; }
+    .phase summary::-webkit-details-marker { display: none; }
+    .phase-number { width: 46px; height: 46px; border-radius: 14px; display: grid; place-items: center; background: var(--red-soft); color: var(--red); font-weight: 900; font-size: 1.1rem; }
+    .phase-title h2 { margin: 0 0 4px; font-size: 1.2rem; }
+    .phase-title p { margin: 0; color: var(--muted); font-size: .88rem; line-height: 1.45; }
+    .phase-count { text-align: right; min-width: 92px; }
+    .phase-count strong { display: block; color: var(--navy); font-size: 1rem; }
+    .phase-count span { color: var(--muted); font-size: .76rem; }
+    .chevron { display: inline-block; margin-left: 7px; transition: transform .2s ease; }
+    details[open] .chevron { transform: rotate(180deg); }
+
+    .phase-body { border-top: 1px solid var(--line); padding: 10px 22px 22px; }
+    .phase-progress { height: 5px; background: #ebedf1; border-radius: 999px; margin: 7px 0 16px; overflow: hidden; }
+    .phase-progress span { display: block; height: 100%; width: 0; background: var(--green); transition: width .2s ease; }
+    .task-group + .task-group { margin-top: 22px; }
+    .task-group h3 { font-size: .78rem; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); margin: 0 0 9px; }
+    .task { display: grid; grid-template-columns: 24px 1fr auto; gap: 11px; align-items: start; padding: 12px 10px; border-radius: 11px; border: 1px solid transparent; }
+    .task:hover { background: #f8f9fb; border-color: #eceff3; }
+    .task.hidden { display: none; }
+    .task input { width: 19px; height: 19px; accent-color: var(--green); margin-top: 2px; }
+    .task label { cursor: pointer; line-height: 1.45; }
+    .task label strong { display: block; font-size: .95rem; }
+    .task label small { display: block; color: var(--muted); margin-top: 3px; line-height: 1.45; }
+    .task.done label { text-decoration: line-through; color: #7b8491; }
+    .task.done label small { color: #a0a7b1; }
+    .tag { white-space: nowrap; font-size: .68rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; padding: 5px 7px; border-radius: 999px; color: #5d4810; background: var(--gold-soft); border: 1px solid #ead595; }
+    .tag.critical { color: var(--red); background: var(--red-soft); border-color: #edbdc5; }
+    .tag.delivery { color: var(--green); background: var(--green-soft); border-color: #bbdfd1; }
+    .empty { display: none; text-align: center; padding: 36px; color: var(--muted); }
+    .empty.show { display: block; }
+
+    footer { text-align: center; color: var(--muted); padding: 0 20px 42px; font-size: .84rem; }
+
+    @media (max-width: 780px) {
+      .hero { padding-top: 34px; min-height: 390px; }
+      .dashboard { grid-template-columns: 1fr; }
+      .phase summary { grid-template-columns: 46px 1fr; padding: 17px; }
+      .phase-count { grid-column: 2; text-align: left; }
+      .phase-body { padding: 8px 14px 18px; }
+      .task { grid-template-columns: 24px 1fr; }
+      .tag { grid-column: 2; justify-self: start; }
+    }
+
+    @media print {
+      body { background: white; }
+      .hero { min-height: 0; padding: 22px; }
+      .hero::before, .hero::after, .evidence-dot, .toolbar, .next-box { display: none !important; }
+      main { margin: 18px auto; }
+      .dashboard { display: block; }
+      .panel, .phase[open] { box-shadow: none; }
+      details.phase { display: block; break-inside: avoid; }
+      details.phase > .phase-body { display: block !important; }
+      .task.hidden { display: grid; }
+      .task input { appearance: none; border: 1px solid #555; border-radius: 3px; }
+      .task.done input::after { content: "✓"; display: block; text-align: center; line-height: 17px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <span class="evidence-dot dot-a" aria-hidden="true"></span>
+    <span class="evidence-dot dot-b" aria-hidden="true"></span>
+    <div class="hero-inner">
+      <div class="eyebrow">O Arquivo Corrompido</div>
+      <h1>Plano de execução</h1>
+      <p>O roteiro está fechado. Agora este checklist organiza somente o que precisa ser produzido, programado, gravado, montado, testado e operado.</p>
+      <div class="final-badge">Roteiro, guia e manual considerados finais</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="dashboard" aria-label="Resumo do progresso">
+      <div class="panel overview">
+        <div class="overview-top">
+          <div><span class="eyebrow" style="color:var(--red)">Progresso geral</span><h2>Produção do Escape Room</h2></div>
+          <div class="percentage" id="percentage">0%</div>
+        </div>
+        <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+        <div class="progress-meta"><span id="completedText">0 de 0 tarefas concluídas</span><span id="remainingText">0 pendentes</span></div>
+      </div>
+      <aside class="panel next-box">
+        <h2>Por onde começar</h2>
+        <p>Concluam primeiro o <strong>Bloco 1</strong>. Os arquivos e objetos físicos definem o conteúdo usado pelo sistema, pelos áudios, pelo vídeo e pelos testes.</p>
+      </aside>
+    </section>
+
+    <section class="panel toolbar" aria-label="Ferramentas do checklist">
+      <input class="search" id="search" type="search" placeholder="Buscar tarefa, pista ou responsável..." aria-label="Buscar tarefas" />
+      <button class="filter active" data-filter="all">Todas</button>
+      <button class="filter" data-filter="pending">Pendentes</button>
+      <button class="filter" data-filter="done">Concluídas</button>
+      <button class="action" id="expandAll">Abrir blocos</button>
+      <button class="action" id="printBtn">Imprimir</button>
+      <button class="action danger" id="resetBtn">Zerar</button>
+    </section>
+
+    <section class="phase-list" id="phaseList" aria-label="Blocos de execução"></section>
+    <div class="panel empty" id="emptyState">Nenhuma tarefa corresponde ao filtro atual.</div>
+  </main>
+
+  <footer>O progresso fica salvo somente neste navegador. Código final do jogo: BA17-2847-2246.</footer>
+
+  <script>
+    const phases = [
+      {
+        id: "materiais", number: "01", title: "Produzir pistas e materiais físicos",
+        description: "Criar tudo o que os jogadores vão ler, manipular e relacionar durante as três estações.",
+        groups: [
+          { title: "Identidade visual e padrão", tasks: [
+            ["mat-padrao", "Definir o padrão visual dos documentos", "Cores, fontes, cabeçalhos, carimbos, códigos e aparência de arquivo policial escolar.", "critical"],
+            ["mat-modelos", "Criar modelos editáveis", "Preparar modelos para ficha de pessoa, log, mensagem, relatório, registro e etiqueta.", "delivery"],
+            ["mat-ficcao", "Inserir aviso de conteúdo fictício", "Adicionar aviso discreto nos documentos para evitar associação com pessoas ou fatos reais.", ""],
+          ]},
+          { title: "Estação 1 - Quem invadiu", tasks: [
+            ["e1-foto", "Produzir a Foto F1 da equipe de tecnologia", "Fotografar ou montar a equipe de 2024 e listar Bryan Almeida no verso.", "critical"],
+            ["e1-a17", "Produzir a Ficha do Projeto A-17", "Mostrar Bryan como responsável e explicar que BA-17 era sua assinatura.", "critical"],
+            ["e1-log", "Produzir o Log L1", "Exibir usuário B_A_17, perfil legado e acesso às 22:36.", "critical"],
+            ["e1-v17", "Produzir o Manifesto do Lote V-17", "Listar os três projetos tecnológicos fictícios e os tipos de arquivo roubados.", ""],
+            ["e1-pasta", "Montar a pasta Arquivo Estudantil", "Organizar Foto F1, Ficha A17 e documentos antigos sem entregar a solução imediatamente.", "delivery"],
+          ]},
+          { title: "Estação 2 - Acessos e chantagens", tasks: [
+            ["e2-cracha", "Produzir o crachá cenográfico 2847", "Criar crachá de Helena Duarte sem copiar um crachá institucional real.", "critical"],
+            ["e2-catraca", "Produzir o registro de catraca C1", "Mostrar credencial 2847 utilizada às 22:31.", "critical"],
+            ["e2-helena", "Produzir as mensagens de Helena", "Incluir a ameaça relacionada a Rafael e a resposta pedindo que Bryan devolva o crachá.", "critical"],
+            ["e2-rafael", "Produzir os acessos antigos de Rafael", "Registrar as duas entradas anteriores no laboratório fora do horário.", ""],
+            ["e2-marcelo", "Produzir as mensagens de Marcelo", "Incluir a ordem para criar RV-MANUT e a resposta de que ele não entraria na escola.", "critical"],
+            ["e2-financeiro", "Produzir as notas e o resumo financeiro", "Criar NF-318, NF-318B e o total de R$ 3.840 em reembolsos fraudulentos.", "critical"],
+            ["e2-auditoria", "Produzir a auditoria RV-MANUT", "Mostrar Marcelo criando a conta às 18:10 e definindo acesso ao V-17.", "critical"],
+            ["e2-northstar", "Produzir a mensagem de NORTHSTAR", "Registrar a oferta fictícia de R$ 15.000 pela cópia completa.", ""],
+          ]},
+          { title: "Estação 3 e protocolo", tasks: [
+            ["e3-cartoes", "Produzir os seis cartões A-F", "Criar cartões de 22:31, 22:36, 22:41, 22:44, 22:46 e 22:49.", "critical"],
+            ["e3-verso", "Criar o mecanismo visual do verso", "A ordem correta deve formar uma linha contínua e revelar OUÇA O FRAGMENTO 03.", "delivery"],
+            ["e3-base", "Construir a base da cronologia", "Usar velcro ou ímãs fracos; deixar espaço claro para os seis cartões.", ""],
+            ["final-protocolo", "Produzir o protocolo final impresso", "Campos: identidade, credencial e horário. Incluir versão de contingência.", "critical"],
+            ["mat-reserva", "Imprimir e organizar dois kits reserva", "Duplicar todas as pistas soltas e identificar cada item pelo código interno.", "delivery"],
+          ]}
+        ]
+      },
+      {
+        id: "sistema", number: "02", title: "Desenvolver o sistema local VIGIA/3",
+        description: "Criar a aplicação offline, as respostas programadas e o protocolo de conclusão.",
+        groups: [
+          { title: "Base da aplicação", tasks: [
+            ["sys-tecnologia", "Escolher a tecnologia e preparar o projeto", "Aplicação local em tela cheia, executável no computador da sala e sem depender de internet.", "critical"],
+            ["sys-layout", "Criar a interface principal", "Exibir VIGIA/3, cronômetro, memória, campo de consulta e progresso das três respostas.", "delivery"],
+            ["sys-estados", "Implementar os estados do jogo", "INÍCIO → IDENTIDADE → ACESSOS → HORÁRIO → PROTOCOLO → FINAL.", "critical"],
+            ["sys-dados", "Criar arquivo local de respostas", "Separar textos, sinônimos, dicas e configurações do código da interface.", ""],
+            ["sys-offline", "Garantir execução totalmente offline", "Testar com Wi-Fi e cabo de rede desligados.", "critical"],
+          ]},
+          { title: "Consultas e validações", tasks: [
+            ["sys-intencoes", "Implementar consultas por palavras-chave", "Pessoas, acessos, horários, V-17, BA-17, NORTHSTAR e ajuda.", "critical"],
+            ["sys-respostas", "Cadastrar todas as respostas oficiais", "Usar exatamente os textos aprovados no manual, sem gerar informações novas.", "critical"],
+            ["sys-bryan", "Validar a identidade de Bryan", "Aceitar Bryan, Bryan Almeida, BA17 e BA-17.", "critical"],
+            ["sys-associacoes", "Validar acesso físico e digital", "Confirmar Helena/2847 e Marcelo/RV-MANUT antes da cronologia.", "critical"],
+            ["sys-horario", "Validar o horário 22:46", "Aceitar 22:46 e 2246; rejeitar 22:47 com explicação específica.", "critical"],
+            ["sys-final", "Gerar o código BA17-2847-2246", "Mostrar protocolo confirmado e iniciar a reconstrução final.", "critical"],
+          ]},
+          { title: "Operação e confiabilidade", tasks: [
+            ["sys-midias", "Integrar os três áudios e o vídeo final", "Usar arquivos locais e disponibilizar legenda ou transcrição.", "delivery"],
+            ["sys-dicas", "Implementar dicas automáticas por tempo", "3:00 para identidade, 6:30 para acessos, 9:30 para cronologia e aviso ao operador em 12:30.", ""],
+            ["sys-operador", "Criar painel oculto do operador", "Pausar, liberar dica, pular mídia, concluir manualmente e resetar.", "critical"],
+            ["sys-demo", "Criar modo de demonstração", "Permitir percorrer estados sem cronômetro e mostrar marca DEMO.", ""],
+            ["sys-reset", "Implementar reset em um clique", "Limpar respostas, memória, cronômetro e estado das mídias.", "critical"],
+            ["sys-log", "Registrar métricas anônimas", "Salvar tempo, dicas usadas e resultado, sem nomes ou gravação de voz.", ""],
+            ["sys-backup", "Preparar cópia portátil do sistema", "Manter versão funcional em pen drive ou armazenamento local reserva.", "delivery"],
+          ]}
+        ]
+      },
+      {
+        id: "audiovisual", number: "03", title: "Gravar áudios e vídeo final",
+        description: "Produzir as mídias que conectam a investigação e entregam a recompensa narrativa.",
+        groups: [
+          { title: "Pré-produção", tasks: [
+            ["av-elenco", "Escolher e confirmar o elenco", "Bryan, Marcelo, Helena, Carlos, Rafael e funcionários da parede conforme necessidade.", "critical"],
+            ["av-autorizacoes", "Obter autorizações de imagem e voz", "Arquivar autorizações conforme as regras da escola.", "critical"],
+            ["av-roteiros", "Preparar roteiros de gravação", "Separar falas, planos, objetos em cena, horários e continuidade.", "delivery"],
+            ["av-locacao", "Definir local, figurino e objetos", "Manter aparência escolar e investigativa sem usar armas ou violência real.", ""],
+            ["av-agenda", "Criar cronograma de gravação", "Organizar elenco, equipamento, duração e responsáveis por cada cena.", ""],
+          ]},
+          { title: "Áudio", tasks: [
+            ["av-voz", "Gravar a voz principal da VIGIA/3", "Tom calmo, objetivo e levemente danificado.", "critical"],
+            ["av-a1", "Produzir o Áudio 01", "Introdução: memória 08% e solicitação das três confirmações.", "critical"],
+            ["av-a2", "Produzir o Áudio 02", "Após Bryan: memória 34% e indicação de dois acessos diferentes.", "critical"],
+            ["av-a3", "Produzir o Áudio 03", "Relógio 22:46, confronto, impacto sugerido e queda da câmera.", "critical"],
+            ["av-tratamento", "Editar e padronizar os áudios", "Limpar ruído, nivelar volume e testar compreensão nos equipamentos da sala.", "delivery"],
+            ["av-transcricoes", "Criar legendas e transcrições", "Disponibilizar versão impressa de contingência para cada áudio.", "critical"],
+          ]},
+          { title: "Vídeo final", tasks: [
+            ["av-filmagem", "Gravar a reconstrução do crime", "Entrada, conta RV-MANUT, cópia, confronto, queda sugerida, fuga e ligação anônima.", "critical"],
+            ["av-seguranca", "Simular o impacto com edição", "Usar sombra, corte e som; não realizar empurrão ou queda real.", "critical"],
+            ["av-edicao", "Editar o vídeo para 70-90 segundos", "Ritmo claro, horários visíveis e reutilização das pistas encontradas.", "delivery"],
+            ["av-legenda", "Adicionar legendas e cartela final", "Encerrar com CASO RECONSTRUÍDO e a responsabilidade de Bryan.", "critical"],
+            ["av-storyboard", "Criar storyboard de contingência", "Permitir que o operador narre o final se o vídeo falhar.", "delivery"],
+            ["av-export", "Exportar e testar os arquivos finais", "Formato compatível, reprodução offline e cópia reserva.", "critical"],
+          ]}
+        ]
+      },
+      {
+        id: "sala", number: "04", title: "Montar a sala e preparar a operação",
+        description: "Transformar os materiais e o sistema em uma experiência segura, clara e rápida de reiniciar.",
+        groups: [
+          { title: "Planejamento e infraestrutura", tasks: [
+            ["room-medidas", "Medir a sala e desenhar a planta", "Definir parede, mesa, cronologia, terminal, posição do operador, entrada e saída.", "critical"],
+            ["room-recursos", "Confirmar equipamentos disponíveis", "Computador, monitor, áudio, extensões seguras, mesas, painéis e iluminação.", "critical"],
+            ["room-layout", "Marcar as seis zonas da experiência", "Parede, arquivo, mesa de acessos, cronologia, terminal e reserva do operador.", "delivery"],
+            ["room-eletrica", "Proteger energia e cabos", "Sem tomadas expostas, cabos soltos ou passagem bloqueada.", "critical"],
+          ]},
+          { title: "Cenografia e montagem", tasks: [
+            ["room-parede", "Montar a parede de suspeitos", "Oito funcionários atuais; Bryan aparece apenas no arquivo antigo.", "critical"],
+            ["room-arquivo", "Montar o Arquivo Estudantil", "Organizar a Estação 1 e permitir descoberta sem esconder excessivamente.", ""],
+            ["room-mesa", "Montar a mesa de acessos", "Separar visualmente os caminhos FÍSICO e DIGITAL sem entregar respostas.", ""],
+            ["room-crono", "Instalar a linha do tempo", "Base estável, cartões manipuláveis e boa leitura.", "critical"],
+            ["room-terminal", "Instalar e fixar o terminal", "Tela confortável, acesso ao operador e reinício rápido.", "critical"],
+            ["room-luz", "Ajustar iluminação e contraste", "Todos os documentos devem ser lidos sem lanterna ou escuridão.", "critical"],
+            ["room-som", "Ajustar som ambiente e mídias", "Falas compreensíveis sem volume agressivo.", ""],
+            ["room-sinal", "Instalar sinal verde de conclusão", "Efeito cenográfico simples, sem controlar uma porta realmente trancada.", ""],
+          ]},
+          { title: "Operação, segurança e reset", tasks: [
+            ["op-equipe", "Definir operadores e turnos", "Operador principal, pessoa de reset/recepção e suporte técnico disponível.", "critical"],
+            ["op-briefing", "Treinar o briefing de 35 segundos", "Explicar objetivo, tempo, proibição de força e saída sempre livre.", "delivery"],
+            ["op-dicas", "Treinar os três níveis de dica", "Operador deve saber quando observar, sugerir e revelar a ligação mínima.", "critical"],
+            ["op-debrief", "Treinar o encerramento e o debrief", "Perguntar quem planejou, quem abriu o sistema, quem abriu a porta e quem causou a morte.", ""],
+            ["op-contingencia", "Montar a pasta de contingência", "Respostas da IA, transcrições, protocolo, código, storyboard e cópias das pistas.", "critical"],
+            ["op-reset", "Definir posições de reset", "Marcar discretamente onde cada objeto deve retornar em até dois minutos.", "critical"],
+            ["op-seguranca", "Realizar inspeção de segurança", "Saída desobstruída, sem vidro, armas, fumaça, strobo, pontas ou objetos pesados manipuláveis.", "critical"],
+            ["op-acessibilidade", "Aplicar recursos de acessibilidade", "Legendas, transcrições, contraste, altura acessível e rota livre.", "critical"],
+          ]}
+        ]
+      },
+      {
+        id: "testes", number: "05", title: "Testar, corrigir e liberar para a feira",
+        description: "Validar lógica, tecnologia, segurança, duração e capacidade de repetir a experiência.",
+        groups: [
+          { title: "Testes de conteúdo", tasks: [
+            ["test-auditoria", "Auditar toda a consistência", "Conferir Bryan, BA-17, V-17, 2847, R$ 3.840, RV-MANUT, 22:46 e o código final.", "critical"],
+            ["test-mesa", "Realizar teste de mesa com 3 pessoas", "Usar somente materiais impressos e observar a ordem real das descobertas.", "critical"],
+            ["test-ajustes", "Corrigir pistas injustas ou ignoradas", "Melhorar contraste e redundância sem adicionar nova história.", "delivery"],
+          ]},
+          { title: "Testes técnicos", tasks: [
+            ["test-ciclos", "Executar 20 ciclos completos do sistema", "Início, consultas, validações, mídias, final e reset sem perda de estado.", "critical"],
+            ["test-offline", "Testar sem internet", "Confirmar aplicação, fontes, áudios e vídeo funcionando localmente.", "critical"],
+            ["test-falhas", "Simular cada falha prevista", "IA, áudio, vídeo, computador, pista ausente e término do tempo.", "critical"],
+            ["test-equip", "Testar no equipamento definitivo", "Verificar desempenho, tela, som, teclado/mouse e aquecimento.", "critical"],
+          ]},
+          { title: "Testes com público", tasks: [
+            ["test-cego", "Realizar pelo menos 3 testes cegos", "Grupos de 3-5 alunos do ensino médio que não conheçam o roteiro.", "critical"],
+            ["test-metricas", "Registrar tempos e dicas", "Tempo até Bryan, 2847, 22:46, final, dicas utilizadas e falhas.", ""],
+            ["test-entendimento", "Verificar compreensão da história", "Pelo menos 80% devem explicar corretamente Bryan, Marcelo e Helena.", "critical"],
+            ["test-tempo", "Confirmar duração de 10-15 minutos", "Meta de mediana entre 10 e 13 minutos.", "critical"],
+            ["test-revisao", "Aplicar a rodada final de correções", "Ajustar somente clareza, tempo e operação; preservar o roteiro aprovado.", "delivery"],
+          ]},
+          { title: "Liberação final", tasks: [
+            ["final-carga", "Executar simulação de 10 rodadas", "Testar fila, desgaste, reset, equipamento e comunicação da equipe.", "critical"],
+            ["final-aprovacao", "Obter aprovação do professor responsável", "Validar segurança, uso de imagem, conteúdo e operação.", "critical"],
+            ["final-inventario", "Fechar inventário e kits de reposição", "Contar todos os props, equipamentos, cabos, reservas e materiais impressos.", "delivery"],
+            ["final-escala", "Fechar escala da feira", "Operadores, intervalos, suporte e responsável por abrir/fechar o espaço.", "critical"],
+            ["final-backup", "Criar backup final imutável", "Guardar sistema, mídias e arquivos para impressão em duas localizações.", "critical"],
+            ["final-go", "Realizar conferência de abertura", "Usar checklist do manual e liberar oficialmente a experiência.", "delivery"],
+          ]}
+        ]
+      }
+    ];
+
+    const STORAGE_KEY = "escape-room-execucao-v1";
+    let saved = {};
+    try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); } catch { saved = {}; }
+    let activeFilter = "all";
+
+    const phaseList = document.getElementById("phaseList");
+    const allTasks = phases.flatMap(p => p.groups.flatMap(g => g.tasks));
+
+    function render() {
+      phaseList.innerHTML = phases.map((phase, index) => `
+        <details class="panel phase" data-phase="${phase.id}" ${index === 0 ? "open" : ""}>
+          <summary>
+            <span class="phase-number">${phase.number}</span>
+            <span class="phase-title"><h2>${phase.title}</h2><p>${phase.description}</p></span>
+            <span class="phase-count"><strong id="count-${phase.id}">0 / 0</strong><span>concluídas <span class="chevron">⌄</span></span></span>
+          </summary>
+          <div class="phase-body">
+            <div class="phase-progress"><span id="bar-${phase.id}"></span></div>
+            ${phase.groups.map(group => `
+              <div class="task-group">
+                <h3>${group.title}</h3>
+                ${group.tasks.map(([id,title,detail,tag]) => `
+                  <div class="task" data-id="${id}" data-text="${(title + " " + detail + " " + group.title).toLowerCase()}">
+                    <input type="checkbox" id="${id}" ${saved[id] ? "checked" : ""} />
+                    <label for="${id}"><strong>${title}</strong><small>${detail}</small></label>
+                    ${tag ? `<span class="tag ${tag}">${tag === "critical" ? "Essencial" : "Entrega"}</span>` : ""}
+                  </div>
+                `).join("")}
+              </div>
+            `).join("")}
+          </div>
+        </details>
+      `).join("");
+
+      document.querySelectorAll('.task input').forEach(input => {
+        input.addEventListener('change', () => {
+          saved[input.id] = input.checked;
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+          update();
+        });
+      });
+      update();
+    }
+
+    function update() {
+      const query = document.getElementById('search').value.trim().toLowerCase();
+      let visibleCount = 0;
+      document.querySelectorAll('.task').forEach(task => {
+        const input = task.querySelector('input');
+        task.classList.toggle('done', input.checked);
+        const statusMatch = activeFilter === 'all' || (activeFilter === 'done' && input.checked) || (activeFilter === 'pending' && !input.checked);
+        const searchMatch = !query || task.dataset.text.includes(query);
+        const show = statusMatch && searchMatch;
+        task.classList.toggle('hidden', !show);
+        if (show) visibleCount++;
+      });
+
+      phases.forEach(phase => {
+        const ids = phase.groups.flatMap(g => g.tasks.map(t => t[0]));
+        const done = ids.filter(id => saved[id]).length;
+        document.getElementById(`count-${phase.id}`).textContent = `${done} / ${ids.length}`;
+        document.getElementById(`bar-${phase.id}`).style.width = `${ids.length ? done / ids.length * 100 : 0}%`;
+      });
+
+      const completed = allTasks.filter(([id]) => saved[id]).length;
+      const total = allTasks.length;
+      const pct = total ? Math.round(completed / total * 100) : 0;
+      document.getElementById('percentage').textContent = `${pct}%`;
+      document.getElementById('progressBar').style.width = `${pct}%`;
+      document.getElementById('completedText').textContent = `${completed} de ${total} tarefas concluídas`;
+      document.getElementById('remainingText').textContent = `${total - completed} pendentes`;
+      document.getElementById('emptyState').classList.toggle('show', visibleCount === 0);
+    }
+
+    document.getElementById('search').addEventListener('input', update);
+    document.querySelectorAll('.filter').forEach(btn => btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active'); activeFilter = btn.dataset.filter; update();
+    }));
+    document.getElementById('expandAll').addEventListener('click', e => {
+      const details = [...document.querySelectorAll('.phase')];
+      const shouldOpen = details.some(d => !d.open);
+      details.forEach(d => d.open = shouldOpen);
+      e.currentTarget.textContent = shouldOpen ? 'Fechar blocos' : 'Abrir blocos';
+    });
+    document.getElementById('printBtn').addEventListener('click', () => window.print());
+    document.getElementById('resetBtn').addEventListener('click', () => {
+      if (confirm('Zerar todo o progresso deste checklist?')) {
+        saved = {}; localStorage.removeItem(STORAGE_KEY);
+        document.querySelectorAll('.task input').forEach(i => i.checked = false); update();
+      }
+    });
+
+    render();
+  </script>
+</body>
+</html>

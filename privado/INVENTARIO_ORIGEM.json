@@ -1,0 +1,3072 @@
+{
+  "data": "2026-11-24",
+  "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo",
+  "entrega": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\entrega_final\\o-arquivo-corrompido",
+  "arquivos": [
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\ambient.css",
+      "destino": "public/ambient.css",
+      "sha256": "d9d9e47d71b084699f62ebe6869c2c263eb5639f136f8249fa18a725ce873d92"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\ambient.js",
+      "destino": "public/ambient.js",
+      "sha256": "a9d28aef0725ae57fb6263fbc68c29f8202964d9ba421ae21e966967bcdd2d96"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\app.js",
+      "destino": "public/app.js",
+      "sha256": "16405f62515591016df6c204b387d9d60907e8ef56a0040c1a3ee23bcbcb5aed"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\7set-dev-wordmark-claro.png",
+      "destino": "public/assets/7set-dev-wordmark-claro.png",
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\IBMPlexMono-OFL.txt",
+      "destino": "public/assets/IBMPlexMono-OFL.txt",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\IBMPlexMono-Regular.ttf",
+      "destino": "public/assets/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\broken.svg",
+      "destino": "public/assets/os/broken.svg",
+      "sha256": "966961fa06e77db097806911cb9430fa35adbf1a5bcd62ba31059f3e38b77602"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\default.png",
+      "destino": "public/assets/os/cursors/default.png",
+      "sha256": "2bfc3fc99416f655e362ff20e77354211abe228631937f0785b8f2d64276834e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\grab.png",
+      "destino": "public/assets/os/cursors/grab.png",
+      "sha256": "a55a140d2700b49917edc3f920a435a82c26386445809082a8a7fce122903904"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\grabbing.png",
+      "destino": "public/assets/os/cursors/grabbing.png",
+      "sha256": "b367fe168f66b19e37c98364f992c0c5370c47b01a58293ad10b72e12f8efb7b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\help.png",
+      "destino": "public/assets/os/cursors/help.png",
+      "sha256": "386ef479151da58000c623d47a5e5d15ef21d5e89f32446f7a1f2efe6fbfc56c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\manifest.json",
+      "destino": "privado/fontes/metadados_sistema/assets/os/cursors/manifest.json",
+      "sha256": "d93473f00b8df25fdead4d4f372bfd5d91de26728375de3a255d0832ec3bf0e5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\not-allowed.png",
+      "destino": "public/assets/os/cursors/not-allowed.png",
+      "sha256": "a5453f442d97820cb270ab4c29e9627119e962bf82d2e5a0cea967ef19765db6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\pointer.png",
+      "destino": "public/assets/os/cursors/pointer.png",
+      "sha256": "fed5015445bc326a42160ef8da407f61ac1ac91c476571acab39afb0606585ab"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\previa-cursores.png",
+      "destino": "public/assets/os/cursors/previa-cursores.png",
+      "sha256": "d869d2092738b63267633e580cb0c51d18ee3072f40dff425d1a8b745d847186"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\resize-nwse.png",
+      "destino": "public/assets/os/cursors/resize-nwse.png",
+      "sha256": "52ca12fedab350f5ee161a1c77621a99cbb3d829b0d8c80c327248386211dcd3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\text.png",
+      "destino": "public/assets/os/cursors/text.png",
+      "sha256": "8e4f6a3ab7b19873c94874b356c0483f7d1a20abbe349405563d31bc8deb7b7a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\wait.png",
+      "destino": "public/assets/os/cursors/wait.png",
+      "sha256": "4e8f45ca35d8e057728dcc398d9cd79ecb273ee7ffadadf6060bea81ac6e730b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\zoom-in.png",
+      "destino": "public/assets/os/cursors/zoom-in.png",
+      "sha256": "3510fd8bd119117e269f43ccec652acdf79a80d082114d90086e6888832cb7b5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\cursors\\zoom-out.png",
+      "destino": "public/assets/os/cursors/zoom-out.png",
+      "sha256": "2cbfeb9ce88e1602bc31891d855f2fcfa181e13b7aa7c4ebcaaa24f916867225"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\desktop.svg",
+      "destino": "public/assets/os/desktop.svg",
+      "sha256": "c382dce680d50c6b183114bbdc8861c594fd773f490834736d61e6a2e004b6c0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\failure\\cracked-glass-v1.png",
+      "destino": "public/assets/os/failure/cracked-glass-v1.png",
+      "sha256": "8dc8975a76dcabb8d2886e59ab62d07d91c5d3a5b513f405239876e4fabb8219"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\failure\\GERACAO.md",
+      "destino": "privado/historico/manuais_do_sistema/assets/os/failure/GERACAO.md",
+      "sha256": "8451b1320175b088aa2092d2eacf24c0a555888d82f7e0f9f09060deab6fb705"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\file.svg",
+      "destino": "public/assets/os/file.svg",
+      "sha256": "ec06978846ab6e7932c57ba533d1edf3d20e9b39aa55d0b329895815e45afebb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\files.svg",
+      "destino": "public/assets/os/files.svg",
+      "sha256": "045cd8e955a3e93f22a06b0f5ead0710b25842567f2b5d2a5cf5a8f943737433"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\introvideo.svg",
+      "destino": "public/assets/os/introvideo.svg",
+      "sha256": "0c6c70952648db97fb04d20bbf958b227be72b7b9dc5567f0925359708cf2138"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\media.svg",
+      "destino": "public/assets/os/media.svg",
+      "sha256": "f9b46a8697ebb2034196606fb32f1e863be780b0baf3c89f3b8d908d295d5789"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\notes.svg",
+      "destino": "public/assets/os/notes.svg",
+      "sha256": "f93c09c9158c66c1b5ca2ec9037b8e41bbc9f1d1610c4e7f6afb064350af56ff"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\PRODUCAO.json",
+      "destino": "privado/fontes/metadados_sistema/assets/os/PRODUCAO.json",
+      "sha256": "0da4d95da384f8d6fbdd41a63a745ddaa9d9f37f9ab0ec6808e0024f5ce74b7a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\solve.svg",
+      "destino": "public/assets/os/solve.svg",
+      "sha256": "c11adc31e4c03a0d420a940b5d12e305e00e095f6b000765dab3be67ffd9cf19"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\timeline.svg",
+      "destino": "public/assets/os/timeline.svg",
+      "sha256": "4811c7249488f08711337f804df6ce61903a3f7c392b1440edf3387e43c17040"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\trash.svg",
+      "destino": "public/assets/os/trash.svg",
+      "sha256": "0438d95955e54c4eba59b443ce83a0f6537244e3c1239846eea836cdfef81861"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\user.svg",
+      "destino": "public/assets/os/user.svg",
+      "sha256": "930321049c63e99e26ee570fb984a2dfac1616b77414fe2bb579c052b971d62d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\vigia.svg",
+      "destino": "public/assets/os/vigia.svg",
+      "sha256": "7dd0df298d2efaf7b55ebe3d733f17c7dd11dbace0eaa7c1b0a18a06286b0d48"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\os\\wallpaper.png",
+      "destino": "public/assets/os/wallpaper.png",
+      "sha256": "9aa382f1f71e5f1f82b7927a3b7578e35f35bf7da10f7e8c74740b26a5ecb439"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\paper-grain.svg",
+      "destino": "public/assets/paper-grain.svg",
+      "sha256": "4e6e0d917e186ad925382a6c0b52a7e418bfbbcb68441bd2c5e0448d1d1005a8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\SpaceGrotesk-Bold.ttf",
+      "destino": "public/assets/SpaceGrotesk-Bold.ttf",
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\SpaceGrotesk-OFL.txt",
+      "destino": "public/assets/SpaceGrotesk-OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\audio01.wav",
+      "destino": "public/audio/audio01.wav",
+      "sha256": "2fd60e985891f921bfaa9e4a58db63720135a55a43b7a0e93df5ef39224ca190"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\audio02.wav",
+      "destino": "public/audio/audio02.wav",
+      "sha256": "5a1d0be4d6a69b884d9639b1d048b1f1ba2d22b9496c29cbd89ef2eb2ab78613"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\audio03.wav",
+      "destino": "public/audio/audio03.wav",
+      "sha256": "4177232183b00196d9f1ac0fed8d57b63b3f0525d414020caf1445fd44e56d4a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\CREDITOS.md",
+      "destino": "privado/historico/manuais_do_sistema/audio/failure/CREDITOS.md",
+      "sha256": "694617c0a1445a8c28c0a1dd9609c7ef4c218c7b97924c090ebeda3487a4447a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\electric-hum-141075.mp3",
+      "destino": "public/audio/failure/electric-hum-141075.mp3",
+      "sha256": "a98634f8b80245195dfe7259bdb4a8f953ca054b3c98a87ed50efea6dc8d9abd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\glass-cracking-504028.mp3",
+      "destino": "public/audio/failure/glass-cracking-504028.mp3",
+      "sha256": "010ef779955cedabb5774462fe30a8506b936655967be2cf05975d64d44d82d6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\licenca.json",
+      "destino": "public/audio/failure/licenca.json",
+      "sha256": "e55fe76c5eb63c76142d982ef2833cdbf4903b909fafedee114dc35a6ea7dbb9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\tv-static-noise-152056.mp3",
+      "destino": "public/audio/failure/tv-static-noise-152056.mp3",
+      "sha256": "3e41a42b54633071082977d6111b1fffa7e2f60ed00c061fcfdf48ed9fabf59c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final01.wav",
+      "destino": "public/audio/final01.wav",
+      "sha256": "0b99d0978efdb1d427ba5954dba85aae1b4a6b50bd8c0785abd30eea0a1bb3e5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final02.wav",
+      "destino": "public/audio/final02.wav",
+      "sha256": "197d77a7e0bc0e6662986a97ce39f8943436b4e3b1ae5b0ade633cb9854be721"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final03.wav",
+      "destino": "public/audio/final03.wav",
+      "sha256": "ea5155923800abb525cf86fcf2c77e50e5658a9139e44a03ccf571820d5f30b0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final04.wav",
+      "destino": "public/audio/final04.wav",
+      "sha256": "c6bd7fb8b194b8aacae2c8b86031efd5f7578910d3a947ea3311daf63c9e3d96"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final05.wav",
+      "destino": "public/audio/final05.wav",
+      "sha256": "0354d9eca1d68e77a820323e8d3a8a85a721c066ed6af8c7bf99c1ec0ad435ff"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final06.wav",
+      "destino": "public/audio/final06.wav",
+      "sha256": "f6f04e9e67545135df1e920011d9a639cf6f747434a742693ef4b13682210e37"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final07.wav",
+      "destino": "public/audio/final07.wav",
+      "sha256": "8ab10b7a92b055b04fdb720c58f5965f8f696a2ec49cdc698f8349d2770cba9c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final08.wav",
+      "destino": "public/audio/final08.wav",
+      "sha256": "1caa29251b9cedcef4285a544cdf2607b696311713770137bea446831ef33b05"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\final_completo.wav",
+      "destino": "public/audio/final_completo.wav",
+      "sha256": "710924001e5fca66b03800a14f090756e1ba78d4c32667b28966507264d24d4a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\manifesto_integracao.json",
+      "destino": "privado/fontes/metadados_sistema/audio/manifesto_integracao.json",
+      "sha256": "e79fbac8ef1d9134eec6c6be82a2fb94020020bf4dd280617f77c3104bf19253"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\roteiro_sintese.json",
+      "destino": "privado/fontes/metadados_sistema/audio/roteiro_sintese.json",
+      "sha256": "75cba84b59e92911b97824d5375307aa9493781b274fb3a6dcaf722c9f778a83"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\roteiros.js",
+      "destino": "public/audio/roteiros.js",
+      "sha256": "8d2c5ecdb15effeb2dde66306a86a9efae0d25ca780e3cccdb4badba3a317fa7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\trilha\\CREDITOS.md",
+      "destino": "privado/historico/manuais_do_sistema/audio/trilha/CREDITOS.md",
+      "sha256": "61b9178df00798f19f6ce1ea321cff53a244a289c7b48f8af0f4c161cb68a76e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\trilha\\licenca.json",
+      "destino": "public/audio/trilha/licenca.json",
+      "sha256": "8e32f2dc6ea4aad72bc633a046c470f5b05968ed50dd133551c99600303728bb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\trilha\\long-note-one.mp3",
+      "destino": "public/audio/trilha/long-note-one.mp3",
+      "sha256": "665aef3a5eaba25a0108f632e85895516868813a764a58bc203702829ac4c6c1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\catastrophic-failure.css",
+      "destino": "public/catastrophic-failure.css",
+      "sha256": "bd9bb60abe712a4f0edf8750060cd40f3c79fac02f078a888eb66ba4845156b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\catastrophic-failure.js",
+      "destino": "public/catastrophic-failure.js",
+      "sha256": "2397019bc616f3e599a5ca8d149c710396ca974899ece576ee22c417a22e6a9a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\countdown.js",
+      "destino": "public/countdown.js",
+      "sha256": "5ec1dabf87defdc3de49c9d3e674a93586010366ce74326bd6f6d1f748343876"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\cursors.css",
+      "destino": "public/cursors.css",
+      "sha256": "3e6455a117abcaf2c4454b15e69051418ba032073714e71bea60380de715536b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\data.js",
+      "destino": "public/data.js",
+      "sha256": "aca6430987526a41f574e6082df8eadc8be13064171fed4e5a9f3facbc84417b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\desktop-interactions.css",
+      "destino": "public/desktop-interactions.css",
+      "sha256": "82e91fad8a3a77c70891e0b36f85d87b6ba79253cada1798f32cbdc1521d2fa7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\desktop-interactions.js",
+      "destino": "public/desktop-interactions.js",
+      "sha256": "6c25e69628dd4069ab3829a869ccfcc956b2ba3ce68d15e35a801d960d65821e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\desktop.css",
+      "destino": "public/desktop.css",
+      "sha256": "49a5a0aedcdcc8efc3355277ae6fe81465a59f49d7a4d5517e674f2097638d8e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\desktop.js",
+      "destino": "public/desktop.js",
+      "sha256": "83b28b1aab7e0f55d372199bf4ecacc82256813c938bfec34d5227bfe42a26a6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\assets\\7set-dev-wordmark-claro.png",
+      "destino": "public/encerramento/assets/7set-dev-wordmark-claro.png",
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\assets\\IBMPlexMono-OFL.txt",
+      "destino": "public/encerramento/assets/IBMPlexMono-OFL.txt",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\assets\\IBMPlexMono-Regular.ttf",
+      "destino": "public/encerramento/assets/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\assets\\SpaceGrotesk-Bold.ttf",
+      "destino": "public/encerramento/assets/SpaceGrotesk-Bold.ttf",
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\assets\\SpaceGrotesk-OFL.txt",
+      "destino": "public/encerramento/assets/SpaceGrotesk-OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\cartela_final.png",
+      "destino": "public/encerramento/cartela_final.png",
+      "sha256": "e330d4042e1f6e29d3f1b60ed77209dcab2693c9ff4c6c8ccd088ea88ec97ba8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\cenas.js",
+      "destino": "public/encerramento/cenas.js",
+      "sha256": "43173b5d85885266ae35f5ab39545c74d0dcb7e1a571f43892f9b02d4bb16518"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\cenas.json",
+      "destino": "privado/fontes/metadados_sistema/encerramento/cenas.json",
+      "sha256": "a88146ee8608311f77bb83ac25824d411705b9b67691d7b18e47bf373480b52d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fontes\\IBMPlexMono-Regular.ttf",
+      "destino": "public/encerramento/filme/assets/fontes/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fontes\\SpaceGrotesk-Bold.ttf",
+      "destino": "public/encerramento/filme/assets/fontes/SpaceGrotesk-Bold.ttf",
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\01.png",
+      "destino": "public/encerramento/filme/assets/fotos/01.png",
+      "sha256": "47551057f2008068eed5e53027a2e3f2dfa930e490b6333d6f7b3ef22b56aacb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\03.png",
+      "destino": "public/encerramento/filme/assets/fotos/03.png",
+      "sha256": "ad1cb9e11ee6a9035566b78b5c8c00bb6cb05751906b527303bb09f8d8bacddc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\06.png",
+      "destino": "public/encerramento/filme/assets/fotos/06.png",
+      "sha256": "d655cae52783aa431e31d6db6189c73c00678f158668ce0e54b137dbb236f946"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\07.png",
+      "destino": "public/encerramento/filme/assets/fotos/07.png",
+      "sha256": "e5257a48b112793fb49019ff73cee399d8acac2443fad3548aae74f8d968709a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\08.png",
+      "destino": "public/encerramento/filme/assets/fotos/08.png",
+      "sha256": "ee78d3ab275a61b6384c499f3e2c838ca242441acf60079e671fe1094d3390f1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\09.png",
+      "destino": "public/encerramento/filme/assets/fotos/09.png",
+      "sha256": "1146bf39cb09f17bcc4db1db43611ed05eabb46a1d87b0c62594628e1ecb2441"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\11.png",
+      "destino": "public/encerramento/filme/assets/fotos/11.png",
+      "sha256": "832aba8e0ff8f414a3a4a319d8d79095b8d892a04b902753442bcef972d578cc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\12.png",
+      "destino": "public/encerramento/filme/assets/fotos/12.png",
+      "sha256": "254abac8fb978634f958a44fe55cf372bb103c4b767ff2ef15b842975ddc6a06"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\13.png",
+      "destino": "public/encerramento/filme/assets/fotos/13.png",
+      "sha256": "042afec0f6a5a9033681b2fec07720fcccef24d078262a9ab4a93930616564cf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\14.png",
+      "destino": "public/encerramento/filme/assets/fotos/14.png",
+      "sha256": "f9d13cbfaeeb704a1a7383c3a8012cf2162c904b06893bfa6a4edad7da930ee7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\15.png",
+      "destino": "public/encerramento/filme/assets/fotos/15.png",
+      "sha256": "e110ab00dab43e2f9f75dc32035ba555961e6cf9e0aea3178f3ea936617ae452"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\16.png",
+      "destino": "public/encerramento/filme/assets/fotos/16.png",
+      "sha256": "49bb037d1691efb592b6fbe367d3f06016b8e7be16bac6f4801a353f0afed740"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\17.png",
+      "destino": "public/encerramento/filme/assets/fotos/17.png",
+      "sha256": "1672ff305867b870511d4503bc55d3bca402ddbc20f4fdd36a1f76cc4be54324"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\18.png",
+      "destino": "public/encerramento/filme/assets/fotos/18.png",
+      "sha256": "bc428bf52da29f8dd41d02d16491ddfdcb2a37b015555b4eb31df4d25f4809be"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\19.png",
+      "destino": "public/encerramento/filme/assets/fotos/19.png",
+      "sha256": "2899a7890e61a0e18076b4c49dcb5415ac234bba2ae6bda07ecd02c0e6e8fc58"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\20.png",
+      "destino": "public/encerramento/filme/assets/fotos/20.png",
+      "sha256": "30f32e7f04377c38c1f648a468f9342f558352046d69d7956951393a25cd3587"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\21.png",
+      "destino": "public/encerramento/filme/assets/fotos/21.png",
+      "sha256": "703e0100befe51013831c17230123ad25406113fb8885503b9ee8fbeaf62b238"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\22.png",
+      "destino": "public/encerramento/filme/assets/fotos/22.png",
+      "sha256": "28abf416a13bf0ac4291c2d922e03a488c339359420595d4849bcb4fdb8d28aa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\23.png",
+      "destino": "public/encerramento/filme/assets/fotos/23.png",
+      "sha256": "33e4e511ec3f6060c57e9be9389f8a3c2573f4fd6fd9fc5d2ee9cdc674aae82e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\24.png",
+      "destino": "public/encerramento/filme/assets/fotos/24.png",
+      "sha256": "1e0e2049dfd7c2399132b61d2ac2bc28100f3ef1ae3cf9b37f6991827e750194"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\7set-dev-wordmark-claro.png",
+      "destino": "public/encerramento/filme/assets/referencias/7set-dev-wordmark-claro.png",
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\A17_ficha_projeto.png",
+      "destino": "public/encerramento/filme/assets/referencias/A17_ficha_projeto.png",
+      "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\C1_registro_catraca.png",
+      "destino": "public/encerramento/filme/assets/referencias/C1_registro_catraca.png",
+      "sha256": "c7a236dbdc067fe2be77980aade3ad645a7281a4e945c7c77cba4aaabd3c1767"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\CAM01_interrupcao_camera.png",
+      "destino": "public/encerramento/filme/assets/referencias/CAM01_interrupcao_camera.png",
+      "sha256": "1fc7b27c30097244e81dc0b5420829baa83b78711a55d839ae1ab5f3ecb6bcf2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_318.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_318.png",
+      "sha256": "795e0231af91338df6e6370179c698e709d8d78406a28ecf7b063d8e861c079d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_318B.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_318B.png",
+      "sha256": "69d84825cc914d62608b0a0301d081d55f2836ab376fb2910a6effb66bd76a97"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_427.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_427.png",
+      "sha256": "127446745be2b8fe289529077eea70579bc8ab5188b1f512ef536184d4c4da2e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_427B.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_427B.png",
+      "sha256": "f82064b04bfe725c46827d277764c096f660093e6efc510991d48bb802648808"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_512.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_512.png",
+      "sha256": "cdf5152165fbfad1d5c9e568b5eb735c2415cecd73f2a3fe6a4b665a86b48b98"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_512B.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN01_NF_512B.png",
+      "sha256": "51f5cf86efa4980e40dfdcec1f56380d3e48718100e73359343abd06c48d4b74"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN02_resumo_financeiro.png",
+      "destino": "public/encerramento/filme/assets/referencias/FIN02_resumo_financeiro.png",
+      "sha256": "3b7a667f8343023d2f1b57d671b334f0211ea9e3a625f5a109d372252d704888"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\H1_conversa_bryan_helena.png",
+      "destino": "public/encerramento/filme/assets/referencias/H1_conversa_bryan_helena.png",
+      "sha256": "dee2ac4288202dac4975fe019635c583b1dadd59cd9969d7e3a002e737733194"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\helena_frente.png",
+      "destino": "public/encerramento/filme/assets/referencias/helena_frente.png",
+      "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\L1_registro_acesso.png",
+      "destino": "public/encerramento/filme/assets/referencias/L1_registro_acesso.png",
+      "sha256": "83df100078619758bcaac44b7d270363f55703db6c894046774a89b77b9c2be9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\M1_conversa_bryan_marcelo.png",
+      "destino": "public/encerramento/filme/assets/referencias/M1_conversa_bryan_marcelo.png",
+      "sha256": "7e688272b31d8635774d1cefb6a04e765f3d4f42e78216caa0fabc6d009ffdf2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\N1_mensagem_northstar.png",
+      "destino": "public/encerramento/filme/assets/referencias/N1_mensagem_northstar.png",
+      "sha256": "0797ea3b297ba5e590d9808066e3bee791a37e62317fbf4f4660cecb1840c564"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P01_Carlos_Mendes_4x3_v01.png",
+      "destino": "public/encerramento/filme/assets/referencias/P01_Carlos_Mendes_4x3_v01.png",
+      "sha256": "1fac0fa4e34ebcb76f994639a1d2ae6d2e8926075b64324bd3eb3c9eac9b1cba"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P02_Helena_Duarte_4x3_v01.png",
+      "destino": "public/encerramento/filme/assets/referencias/P02_Helena_Duarte_4x3_v01.png",
+      "sha256": "a4752c52d2491663fe23d672a690ae0eb4eac89ab002b34e0cbfa9b63a4be025"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P03_Marcelo_Vieira_4x3_v01.png",
+      "destino": "public/encerramento/filme/assets/referencias/P03_Marcelo_Vieira_4x3_v01.png",
+      "sha256": "9c5b5e3223afd8577383aa8228a1921222a9a85d84defa2c68c9cca6ad9f76dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P09_Bryan_Almeida_4x3_v02.png",
+      "destino": "public/encerramento/filme/assets/referencias/P09_Bryan_Almeida_4x3_v02.png",
+      "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\RVM_auditoria_conta.png",
+      "destino": "public/encerramento/filme/assets/referencias/RVM_auditoria_conta.png",
+      "sha256": "912fe3905d6f9e7bd37de107e9922a6034dd3038aea0132ace4aa275fecd0efd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\V17_manifesto_lote.png",
+      "destino": "public/encerramento/filme/assets/referencias/V17_manifesto_lote.png",
+      "sha256": "678aabfd67b708f18713e054dfff7109e852006ac666bc0cd9dc05ace9ae2524"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\dados.js",
+      "destino": "public/encerramento/filme/dados.js",
+      "sha256": "c50cb482b6b4832d8fd1242f7f6aa604fe71644fe2b36785db9ad09df2a61939"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\estilo.css",
+      "destino": "public/encerramento/filme/estilo.css",
+      "sha256": "573eed614761c8110b0038ef4f4828869b583ccc50595bdab95d49aa091bee96"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\filme.js",
+      "destino": "public/encerramento/filme/filme.js",
+      "sha256": "7a402c0bda084261f411dccaedc0f75e8b590797fdb0542d123afcd334fe33f3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\index.html",
+      "destino": "public/encerramento/filme/index.html",
+      "sha256": "952ef9dbdb14fbe057300ea545c1ebec4a3b2c78155b896c75e3aaf448fd1ce3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\integrado.css",
+      "destino": "public/encerramento/filme/integrado.css",
+      "sha256": "786001f8f0741802b747657d81997754d83296896c2759196cbad2808d8db5b8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\filme\\LEIA-ME.md",
+      "destino": "privado/historico/manuais_do_sistema/encerramento/filme/LEIA-ME.md",
+      "sha256": "f813e94a657fc0a8da2d0b4413382dc7f285ca624f220a0c43d0bb2a9209f2f8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\index.html",
+      "destino": "public/encerramento/index.html",
+      "sha256": "998ed0afef5ba6f5d2e6862da36395f0765b672762e70ed664ab60e1275f62c2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\legendas.vtt",
+      "destino": "public/encerramento/legendas.vtt",
+      "sha256": "ccd7096a90670b96d43d594318488948df71469e174e45c52b365c60cb72f87e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\encerramento\\Storyboard_documental.pdf",
+      "destino": "privado/fontes/metadados_sistema/encerramento/Storyboard_documental.pdf",
+      "sha256": "1d2085c0ac0b70a649c2ea9ca11fb489b19468b1c8f41c098503c9cd98c6fb1b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\engine.js",
+      "destino": "public/engine.js",
+      "sha256": "574689c4e44ff80ced9b5a1e25c928654e01913c1104076dbed7015327b42f56"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\A17_ficha_projeto.png",
+      "destino": "public/evidencias/A17_ficha_projeto.png",
+      "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\AL_relatorio_presenca_remota.png",
+      "destino": "public/evidencias/AL_relatorio_presenca_remota.png",
+      "sha256": "6ba13958bc8991e0bef498c61bb1057e5d59fce18d9d27953692b2f5ed91c62f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\APOIO_01_pessoas_registros.png",
+      "destino": "public/evidencias/APOIO_01_pessoas_registros.png",
+      "sha256": "a99193a1517405aa924b5d56b8ebedb6bf46ae7d340fd9a4cc83761e94e69a23"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\APOIO_02_pessoas_registros.png",
+      "destino": "public/evidencias/APOIO_02_pessoas_registros.png",
+      "sha256": "a114180ab4eee0d585a8f3ff04bfd98cbbf57f4f462016abc7c9e78c97c51e89"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\APOIO_03_pessoas_registros.png",
+      "destino": "public/evidencias/APOIO_03_pessoas_registros.png",
+      "sha256": "eba2d916f55ef68ec4290cc9b810413490b97ce19ba6bba57cb586f2d3ee41a9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\C1_registro_catraca.png",
+      "destino": "public/evidencias/C1_registro_catraca.png",
+      "sha256": "c7a236dbdc067fe2be77980aade3ad645a7281a4e945c7c77cba4aaabd3c1767"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\CAM01_interrupcao_camera.png",
+      "destino": "public/evidencias/CAM01_interrupcao_camera.png",
+      "sha256": "1fc7b27c30097244e81dc0b5420829baa83b78711a55d839ae1ab5f3ecb6bcf2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\F1_composicao.jpg",
+      "destino": "public/evidencias/F1_composicao.jpg",
+      "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\F1_composicao_PROVISORIA.jpg",
+      "destino": "public/evidencias/F1_composicao_PROVISORIA.jpg",
+      "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\F1_identificacao.png",
+      "destino": "public/evidencias/F1_identificacao.png",
+      "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\F1_identificacao_PROVISORIA.png",
+      "destino": "public/evidencias/F1_identificacao_PROVISORIA.png",
+      "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_318.png",
+      "destino": "public/evidencias/FIN01_NF_318.png",
+      "sha256": "795e0231af91338df6e6370179c698e709d8d78406a28ecf7b063d8e861c079d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_318B.png",
+      "destino": "public/evidencias/FIN01_NF_318B.png",
+      "sha256": "69d84825cc914d62608b0a0301d081d55f2836ab376fb2910a6effb66bd76a97"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_427.png",
+      "destino": "public/evidencias/FIN01_NF_427.png",
+      "sha256": "127446745be2b8fe289529077eea70579bc8ab5188b1f512ef536184d4c4da2e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_427B.png",
+      "destino": "public/evidencias/FIN01_NF_427B.png",
+      "sha256": "f82064b04bfe725c46827d277764c096f660093e6efc510991d48bb802648808"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_512.png",
+      "destino": "public/evidencias/FIN01_NF_512.png",
+      "sha256": "cdf5152165fbfad1d5c9e568b5eb735c2415cecd73f2a3fe6a4b665a86b48b98"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_512B.png",
+      "destino": "public/evidencias/FIN01_NF_512B.png",
+      "sha256": "51f5cf86efa4980e40dfdcec1f56380d3e48718100e73359343abd06c48d4b74"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\FIN02_resumo_financeiro.png",
+      "destino": "public/evidencias/FIN02_resumo_financeiro.png",
+      "sha256": "3b7a667f8343023d2f1b57d671b334f0211ea9e3a625f5a109d372252d704888"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\H1_conversa_bryan_helena.png",
+      "destino": "public/evidencias/H1_conversa_bryan_helena.png",
+      "sha256": "dee2ac4288202dac4975fe019635c583b1dadd59cd9969d7e3a002e737733194"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\L1_registro_acesso.png",
+      "destino": "public/evidencias/L1_registro_acesso.png",
+      "sha256": "83df100078619758bcaac44b7d270363f55703db6c894046774a89b77b9c2be9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\M1_conversa_bryan_marcelo.png",
+      "destino": "public/evidencias/M1_conversa_bryan_marcelo.png",
+      "sha256": "7e688272b31d8635774d1cefb6a04e765f3d4f42e78216caa0fabc6d009ffdf2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\N1_mensagem_northstar.png",
+      "destino": "public/evidencias/N1_mensagem_northstar.png",
+      "sha256": "0797ea3b297ba5e590d9808066e3bee791a37e62317fbf4f4660cecb1840c564"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\R1_acessos_anteriores.png",
+      "destino": "public/evidencias/R1_acessos_anteriores.png",
+      "sha256": "046d9134a0d28268bd9d7a4e0e0d225fc2076297db092f5cf6f2120216636a68"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\R2_mensagem_rafael.png",
+      "destino": "public/evidencias/R2_mensagem_rafael.png",
+      "sha256": "86eace0597096e65b32836d08a12e54591c2d8c6cde39c52826a11bc680753b9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\RVM_auditoria_conta.png",
+      "destino": "public/evidencias/RVM_auditoria_conta.png",
+      "sha256": "912fe3905d6f9e7bd37de107e9922a6034dd3038aea0132ace4aa275fecd0efd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\T3_extrato_ocorrencias.png",
+      "destino": "public/evidencias/T3_extrato_ocorrencias.png",
+      "sha256": "160cd13303ee77489ee862fb4e696290bed8f4557d28aceb260292d55cc443a2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\evidencias\\V17_manifesto_lote.png",
+      "destino": "public/evidencias/V17_manifesto_lote.png",
+      "sha256": "678aabfd67b708f18713e054dfff7109e852006ac666bc0cd9dc05ace9ae2524"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\feedback.js",
+      "destino": "public/feedback.js",
+      "sha256": "6f888a99547fa5b89f61b395f7e9dc727175d49b473254cfd65db96c48db3edd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\icons.js",
+      "destino": "public/icons.js",
+      "sha256": "da2d91c33fe8718c768b19501d753b465cc33fffcd37a02560fd0d07b6caa735"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\index.html",
+      "destino": "public/index.html",
+      "sha256": "63c2f73c4c9c27ed1a226c88a8c3ee070ac9055a527dca3235cdc1472ef68e96"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\intro-video.css",
+      "destino": "public/intro-video.css",
+      "sha256": "76f65cb73d8529d3f2a1cc9a986b489c20bd6ee9c84d1a8ff381dabcff0ce849"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\intro-video.js",
+      "destino": "public/intro-video.js",
+      "sha256": "dde5de9968523b38785af487d60b3eac8f289480981bcd4de4c128feedea02e1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\LEIA-ME.md",
+      "destino": "privado/historico/manuais_do_sistema/LEIA-ME.md",
+      "sha256": "e2bb2bd9448dc16fe798b99c8c5afbf4b45b360c324e763124e2e998e2825ffe"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\OPERACAO_EQUIPE.md",
+      "destino": "privado/historico/manuais_do_sistema/OPERACAO_EQUIPE.md",
+      "sha256": "14c120c6430cd8a78db76b6b06bbf73aab5e1c0856595bee8d5fbcb1a80e00dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\os-v2.css",
+      "destino": "public/os-v2.css",
+      "sha256": "1cd6d5b1b56e31f0267b97b062e7418d5d57d7993d2d824f0129a563b980641c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\README.md",
+      "destino": "privado/historico/manuais_do_sistema/README.md",
+      "sha256": "d09918a6fec776b17c814737eb475a555decf5d7b87886a9ee2aa1d915fa430e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\reconstituicao-modal.css",
+      "destino": "public/reconstituicao-modal.css",
+      "sha256": "ccaf30c8e129a549acf49fb2148340c7f0b79202c88e89b54e097778d8cd4678"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\session-settings.css",
+      "destino": "public/session-settings.css",
+      "sha256": "96dc9d2073afc36c82ef798ef1ef71f9d1c097d5a8cc023abe9a8b006bfeec66"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\session-settings.js",
+      "destino": "public/session-settings.js",
+      "sha256": "650bf010b72a97acb0aa478dea0bfe6467280198489d86bc94cb2882738dd69d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\start-menu.css",
+      "destino": "public/start-menu.css",
+      "sha256": "19d0d277e28a99bdc12ab2d13f858ac0a50a19b845713234528eb8824bdd59b1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\style.css",
+      "destino": "public/style.css",
+      "sha256": "f94f9d3dba713ce53d6380c637b99e94ea259d9f8378dcf389455689cebf59da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\taskbar-player.css",
+      "destino": "public/taskbar-player.css",
+      "sha256": "f05948b3bdaeea60b8bd67f6a80c100f4e8d1a737dfc69ef8f671dc6a76a60c9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\transmission-failure.css",
+      "destino": "public/transmission-failure.css",
+      "sha256": "edf0f884995e9912d9044cedd22f104de8081caf2c4d1ade4ecee6ed77550028"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\transmission-failure.js",
+      "destino": "public/transmission-failure.js",
+      "sha256": "2df1ffad1bdb53e468233f570a1785983f648672781f1e62bbdc2884af87ba6c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\video\\Video_inicial.mp4",
+      "destino": "public/video/Video_inicial.mp4",
+      "sha256": "83c2ee5b94b8c8360eaf237da60c56589049126c24d09e7362628e05fa542dfc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\vigia.js",
+      "destino": "public/vigia.js",
+      "sha256": "e79b3bde35b42817ff4e2a29da3545bdf606024af8d109e9d4dcdaad1b143232"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\VIGIA_OS_LEIA-ME.md",
+      "destino": "privado/historico/manuais_do_sistema/VIGIA_OS_LEIA-ME.md",
+      "sha256": "7d1fc1cec54e395f11bb11cdbcf87d3a052761d504fac079349153a035062665"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\VIGIA_OS_V2.md",
+      "destino": "privado/historico/manuais_do_sistema/VIGIA_OS_V2.md",
+      "sha256": "44f9e1886a9a7f097e157f1a5a33159af75a9f8fa27996dc00b3103919c2feea"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\01_PARA_IMPRESSAO\\Escape_Room_6_Documentos_Complementares_A4.pdf",
+      "destino": "materiais/impressao/02_documentos/Documentos_A4_vertical.pdf",
+      "sha256": "3c2fb057dc6d3348a47e58338efd863290dd8ccea8e3a8f38b8d2ee66d1e2d30"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\01_PARA_IMPRESSAO\\Escape_Room_Impressao_Completa_A4.pdf",
+      "destino": "materiais/impressao/01_cenario/Cenario_A4_horizontal.pdf",
+      "sha256": "681a06989956cf90d5ade0b7399df61a540d1cf5478c1e4a69c6e19eb74f6e4d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\01_PARA_IMPRESSAO\\Jornais_A3_3_Folhas.pdf",
+      "destino": "materiais/impressao/03_jornais/Jornais_A3_3_folhas.pdf",
+      "sha256": "c31c817be2ca12b0545634d30fdb8257d846ee4d65faa1267c75029ae2283aa1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\01_PARA_IMPRESSAO\\Jornais_A3_Orientacao.json",
+      "destino": "materiais/impressao/03_jornais/Orientacao.json",
+      "sha256": "e3709ece24ebd64defd8cfb557686cab0d27edbcfb637e856b849313ef281f8b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\01_PARA_IMPRESSAO\\LEIA-ME.md",
+      "destino": "privado/historico/impressao/LEIA-ME.md",
+      "sha256": "86d62210dbe9218aa56e54f1f4b3ae3f69e8b6517911cfde57800a254cf27376"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\GALERIA.html",
+      "destino": "privado/fontes/retratos_personagens/GALERIA.html",
+      "sha256": "346dc2e421b603c66d15d5e797b0df538e346e3697793afde3e7333507d1317f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\LEIA-ME.md",
+      "destino": "privado/fontes/retratos_personagens/LEIA-ME.md",
+      "sha256": "d39b9beb47b2f7489553c9886842daea83db6930ad7333fceb2d66a671fe1733"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P01_Carlos_Mendes_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P01_Carlos_Mendes_4x3_v01.png",
+      "sha256": "1fac0fa4e34ebcb76f994639a1d2ae6d2e8926075b64324bd3eb3c9eac9b1cba"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P02_Helena_Duarte_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P02_Helena_Duarte_4x3_v01.png",
+      "sha256": "a4752c52d2491663fe23d672a690ae0eb4eac89ab002b34e0cbfa9b63a4be025"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P03_Marcelo_Vieira_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P03_Marcelo_Vieira_4x3_v01.png",
+      "sha256": "9c5b5e3223afd8577383aa8228a1921222a9a85d84defa2c68c9cca6ad9f76dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P04_Renata_Lima_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P04_Renata_Lima_4x3_v01.png",
+      "sha256": "6852d1d33f0b25052c5ba4a949513a48f8154d68a158e717ebd6ad2dc5855a23"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P05_Eduardo_Nunes_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P05_Eduardo_Nunes_4x3_v01.png",
+      "sha256": "10539464e0f0d6b741575a36cd59f1ac8ac844a5dc5003a1f7e2d84af84f261b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P06_Patricia_Alves_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P06_Patricia_Alves_4x3_v01.png",
+      "sha256": "d15f62a6461cc725f93d54933c429b4f585537a3179554079387a9efcc658b01"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P07_Lucas_Martins_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P07_Lucas_Martins_4x3_v01.png",
+      "sha256": "9f03334273578ba91215916799ee6f91d4ca9a71174b55179fccebd7dce5b172"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P08_Camila_Rocha_4x3_v01.png",
+      "destino": "privado/fontes/retratos_personagens/P08_Camila_Rocha_4x3_v01.png",
+      "sha256": "7eae4fef9940a39fa65c0e46f1e1ac1e24c4266140fb6bb836c97b0fb96b2da7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\P09_Bryan_Almeida_4x3_v02.png",
+      "destino": "privado/fontes/retratos_personagens/P09_Bryan_Almeida_4x3_v02.png",
+      "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\03_RETRATOS_PERSONAGENS\\PROMPTS_E_REGISTRO.json",
+      "destino": "privado/fontes/retratos_personagens/PROMPTS_E_REGISTRO.json",
+      "sha256": "7cb5c82634cae55ec7bb09e26db6d9e3a7cf21b818c76652553bce0433bac892"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\dados_impressos.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/dados_impressos.json",
+      "sha256": "efd9352289a18d04743392c1a5680bfbacf385ec327a9fb41f01d74a6c08a68b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-03\\conteudos.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-03/conteudos.json",
+      "sha256": "f278fa270e2f15f5c0cd3f87bdec063a4842a0eaaa7653a09bdaf7cc07b425f7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-03\\integracao.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-03/integracao.json",
+      "sha256": "6056eb473e8a56eb13bb73472251a13b2fa4b08d21398bf33d6f43d8c01d8443"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-04\\conteudos.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-04/conteudos.json",
+      "sha256": "e86854e4941aed7138800f39ab5e1748d00bc54294f3876016a31b4793c875c0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-04\\integracao.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-04/integracao.json",
+      "sha256": "cac9df4a1fdb9a6780fdb5a9916f769b5be919c2fb490392740cf6bb01dc4c36"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\caso_consolidado_INTERNO.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/caso_consolidado_INTERNO.json",
+      "sha256": "1d2eb5fa86439f0a752b7678431408fe341428d1ceae927a78006ca9b06c5073"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\complemento_financeiro.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/complemento_financeiro.json",
+      "sha256": "bf1492f7deadfa07f494306044f8a247d77b446ebfbf493a6d8ea31019522514"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\conteudos.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/conteudos.json",
+      "sha256": "d03b60cea8ad5c248973d8bfd62a852f6350eaffddc800d8ef46c407360fb5fc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\integracao.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/integracao.json",
+      "sha256": "5856b4b01e3363e61ee68f3edd18493b765394e3f7049daca91752f1dce928bb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\matriz_consolidada_INTERNA.md",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/matriz_consolidada_INTERNA.md",
+      "sha256": "dbf2446f9978faa3ceb15919e6e3c5df4c0eb633ca7fb909991407e6a6b28f8f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\pendencias_atualizadas_INTERNO.md",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-05/pendencias_atualizadas_INTERNO.md",
+      "sha256": "397173322bd67fddf5bff88cb2d49dca057713c34f2bd8b0cf31e55ae106f51d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\cartoes.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/cartoes.json",
+      "sha256": "6aa8dc72ae7dfae1da837e7f86c952a763295cc9b72f98197655e60750dc36b2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\gabarito_INTERNO.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/gabarito_INTERNO.json",
+      "sha256": "21d47b538778813bc30e20e43e3876cfa000caf58b07f72e1c0da00e4317e511"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\integracao.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/integracao.json",
+      "sha256": "e4ec784f0c97bbdfea128198ff31fabe024c3d3fb7f434f3dc2517eb3e48e6cf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\protocolo.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/protocolo.json",
+      "sha256": "a8aaf148809b87faab643b21909818c91329930a0c4c9c3b522e974d31b188d6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\roteiros_audio.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/roteiros_audio.json",
+      "sha256": "406a6f92375ab982cd0e530c954c01668bd386fc35c9e530df49ca193ba4e70d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\vigia.json",
+      "destino": "privado/fontes/producao_e_editaveis/Dados_internos_RESTRITO/lote-06/vigia.json",
+      "sha256": "c051859bcfc94e688a992d03e4b81c3489a535a492b8ad339abea1492a6a729c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\gerar_documentos_investigacao.py",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_documentos_complementares/gerar_documentos_investigacao.py",
+      "sha256": "9c8c2154302a7e45b6ffc752bfdebac07798ff1eaed51cda212ef17c2d3a883a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\revisar_pistas_codigo.py",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_documentos_complementares/revisar_pistas_codigo.py",
+      "sha256": "2ce285f5d4dc3c1539b24a1c68751ad300c9adb35a920d58f0eddb21d28d35c9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\T3_extrato_ocorrencias.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_documentos_complementares/T3_extrato_ocorrencias.pdf",
+      "sha256": "7ceba20ec0daa2d74d46134f0488f89ca7f969d33f7de301cc8733173598e2ea"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\IBMPlexMono-OFL.txt",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_e_licencas/IBMPlexMono-OFL.txt",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\IBMPlexMono-Regular.ttf",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_e_licencas/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\SpaceGrotesk-Bold.ttf",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_e_licencas/SpaceGrotesk-Bold.ttf",
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\SpaceGrotesk-OFL.txt",
+      "destino": "privado/fontes/producao_e_editaveis/Fontes_e_licencas/SpaceGrotesk-OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Cracha\\helena_frente.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Cracha/helena_frente.png",
+      "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Cracha\\helena_verso.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Cracha/helena_verso.png",
+      "sha256": "23d2f61390210ea673ade3e7163f16a576dcc30bf373be1458b434dcc8bb0ffc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\acesso_restrito.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Etiquetas/acesso_restrito.png",
+      "sha256": "75faf9b026fa4ff1d05557ecb078c8c3afc905fc61a8cdec02a6f59165f87c0f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\confidencial.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Etiquetas/confidencial.png",
+      "sha256": "04efe40f61e0af8af2b8f82236d81c77683357527663ac2f5a8029a8cec9b83b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\evidencia.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Etiquetas/evidencia.png",
+      "sha256": "402b8b56205673fefc554d08b0735eddc8ae31fa30640d13b65f1fdabc64f51a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P01_carlos.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P01_carlos.png",
+      "sha256": "2389aceba5881d1e225130f98810153938ca48c671007ee92908c8592f5c8e3b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P02_helena.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P02_helena.png",
+      "sha256": "2f7d67471eb6598aced691e5ff94191332cb66f5f389bafe7964802eed07a72b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P03_marcelo.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P03_marcelo.png",
+      "sha256": "98140bdbcd410e4bd373d9a31905e67d6aa90f249ccfa9782a13de3e194b5bcb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P04_renata.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P04_renata.png",
+      "sha256": "f9566f67a73b22edc14bf24fada0cd19bfccd0cfe7b8811a71cfe22816408505"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P05_eduardo.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P05_eduardo.png",
+      "sha256": "bc6c4cc3bfb9dfbc683952f423f4e019bd1051bfc2857dbe72422edd4ad17ba0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P06_patrícia.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P06_patrícia.png",
+      "sha256": "f432c12c56ca1385112786a2d48573fa2b0e3479ba22ac2f20acbf9a8dc548f2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P07_lucas.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P07_lucas.png",
+      "sha256": "cf3287dd7be1daff14b641cbf15499074002d45ca6e4105f21366069be28c8cb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P08_camila.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Fichas/P08_camila.png",
+      "sha256": "f5def2c389aba5ad142005f1cdfc5659c41824c2efda8eba9a1b0338473f31fd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\central_A3.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Placas/central_A3.png",
+      "sha256": "fe393b3771061f600bfc09bbed10e5266c040f5c60189b8fdee2e2f30bf080d4"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\central_A4.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Placas/central_A4.png",
+      "sha256": "2cf94d3b8c3d72ec4f4ceab7a8b2edb2e61e6918258063425bc32684b337695a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\terminal_A5.png",
+      "destino": "privado/fontes/producao_e_editaveis/Imagens_diagramadas/Placas/terminal_A5.png",
+      "sha256": "8838c7c6936c23a34aa932dcc214797fdd69c39cc7d1e8687d5ef32bbf4b27f9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\LEIA-ME.md",
+      "destino": "privado/fontes/producao_e_editaveis/LEIA-ME.md",
+      "sha256": "d68996e743e550791ab46f7e67f64cf73964f63b51187432d753358a537f84a0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\A17_ficha_projeto.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/A17_ficha_projeto.pdf",
+      "sha256": "a9e588059c3e94f0a9036f65c03389ef28699121a547c9abfc7341b049747d44"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\01_L1_registro_acesso.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/01_L1_registro_acesso.pdf",
+      "sha256": "c9492bdaf83be4d210d2763b0f99d520e839ed16a5ce3d4d4ea40cc917fea25c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\02_A17_arquivo_estudantil.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/02_A17_arquivo_estudantil.pdf",
+      "sha256": "1a18f83e92d6a862bf3095dd1a47777f514df6a908b76e3b9b0af826a854cfb5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\03_H1_conversa_recuperada.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/03_H1_conversa_recuperada.pdf",
+      "sha256": "1a2697f500a0fc820eb8eb419e5a3783f29e34619210344124708e19e46738dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\04_RVM_auditoria_conta.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/04_RVM_auditoria_conta.pdf",
+      "sha256": "a9a05061a4a1247a3cbec318f03957dd66a080b70c474534bf0d3a577851918e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\05_estoque_consumiveis.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/05_estoque_consumiveis.pdf",
+      "sha256": "4ba4c7461d95ca591ac6ef55ffe1d3b2ff7075f704ef250ce181ff156fdd213c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\06_solicitacao_sinalizacao.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/06_solicitacao_sinalizacao.pdf",
+      "sha256": "41114a1433a07996d12c5261028e9ecae3f18face042e7922575a054d379d997"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\CAM01_relatorio_integridade.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/Complementares/CAM01_relatorio_integridade.pdf",
+      "sha256": "3d69d932d9af8e15cfd4c343badd7f5653d4555c97e998873aecdce50d003d9b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\cracha_frente.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/cracha_frente.pdf",
+      "sha256": "30dde7279a3ba7a114d4af7a734af59c1facda1760413452a06b526720cebafc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\cracha_verso.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/cracha_verso.pdf",
+      "sha256": "6a748e05d56e63d2dd8c0c7ee2c01dbb9fa3808a5798fec8508a8d1f141a21b8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_acesso_restrito.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/etiqueta_acesso_restrito.pdf",
+      "sha256": "75f357f3466f241b511ab72ca872d755440b23d9d6ae7b70ee4ec1d0ef8e5d54"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_confidencial.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/etiqueta_confidencial.pdf",
+      "sha256": "e6409e4900c284e727e72ab738322b8ea08ee8a315f3f3e3f04524d1af83f29e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_evidencia.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/etiqueta_evidencia.pdf",
+      "sha256": "d474656b5b3f87fdec0e0d48249ef0458d2c10425697568667b9e9861a159b81"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\F1_composicao.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/F1_composicao.pdf",
+      "sha256": "076a6511fbf8e07bd76ce2be3a146ba09a3aa49a028a304fe80ac809822df815"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\F1_identificacao.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/F1_identificacao.pdf",
+      "sha256": "6360d0e5b07c417add788937bafbaad18cc863c337aaa17e50cc668a0c4d6812"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P01_carlos.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P01_carlos.pdf",
+      "sha256": "4dc2b848a4572b9326e56e2e130facf12acc1d2fe454699c312b605313a4f35c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P02_helena.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P02_helena.pdf",
+      "sha256": "e03a2570a87469df185ed028ac2f89bb59975b5835418e79eb657c7f72945392"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P03_marcelo.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P03_marcelo.pdf",
+      "sha256": "0edabdb0cad806470c87904f61bf8ca0232205598ee0879f64d8db58c1a70ad7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P04_renata.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P04_renata.pdf",
+      "sha256": "326e93cb6dcf93e04c38fd9c0471de20655f7b17e61e5eb644e9b2df422ab126"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P05_eduardo.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P05_eduardo.pdf",
+      "sha256": "539d7aad77d3a817910a51f1f01db23257fa36967ba9e1a1b505363e659295d7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P06_patrícia.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P06_patrícia.pdf",
+      "sha256": "5a321738db21c2bf65424b47efb601736b3ff5a1f9b7fa05555a8cb9c0b356a8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P07_lucas.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P07_lucas.pdf",
+      "sha256": "1b443e0c69f527daf1d4efd41c0b02af5dea1e7493d230741ca7c189ab91b818"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P08_camila.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/ficha_P08_camila.pdf",
+      "sha256": "2896885f68829f97ee1c74831e9801433a6e554e082735c6ba8dc87aaf4887f6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\N1_mensagem_northstar.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/N1_mensagem_northstar.pdf",
+      "sha256": "c37288088b940bdd80f1072b0c3fb9a9cce50de68e03350fc2a96850885e022c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\placa_terminal_A5.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/placa_terminal_A5.pdf",
+      "sha256": "5b3b4120c982dab6f1c587164aac6e397741bf345084571eed2cdb49bd035e61"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\V17_manifesto_lote.pdf",
+      "destino": "privado/fontes/producao_e_editaveis/Matrizes_individuais_PDF/V17_manifesto_lote.pdf",
+      "sha256": "a2ff4e3b1ba9fbabc6a89d1c15dea190b850149b3712029ea607c981bb616f9a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\A17_no_sistema.png",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/A17_no_sistema.png",
+      "sha256": "35a0964d889885b643a588d71775d3c5117411aef092dfcb09328d13087f7c6f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\CONTATO_DOCUMENTOS.jpg",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/CONTATO_DOCUMENTOS.jpg",
+      "sha256": "e952cf69933bc586041a363a1d87694a375a2e597ac2bdab8740763cb6b548f5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-1.png",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/imposicao/a4-1.png",
+      "sha256": "fd0bbfa6501bfaccf1445592aec8461cbaf3d0db0c3579e9b09dec3c64a3cd7a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-2.png",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/imposicao/a4-2.png",
+      "sha256": "d5c508e55e87bbf2ca1b3235b2774cbea012c87a973e41882d099d022b772da5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-3.png",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/imposicao/a4-3.png",
+      "sha256": "534d8d0ee57efdeb94bc60f2d3190de2c71152623498abbc0c45345331348213"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-4.png",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/imposicao/a4-4.png",
+      "sha256": "01ac3d6b2ed6231535e1bada846816d0451572febf4c4fd011178bdf3eef3d44"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\IMPOSICAO_A4.jpg",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/IMPOSICAO_A4.jpg",
+      "sha256": "4323f6081a0301ce6b5c19a13be1b8763dda605a9cc32ebef6922365d62cc0a5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\LEIA-ME.md",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/LEIA-ME.md",
+      "sha256": "18ad76f500d060d47b279a8e5f00baf34b47d1675808766df746dbd82f445c17"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\MANIFESTO_SUBSTITUICAO.json",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/MANIFESTO_SUBSTITUICAO.json",
+      "sha256": "1c74b88912b4fc1feff49e94e063fdf3604d82afe6c5f20bb66c3947fc5fe29e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\RELATORIO_ATUALIZACAO_FOTOS.json",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/RELATORIO_ATUALIZACAO_FOTOS.json",
+      "sha256": "d7caf7eda21cad31c60501234a5a486bc31b4c41395a5bfb03c76a690448e9e2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\VALIDACAO.json",
+      "destino": "privado/fontes/producao_e_editaveis/Revisao_fotos/VALIDACAO.json",
+      "sha256": "3752275a0702023f6246b585dd1636e0a286842c95b2ccbfd909b2363ebcacc8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\00_INICIO_AQUI.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/00_INICIO_AQUI.md",
+      "sha256": "487a97fa35d63ad2d7cba7963bf2656f1c3d2acd6b48afa0439dbb4d987f5ad8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\01_DOSSIE_CONTINUIDADE.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/01_DOSSIE_CONTINUIDADE.md",
+      "sha256": "9e997aef124f4e3b0dcec6ad2310a188144021311f683bcff4e5cb62467f88c4"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\02_MANUAL_OPERACAO_E_HOMOLOGACAO.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/02_MANUAL_OPERACAO_E_HOMOLOGACAO.md",
+      "sha256": "720e49b7122436e245be35a7e2f7123f25d1aa2521817d7557caaaa79131c0e2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\03_MAPA_DO_PACOTE_E_MANUTENCAO.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/03_MAPA_DO_PACOTE_E_MANUTENCAO.md",
+      "sha256": "447b52aeb1881014048a7005a3bad943fc5a36698ba209e9b57058735a762a7b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\04_HISTORICO_E_PENDENCIAS.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/04_HISTORICO_E_PENDENCIAS.md",
+      "sha256": "2c42e4b07051155635596c7c304b23c8b3a4feb35892896627d5e89ed323d2e5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\05_PROMPT_PARA_NOVA_CONTA.md",
+      "destino": "privado/historico/documentacao_anterior/00_GUIA_DE_CONTINUIDADE/05_PROMPT_PARA_NOVA_CONTA.md",
+      "sha256": "67b509a096c62bbc1a5107822602bb134e84a6d82f04e5cc92652ffa2fdffb7a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Escape_Room_Lista_Completa_Audios_e_Falas.md",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Escape_Room_Lista_Completa_Audios_e_Falas.md",
+      "sha256": "4131fa10da5d6d6a571eb5e644cf2c0d0858de03bae6e3ba3593cad283742e84"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Escape_Room_Lista_Completa_Audios_e_Falas.pdf",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Escape_Room_Lista_Completa_Audios_e_Falas.pdf",
+      "sha256": "37f56197ceb1b2b744235aee4a0672d98c1e35d6c543738a2ef3381d2503659c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Inventario_Audios_e_Falas.json",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Inventario_Audios_e_Falas.json",
+      "sha256": "9803799541e56a55d0b69e879cd351a3c1dcbcd6e38ff53346dda0981eeb7b9b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.json",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Roteiro_IA_Voz_Unica_v2/Roteiro_Audios_IA_Voz_Unica_v2.json",
+      "sha256": "4636e77302bdee06ffaa1a4798066f6b409ee328e33c7e6da9dd797e014e1f58"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.md",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Roteiro_IA_Voz_Unica_v2/Roteiro_Audios_IA_Voz_Unica_v2.md",
+      "sha256": "21eacd54e9f10a1314018c5b9c7b2b742c8f69d2ffff21c01f655e10ee77485c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.pdf",
+      "destino": "privado/historico/documentacao_anterior/Audios_e_Falas/Roteiro_IA_Voz_Unica_v2/Roteiro_Audios_IA_Voz_Unica_v2.pdf",
+      "sha256": "e777f75c4c1f110b96b5270cc31a1026b9923bae66a3cfd2c3f4097e8c7fcf52"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Checklists\\Checklist_Desenvolvimento_Escape_Room.html",
+      "destino": "privado/historico/documentacao_anterior/Checklists/Checklist_Desenvolvimento_Escape_Room.html",
+      "sha256": "d0e7aa35209aa5c3b878d56afaa340668fe7ec677ba2dd7a30394d606128f73b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Checklists\\Checklist_Simples_Desenvolvimento_Escape_Room.html",
+      "destino": "privado/historico/documentacao_anterior/Checklists/Checklist_Simples_Desenvolvimento_Escape_Room.html",
+      "sha256": "8f4300f38d46c48c6389376a6c1b3cb0cb70e371bfb3a879b3b2469957023274"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Documento_Base_Jogo_Feira_Crime_e_IA.pdf",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Documento_Base_Jogo_Feira_Crime_e_IA.pdf",
+      "sha256": "a82bf4d6e4de603b3da58a85b99b38332d02b43da6d50c26f03827bd2a4fe354"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_Manual_de_Resolucao_e_Operacao.pdf",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Escape_Room_Manual_de_Resolucao_e_Operacao.pdf",
+      "sha256": "691f741468dbcd7e37370baacaefe7c7b23c9702767ac4d05e3cda79e509c8ff"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_O_Arquivo_Corrompido_Guia_Objetivo.pdf",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Escape_Room_O_Arquivo_Corrompido_Guia_Objetivo.pdf",
+      "sha256": "b7372aa6b4b901f83406263dde431a0f01a550ced940dcef9e7956e8165c4c20"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_O_Arquivo_Corrompido_Roteiro_Producao.pdf",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Escape_Room_O_Arquivo_Corrompido_Roteiro_Producao.pdf",
+      "sha256": "e17d6d6eddccd8cde149ae55535ff39878cc21e36ebb274e159edb165dc10e30"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\COMECE_AQUI_anterior.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/COMECE_AQUI_anterior.md",
+      "sha256": "04882c280812fc7b49aa69eaed06a5d6d2452450f3cc67584300ebdd98e5eb86"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/LEIA-ME.md",
+      "sha256": "b3fb33eac3544418f6fb1eb86b03acbdc580ee7d19c2dc396bb87d42ab6300b6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME_DOCUMENTACAO_anterior.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/LEIA-ME_DOCUMENTACAO_anterior.md",
+      "sha256": "cd68f4f526e78486bc2494f9d10f60e10037f26b1cf6b016da77b488eaa1560f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME_SISTEMA_anterior.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/LEIA-ME_SISTEMA_anterior.md",
+      "sha256": "be7c5957bd51446b3d51b9508ce7e6f590dc2617842b501ee2415691f74cc2fb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\OPERACAO_EQUIPE_anterior.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/OPERACAO_EQUIPE_anterior.md",
+      "sha256": "97ba66b5a872f299d852bcc77ab26299bc60d9b54f23dd661eebcc4f1db6e525"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\README_SISTEMA_anterior.md",
+      "destino": "privado/historico/documentacao_anterior/Documentos_anteriores_REFERENCIA/Historico_documentacao_20261117/README_SISTEMA_anterior.md",
+      "sha256": "3a9bc59e4f555307e9e406b7a58f83eabd8a580525c44a74b2d8a2b6b40da500"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Escape_Room_Guia_6_Documentos_EQUIPE.md",
+      "destino": "privado/historico/documentacao_anterior/Escape_Room_Guia_6_Documentos_EQUIPE.md",
+      "sha256": "a581cfd275fa9920396dc9da270f4ed09007f9b6c2c122de07e329c7e12bcd34"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\LEIA-ME.md",
+      "destino": "privado/historico/documentacao_anterior/LEIA-ME.md",
+      "sha256": "fccd15fd5e335129738aad8614f3313ee35bb8fd6cc149a71d09ce318505a7aa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Planejamentos_de_referencia\\planejamento-producao-7set-dev.md",
+      "destino": "privado/historico/documentacao_anterior/Planejamentos_de_referencia/planejamento-producao-7set-dev.md",
+      "sha256": "a4de43bfd81de53571ed434f209d78dc6cbbf48a325c98b00e4974f900b34d9c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Planejamentos_de_referencia\\Planejamento_atualizado_lotes_07_08.md",
+      "destino": "privado/historico/documentacao_anterior/Planejamentos_de_referencia/Planejamento_atualizado_lotes_07_08.md",
+      "sha256": "9fde770a4a4c75556c05680d1458b37655ea6447e017eccbb38b8b247217037a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\CATALOGO_CONSULTAS_VIGIA_20261117.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/CATALOGO_CONSULTAS_VIGIA_20261117.json",
+      "sha256": "84c2f7d5ca0be026b511e88e3d8b8cf09f4f9d3e921bb9df33856b802194c840"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\CONFIGURACOES_SESSAO_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/CONFIGURACOES_SESSAO_20261119.json",
+      "sha256": "e984290b211ed1348be84e181471996cfcb2b64be81d35c2e7c42b9e99371a99"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\CONFIGURACOES_SESSAO_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/CONFIGURACOES_SESSAO_20261119.png",
+      "sha256": "2f26bd6e9a772f024d6a8073d28ff8b0ca53dda2217a36720f5638e94e1039b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\DESKTOP_BLOQUEIO_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/DESKTOP_BLOQUEIO_20261119.json",
+      "sha256": "c87abedde0a6ef69942620bd728a726701a75e59417f69869caf3b652f0a2fb5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\DESKTOP_CONTEXTO_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/DESKTOP_CONTEXTO_20261119.png",
+      "sha256": "7741e0f218ee045b517a5c1f2af81629ec721445a7d2c080ed350dd42d39d665"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\ETAPAS_CONFIGURAVEIS_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/ETAPAS_CONFIGURAVEIS_20261119.json",
+      "sha256": "f6ef9d2fa05649c2687f712583e7bb6c32eebc643e0b75051803951221286172"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\ETAPAS_CONFIGURAVEIS_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/ETAPAS_CONFIGURAVEIS_20261119.png",
+      "sha256": "73cd5034a2a2e0db90dac428b045561ef0397a0bb1f57db019946f14be863731"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\FALHA_TRANSMISSAO_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/FALHA_TRANSMISSAO_20261119.json",
+      "sha256": "4721d95a88f8a633fe6c97029ac968d01fe135b5d2b0c2a41b59afbf0ba41d17"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\FALHA_TRANSMISSAO_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/FALHA_TRANSMISSAO_20261119.png",
+      "sha256": "cb603e521ed34524fd4bb8d878f7767ba1a6d121e4fdafcb6dd0aeed113c36a3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\FLUXO_VIDEO_INICIAL.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/FLUXO_VIDEO_INICIAL.json",
+      "sha256": "14210d56159a5637beed66c71995ee984cdaffe8e4d5d3f7c4ee02a61b561c18"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\GRADE_DESKTOP_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/GRADE_DESKTOP_20261119.json",
+      "sha256": "cb754c48c8148d90ce8db23c3d72f5b264e0a84eda5bc0ef8cf37809cadd99ee"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\GRADE_DESKTOP_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/GRADE_DESKTOP_20261119.png",
+      "sha256": "0a80670a7f98da416e2aa8d99bd8bb0123416905eb3459e7b537b3faeb1c2c76"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\INICIAL_ENGRENAGEM_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/INICIAL_ENGRENAGEM_20261119.png",
+      "sha256": "9de3227618060035a02d19a793e11dccf818866f26d697809ed06a1b0cd62369"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\MENU_INICIAR_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/MENU_INICIAR_20261119.json",
+      "sha256": "9bdd2a5482a769cc34cd625b70fd39f62348079f46243fd5061673a4fc390823"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\MENU_INICIAR_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/MENU_INICIAR_20261119.png",
+      "sha256": "8cba8c38b8b7cd5c4002f439f047c45d28f4e108b8823e4a7669318ae717adee"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\PANE_CATASTROFICA_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/PANE_CATASTROFICA_20261119.json",
+      "sha256": "c0220b575497c4ea5b993981da740743ca2c076c3f3234169f21e17d99a476f1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\PANE_CATASTROFICA_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/PANE_CATASTROFICA_20261119.png",
+      "sha256": "73062f9758c49b875eac08d6800bf12210c6eb64ea8504366b44df59ec4fcc70"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\PLAYER_BARRA_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/PLAYER_BARRA_20261119.png",
+      "sha256": "4f7fc3f50a7eea759fd2e6ee5f945a60c948b5c7d7df323aec9a6ad8a4f44563"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\PLAYER_CURSORES_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/PLAYER_CURSORES_20261119.json",
+      "sha256": "e983561277ed05e82bdf457fce2b9a4a0cf213b8f9d781360522498ca91826d6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\README.md",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/README.md",
+      "sha256": "a771f2b951a21db8068d63cb248946dff2d340ed1885db46a754861352d6d910"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\SOM_BUG_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/SOM_BUG_20261119.json",
+      "sha256": "883742de1b607e574bc7702c9824724e314fd299e2c6090884b0eb66a10066ed"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\TELA_AZUL_BLOQUEADA_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/TELA_AZUL_BLOQUEADA_20261119.png",
+      "sha256": "ecce88106b2fb4dde3b1a398253d6e5f823b211b2d39b8dc6317e8913ed5e970"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\TRILHA_AMBIENTE_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/TRILHA_AMBIENTE_20261119.json",
+      "sha256": "aec5ca7d78a8e07d7978fdacfad0631b27d054b28cab353b04e739527ab22bfc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\TRILHA_AMBIENTE_20261119.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/TRILHA_AMBIENTE_20261119.png",
+      "sha256": "a0b22d396d01fb2226f23a793ad94557517f525b147a0958db8372e3675c0e20"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_AUDIOS_VOZ_APROVADA.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_AUDIOS_VOZ_APROVADA.json",
+      "sha256": "98759a70cbbe8f327cb3c841685896d1dcb81e4651f97b2b5d98b3d97be8feb2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_BONUS_BREVE_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_BONUS_BREVE_20261119.json",
+      "sha256": "510a3f1b9dfba93caf0832c0a9a8123efd676ead00ceedf9d91e5737ccbecbb8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_CODIGO_CYBER_20261117.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_CODIGO_CYBER_20261117.json",
+      "sha256": "b3ce876da998789bab2369ba3f9db2e8965bde00b5976bb12d07f9caa392a7ac"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_FEEDBACK_RESPOSTAS.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_FEEDBACK_RESPOSTAS.json",
+      "sha256": "1a0a55d372f2fa92ae0b2130c0178f7edcefaeca71fcf8c53c90ca6ec53a2eba"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_INTERFACE_20261105.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_INTERFACE_20261105.json",
+      "sha256": "4a8ab411bce0b8ce7859bc121b2d4c46adc095180235319483b5e3f56c7481b9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_INTERFACE_20261112.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_INTERFACE_20261112.json",
+      "sha256": "0b2a788a7f4c954170cc47070bf8716d58123fd984488209f098862113d69652"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_PISTAS_CODIGO_20261117.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_PISTAS_CODIGO_20261117.json",
+      "sha256": "db156459b58bf5589b4fb08499c8da169227275a8e0a22a5201d6d343fb272b6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_TEMPO_RODAPE_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_TEMPO_RODAPE_20261119.json",
+      "sha256": "cdddf67efd8a841a1052c43de3b7803c78a8684b4a6eddcd97ee82f261b4d7b9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_TERMINAL_RECUPERACAO_20261117.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_TERMINAL_RECUPERACAO_20261117.json",
+      "sha256": "a14bb1ddf5ede742b02c9952081ac1e0a0dcfe91e46e36d407452a03f91cbd62"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_EXPANDIDA_20261117.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_VIGIA_EXPANDIDA_20261117.json",
+      "sha256": "5a0bf469f96e3e705ab527f0506c2bda01132e83975220a78967f965dc1fcba3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_OS_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_VIGIA_OS_20261119.json",
+      "sha256": "b65f45ceb011d25d4a79c40224641f3d7cea51bec17b9f478334b1b6fe9a942a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_OS_V2_20261119.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VERIFICACAO_VIGIA_OS_V2_20261119.json",
+      "sha256": "19fd64f5f47976ea4daa41a15a2ff785da9cf3c721e07d68ad92964ae3646ed8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIDEO_EXPIRACAO.json",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIDEO_EXPIRACAO.json",
+      "sha256": "9e664e612f6f4bf655f99f56393a645ff197aa914e70af2d48650b2d203bbf91"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_desktop.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIGIA_OS_desktop.png",
+      "sha256": "b97638710ac1055a7fea6630a7047235bbd6bda08e7beaeadec69e435d50dd8f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_explorador.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIGIA_OS_explorador.png",
+      "sha256": "47326f84aa66e72b61875933c2ab4dbe4b8fbbb0d611c85889c52827c5082b62"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_chat.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIGIA_OS_v2_chat.png",
+      "sha256": "61ed006ef116150e962b4c0e1dd460cd93281613b82978fe84be723a8a203cfb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_desktop.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIGIA_OS_v2_desktop.png",
+      "sha256": "570a82cd898e39acc08ddd37e627b15f2af5ce71123c1d198c1412f154cdfc63"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_explorador.png",
+      "destino": "privado/historico/documentacao_anterior/Registros_de_verificacao/VIGIA_OS_v2_explorador.png",
+      "sha256": "de3be5d38bf0e8b68a4a791035ae79713df9f5748e025bf7a1a64760aa5b2a26"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\05_DOCUMENTACAO\\VIGIA_OS_IMPLEMENTADO.md",
+      "destino": "privado/historico/documentacao_anterior/VIGIA_OS_IMPLEMENTADO.md",
+      "sha256": "7d1fc1cec54e395f11bb11cdbcf87d3a052761d504fac079349153a035062665"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-claro.png",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-claro.png",
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-claro.svg",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-claro.svg",
+      "sha256": "aba7b0cf7bf7c94d654c88a51a535b75261c1311b6f52e10f186bc9428a08e29"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-neon.svg",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-neon.svg",
+      "sha256": "dc176219c4539022373b1dbf7922805cd7e8096dad16a9feca2115d22d645691"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-preto.png",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-preto.png",
+      "sha256": "3cea29ae5992cfa31e3bf95588056f7ea3d343d8f9775d9d3544b081d7da82ff"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-preto.svg",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-preto.svg",
+      "sha256": "cf39410f7a2a7fa47355c4252e643bd3c7424fc7af10fde3760131599e156c19"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-roxo.png",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-roxo.png",
+      "sha256": "ca8ec5816a0b089dcf17ddc08b2de264274967122b9cd9bce479c7009f761c6e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-roxo.svg",
+      "destino": "privado/fontes/identidade_visual/01-logo/7set-dev-wordmark-roxo.svg",
+      "sha256": "373d4c58ac2353c376dee461da38c9939b1acd86789369921e35ebb79c0b8608"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\02-elementos-graficos\\02-grades-e-texturas.png",
+      "destino": "privado/fontes/identidade_visual/02-elementos-graficos/02-grades-e-texturas.png",
+      "sha256": "70fe43230be838bebc49979055b72a1fefc7c5a6f42db8c1663b90e99f4b120b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\03-telas\\01-terminal-principal.png",
+      "destino": "privado/fontes/identidade_visual/03-telas/01-terminal-principal.png",
+      "sha256": "5c06fe22694f2759bc1306a48387fa7456927d8889eb94ab1edd876a65043e7d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\03-telas\\04-tela-evidencias.png",
+      "destino": "privado/fontes/identidade_visual/03-telas/04-tela-evidencias.png",
+      "sha256": "91cc5f500da257a91d09299edced166b47a9d85f368554f3263e541e1bffde89"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\04-cartazes\\03-cartaz-neon.png",
+      "destino": "privado/fontes/identidade_visual/04-cartazes/03-cartaz-neon.png",
+      "sha256": "1aee5e1d15c75f843dfe0d1c7f97c181c3154eaacf1424c96c69249ba9d0474c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\05-mockups\\05-aplicacoes-identidade.png",
+      "destino": "privado/fontes/identidade_visual/05-mockups/05-aplicacoes-identidade.png",
+      "sha256": "5f63b6d26715842cb7949c9ecf0783a9db1140ebc134a4eea2a15f2c1de371dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\05-mockups\\07-tecla-olho-aprovada.png",
+      "destino": "privado/fontes/identidade_visual/05-mockups/07-tecla-olho-aprovada.png",
+      "sha256": "3445a6d1ecee068a8f38240133abb051a638d5804b20f6320de79d6862a4f854"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-identidade-neon.zip",
+      "destino": "privado/fontes/identidade_visual/06-manual-e-kit/7set-dev-identidade-neon.zip",
+      "sha256": "a2843db5eabf44f49a2d162c1501fbbdca7c57a17e5e04774050232feaa1da3b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-kit-marca.zip",
+      "destino": "privado/fontes/identidade_visual/06-manual-e-kit/7set-dev-kit-marca.zip",
+      "sha256": "e7719de7c7590d9e961783f97509eab13c3800ba3367751aace0e7b675ba8c2a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-manual-de-marca.pdf",
+      "destino": "privado/fontes/identidade_visual/06-manual-e-kit/7set-dev-manual-de-marca.pdf",
+      "sha256": "6b63b824cb4d29bb06b4ac5c7d6505b338507c10cf44cec462e48eb0cd24d2af"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\COMECE_AQUI.md",
+      "destino": "privado/historico/raiz_original/COMECE_AQUI.md",
+      "sha256": "423c71dd0f1b57c2ce14995f5bc754ca8f25a08d4534f5ea8d0c1c8bcdd3f7c7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\INVENTARIO_PACOTE.json",
+      "destino": "privado/historico/raiz_original/INVENTARIO_PACOTE.json",
+      "sha256": "5d71d1f2e018b580159d998738a42a3ef2ba350920a6811496bdd867d636f0b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\divulgacao\\O_Arquivo_Corrompido_Cartaz_03-12.png",
+      "destino": "materiais/divulgacao/Cartaz_03-12.png",
+      "sha256": "5af55bb33331753a276f5a4b572c1ec3f50b4181dfa9dc43ce41e66d25ae44b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\divulgacao\\O_Arquivo_Corrompido_Cartaz_03-12_A4.pdf",
+      "destino": "materiais/divulgacao/Cartaz_03-12_A4.pdf",
+      "sha256": "35c24cb96961ee7893d277c8fb3d5bf7a42720dbbe168cef2eac63ec9d9c6855"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\O_Arquivo_Corrompido_Apresentacao_SESI.pdf",
+      "destino": "privado/historico/apresentacao/Apresentacao_SESI.pdf",
+      "sha256": "a4964d4dbeebe48651a9173141ba58a6e876e3fb9fba4c2874d510cbfcb8f05e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\README.md",
+      "destino": "privado/historico/README_workspace_anterior.md",
+      "sha256": "171007b6ba83aa1a84453f9dc0917372a6decea56a33525e1216c88c0a593e9b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\__pycache__\\montar_video.cpython-312.pyc",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/__pycache__/montar_video.cpython-312.pyc",
+      "sha256": "718213139858540c1b48fbb9cb81f927999bfe3daac24455e06436486c862678"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\auditar_conteudo.cjs",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/auditar_conteudo.cjs",
+      "sha256": "f7a33f901099223a4829ecf7b830c0e5efd2287d8c154b03fdf507f7f19a4996"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\cenas.json",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/cenas.json",
+      "sha256": "c71da01e562949c75b081235097959ea2e1a8ca30ddd9078714a85dd980e8fca"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\gerar_jornais.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/gerar_jornais.py",
+      "sha256": "acc772ee1cc7ad607258790958a7979950daf8a07c1da4e3b203f02276480b02"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\gerar_voz.ps1",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/gerar_voz.ps1",
+      "sha256": "31abb70645b7d6db01c59d5e28ff8b5ca5396d94cd11f90196e7afea75807c0e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\gerar_voz_v3.ps1",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/gerar_voz_v3.ps1",
+      "sha256": "42787008ed95a2e66e579582a1ca1979e1f274715a9dcaa3c0029288ef349106"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\gravar_os.cjs",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/gravar_os.cjs",
+      "sha256": "518912dd89d978e7b60a0151528033c1815ba743952f7cb5b5184cd42763882e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\jornais_a3_reservas.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/jornais_a3_reservas.py",
+      "sha256": "bfddaae9f9550d5c94f075f73ab11592d2df6ad44a67725778bb7b6f96d2d54e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\jornais_a3_sem_reservas.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/jornais_a3_sem_reservas.py",
+      "sha256": "da97d49b3d2bf8c8d54ecfb254ed3d0d3471c736cc9cfde33e338547aaf1d12b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\jornais_brancos_pdf.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/jornais_brancos_pdf.py",
+      "sha256": "1605b2ba1724db13363f5dedc598eae1242e0d94dafcffa1ca9e1ba94d94310e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\jornais_imagem_pdf.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/jornais_imagem_pdf.py",
+      "sha256": "8f5e50b8ee5dacdf74521670c5af22105cebb8f87550da2225f2ae4dddab44a1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\montar_video.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/montar_video.py",
+      "sha256": "0793f5ba0dfe36cf6b8c8f458af5a93af75c62cb3222c014f18e0c3f37775af2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\preparar_demo.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/preparar_demo.py",
+      "sha256": "1deba58c3d9e4e369faf1a90cd1dcdbb5af93c608a3b765426a9c7fbdfdfdf55"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\PROJETO.md",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/PROJETO.md",
+      "sha256": "4935281ea91ce19505b006d5399a180f7a488861ca6546a17ab8805887cfbc5a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\revisar_fisico.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/revisar_fisico.py",
+      "sha256": "bc8d9edf9a8619bc8f2fd24e9664ec90220009117637c5e34155fc15d8f27c14"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\verificar_v3.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/verificar_v3.py",
+      "sha256": "8a8921d5e0abfd2f929876536d0e73ad83e5ebd89f542d07b81749df07b599e7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\verificar_v4.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/verificar_v4.py",
+      "sha256": "e34c2f39d8086fdcb8a66463fe44845aef864f97c2847fb76124c96e0ae4fb0f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\verificar_video.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/verificar_video.py",
+      "sha256": "c54701d8e85a2f728153791a682b173b8ebf4032f4511e426db2ccdda02a69e5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\video_dinamico.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/video_dinamico.py",
+      "sha256": "e836954a50d36c2c8e132cfd1a160455e380ebea1bbbbff6e3d9fba4ff4e5ce3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\video_francisca.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/video_francisca.py",
+      "sha256": "4ead890dfe3bc8d6869c871c366b18cd5ab094523cf5b40ab01a249083df4ed9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\video_inicial\\voz_francisca.py",
+      "destino": "privado/fontes/scripts_historicos/video_inicial/voz_francisca.py",
+      "sha256": "58230761c3a667ba5a99c77ae38e9ee45ce3fdb5630c5ab69fe027174f55837a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\divulgacao\\montar_cartaz_a4.py",
+      "destino": "privado/fontes/scripts_historicos/divulgacao/montar_cartaz_a4.py",
+      "sha256": "b0e1fa6f73f5ad4f2e78c78ba26b118ab7c07dcb9a5ae7d6351b2275080b3060"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\divulgacao\\montar_cartaz_com_data.py",
+      "destino": "privado/fontes/scripts_historicos/divulgacao/montar_cartaz_com_data.py",
+      "sha256": "b9315b967876f498460948b026bead2a5b58da50700903aa000008536ddd941a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\ajustar_tela_participantes.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/ajustar_tela_participantes.py",
+      "sha256": "f6b93f54e8ac3b906ee721571f0ab8b0a91dd71bf44898d115444e5859316b5d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\ajuste_final_v2.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/ajuste_final_v2.py",
+      "sha256": "f211e7305eecd23c85b0c44c0fb5e1b6885294330f98bd76d5770d2ecd3636d0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\ajustes.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/ajustes.py",
+      "sha256": "e76192ecf0f49346cb4141f43f99b7ffb6a1860e42557bac1e5ee10576cba1f9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\corrigir_reset_offline.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/corrigir_reset_offline.py",
+      "sha256": "24a41feb498e2fb76148e5f623d7d8817465c0c69cd7fbee94c5d5cef923f233"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\desktop_v2.js",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/desktop_v2.js",
+      "sha256": "76d5d66d9f6b6b045b2751070c4cf441c835467fcd3216a596c1d0087d817cd3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\documentar_fluxo_video.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/documentar_fluxo_video.py",
+      "sha256": "728d43f54d2095392c37a13b691fe6a719881f1283f818532f2ada59585e0a70"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\gerar_cursores.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/gerar_cursores.py",
+      "sha256": "93dbf516f75074c351d74ca25c9ef041155ad3ccd9b8fb1c607f95582d8b66bb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\integrar_video_inicial.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/integrar_video_inicial.py",
+      "sha256": "8b7688ce258d257474a8d5d7ca8af7e8a60b6dd243eee8d28568908e85865e6a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\ocultar_grade.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/ocultar_grade.py",
+      "sha256": "bb325cf4d90ffadb3e8807f69b82c951ecd49652bf4b2d1c182c7528b345a8d2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\preparar.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/preparar.py",
+      "sha256": "80542b9243d5fab5d5ca3c4be6bd60e547587608c5b90a692d3bb2f177537a5c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\preparar_pane_catastrofica.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/preparar_pane_catastrofica.py",
+      "sha256": "29c1175b5d4f1f9f5ec1b747ab795bb55abc5c01390b5a3314682988bdf4d771"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar.py",
+      "sha256": "ff8bcd573c9a6cc7d9977cc6658e9f75d7e775a21a1be993240008f19c7faf3d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_configuracoes.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_configuracoes.py",
+      "sha256": "b610abd5325a5549a7629d5e55dede0114544f47b99be963290b07813c7bac3d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_cursor_pane.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_cursor_pane.py",
+      "sha256": "162bc4b2ec523517ee003ef99d847f5accd8ec344cc9d072a25695a281369e82"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_desktop_bloqueio.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_desktop_bloqueio.py",
+      "sha256": "30d137d0adb4a4d0613b6f6a0848c4bc840094430eae1d8f1b4e39a67229598b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_etapas.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_etapas.py",
+      "sha256": "f934386f9b9881e88a48f1f94e517664fbbf66417b1aad890437ad59398a0285"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_falha_transmissao.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_falha_transmissao.py",
+      "sha256": "44cbc8b69b6e8baec8db9250afa54381463e57741d43a3759d83b8a72aea8527"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_fluxo_video.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_fluxo_video.py",
+      "sha256": "00ad2553e0415d128aebe3254687737a408edc85e1b290b871de5493ae4287bf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_grade_desktop.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_grade_desktop.py",
+      "sha256": "01e650e98e733a61e0e72b37e1fb1bbf74dca0ce05721cafa094b090bf78d2d4"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_jornais_sem_reservas.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_jornais_sem_reservas.py",
+      "sha256": "44ff5977f2a7856861cded1593637849e03611455b222ebd3863e60c065760f9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_pane_catastrofica.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_pane_catastrofica.py",
+      "sha256": "68ee491ea0c1d1355ac419fb9fce58785d31eeb224c560601b02574ef2b7a18b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_player_cursores.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_player_cursores.py",
+      "sha256": "d95816333ce26ae3f1d870e92c2ba1243a39f80e4adc10191e2d2318be73fb84"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_trilha.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_trilha.py",
+      "sha256": "8132d80ca815e5ab0fa4ecfeea09f71571095e2dc17cb5b702c568ae0cc8fca6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\publicar_v2.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/publicar_v2.py",
+      "sha256": "ad6b628c723444ddeb56622e89b9fdca7c76e322c53f727ed3e895b1dd913768"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\refinar_player.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/refinar_player.py",
+      "sha256": "ffaac944e5c5e47d0c99b602ff602115dd0a9c8a2a8e8b7e1c79b2848dff6d10"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\refinar_v2.py",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/refinar_v2.py",
+      "sha256": "9cb88b75d3cc3387e26c58a5ba966cf31318ef909a4577bdf46e815bf08f3640"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar.cjs",
+      "sha256": "0351a5f6e87d26d1ac943ee8a684fc7ef20945ee333ed5568b5b757180cfb429"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_configuracoes.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_configuracoes.cjs",
+      "sha256": "d23f70b94789541346e8c2007231d68daf3efaea20d1091b46c15d216ae7028e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_etapas.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_etapas.cjs",
+      "sha256": "0ea3ed495144bb47e824ce5ae96a6a8ed7e3751f4f625856030c87dd7fe6507d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_fluxo_video.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_fluxo_video.cjs",
+      "sha256": "e99f4f4c016c5b1b4b1be46f006082606494431c087302c4643413ae79df097d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_pane_audio.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_pane_audio.cjs",
+      "sha256": "b474ed2094c60c9b510d3b246fc19b78c01a9c4a83f8efcdff5577ee987b49d8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_som.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_som.cjs",
+      "sha256": "aa49f00255a04f29103215ca95a4d2a65a424cf6b868c84cd0630f5b0accee3f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_trilha.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_trilha.cjs",
+      "sha256": "f0e6ed322222d50be32a09ac2f91569538a2ad3802db7d5a6b8d1e6d65225ca6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\vigia_os_impl\\testar_video_expiracao.cjs",
+      "destino": "privado/fontes/scripts_historicos/vigia_os_impl/testar_video_expiracao.cjs",
+      "sha256": "adab58f7e84713635b800524af68f19aaed064976bf75d9f29f57024796495d7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\gerar_documentos_investigacao.py",
+      "destino": "privado/fontes/scripts_historicos/apresentacao/gerar_documentos_investigacao.py",
+      "sha256": "9c8c2154302a7e45b6ffc752bfdebac07798ff1eaed51cda212ef17c2d3a883a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\montar_apresentacao.py",
+      "destino": "privado/fontes/scripts_historicos/apresentacao/montar_apresentacao.py",
+      "sha256": "affb4f733a13523eca4babcb863f7069887596c54438633262e6c79531098cdf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\preparar_impressos_brancos.py",
+      "destino": "privado/fontes/scripts_historicos/apresentacao/preparar_impressos_brancos.py",
+      "sha256": "dcd095c3ddbc6c72cccbb22dbcc294470f0ca3bbe9c2bea5d4a5c1b7d68afd12"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\producao\\preparar_impressos_brancos_coloridos.py",
+      "destino": "privado/fontes/scripts_historicos/apresentacao/preparar_impressos_brancos_coloridos.py",
+      "sha256": "7722466a54b543f6eb7434ba769a1609d405fa4e26f8a826c2c488fb0fe4bf90"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\divulgacao\\GERACAO_CARTAZ.json",
+      "destino": "privado/fontes/divulgacao/GERACAO_CARTAZ.json",
+      "sha256": "405809cb8273f3a0069eda083a65299a70e49a0ad7f4b6eabba4117eea7ba22f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\divulgacao\\GERACAO_CARTAZ_COM_DATA.json",
+      "destino": "privado/fontes/divulgacao/GERACAO_CARTAZ_COM_DATA.json",
+      "sha256": "7564d9cb042d58cf0cfb929715dd657b8163948bd592498b3cb1066087c546da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\CREDITOS.md",
+      "destino": "docs/licencas/audio/failure/CREDITOS.md",
+      "sha256": "694617c0a1445a8c28c0a1dd9609c7ef4c218c7b97924c090ebeda3487a4447a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\failure\\licenca.json",
+      "destino": "docs/licencas/audio/failure/licenca.json",
+      "sha256": "e55fe76c5eb63c76142d982ef2833cdbf4903b909fafedee114dc35a6ea7dbb9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\trilha\\CREDITOS.md",
+      "destino": "docs/licencas/audio/trilha/CREDITOS.md",
+      "sha256": "61b9178df00798f19f6ce1ea321cff53a244a289c7b48f8af0f4c161cb68a76e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\audio\\trilha\\licenca.json",
+      "destino": "docs/licencas/audio/trilha/licenca.json",
+      "sha256": "8e32f2dc6ea4aad72bc633a046c470f5b05968ed50dd133551c99600303728bb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\SpaceGrotesk-OFL.txt",
+      "destino": "docs/licencas/assets/SpaceGrotesk-OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE\\assets\\IBMPlexMono-OFL.txt",
+      "destino": "docs/licencas/assets/IBMPlexMono-OFL.txt",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\jornais_investigacao\\v3_fundo_branco\\Jornal_01_A4.png",
+      "destino": "materiais/impressao/03_jornais/imagens/Jornal_01_A4.png",
+      "sha256": "55bcf035bb1e5bc5216ef81d8fc4baa46951b508233bf9fb25c71ae64e14fa05"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\jornais_investigacao\\v3_fundo_branco\\Jornal_02_A4.png",
+      "destino": "materiais/impressao/03_jornais/imagens/Jornal_02_A4.png",
+      "sha256": "29e2b839bbb5ec9a46dc15169425bb39c6bd37a649467b164b4d44fc7da28ab3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\jornais_investigacao\\v3_fundo_branco\\Manchetes_A4.png",
+      "destino": "materiais/impressao/03_jornais/imagens/Manchetes_A4.png",
+      "sha256": "6552f8e0d69f5ef834f32fb496e1a5cfdfc9a99dc454c8739a50e4fad0136c5f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\jornais_investigacao\\v3_fundo_branco\\GERACAO.json",
+      "destino": "privado/fontes/jornais/GERACAO.json",
+      "sha256": "1ca7620d114c7ef134e9256482b43c19c54009f66f439a40401a0f2e6288a720"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\jornais_investigacao\\v3_fundo_branco\\IMPRESSAO.json",
+      "destino": "privado/fontes/jornais/IMPRESSAO.json",
+      "sha256": "620eda54c01d5ec225a71300cacfb04bdee930bcfa1c5ad4296efedee207d905"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/README.md",
+      "sha256": "5c051a9834cc63eaecae3c14459f3ac9b927bae257a573df0a54bf44cd451860"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\fontes\\IBMPlexMono-Regular.ttf",
+      "destino": "privado/fontes/apresentacao/assets/fontes/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\fontes\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/fontes/README.md",
+      "sha256": "06fd3340995672f0e032d52a6fc81d517ddff7219b7ddacbf2b3ee575492b39d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\fontes\\SpaceGrotesk-Bold.ttf",
+      "destino": "privado/fontes/apresentacao/assets/fontes/SpaceGrotesk-Bold.ttf",
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/imagens/README.md",
+      "sha256": "34986393a3b26bd30bb8f2b2965d370bf665cb53ce0c66971a581150c040693c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\capturas\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/imagens/capturas/README.md",
+      "sha256": "04852ee07186c328594b2c0dbf3178753539eb60e56c92b4a30f37d9c6706003"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\capturas\\terminal_arquivo.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/capturas/terminal_arquivo.png",
+      "sha256": "69df5986880cced7a5c7c151dfc5b2ab8ab680ac3cd2bcc141b5cebafe2a3ecb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\capturas\\terminal_vigia.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/capturas/terminal_vigia.png",
+      "sha256": "fd532f8e5fb7193d85f48897dccc5b06340c4f0caee18e783cfe2b7f7235c900"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\conceitos\\capa.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/conceitos/capa.png",
+      "sha256": "f592556bec52ff52072abec4d9d44b985755c30eaf6479f59ad3086fab727815"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\conceitos\\estacao.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/conceitos/estacao.png",
+      "sha256": "3e3fa04f4edca1918f4edb74e2f4fb28fad03870f3289dc60323fe25f4db9e16"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\conceitos\\grupo.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/conceitos/grupo.png",
+      "sha256": "6b00cf96c00844914fd998bccb100685802898feda567365a4687ac321f9d925"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\conceitos\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/imagens/conceitos/README.md",
+      "sha256": "d6b589c00823a1b8e1c50a93c51a2a5f6b92a3ca80fcd0400f78d2526d38aba1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\documentos\\ficha_renata.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/documentos/ficha_renata.png",
+      "sha256": "f9566f67a73b22edc14bf24fada0cd19bfccd0cfe7b8811a71cfe22816408505"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\documentos\\manifesto.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/documentos/manifesto.png",
+      "sha256": "678aabfd67b708f18713e054dfff7109e852006ac666bc0cd9dc05ace9ae2524"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\documentos\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/imagens/documentos/README.md",
+      "sha256": "0931608880dacb88ab84ebe377ed6c10d055e00abf4fa22635b6793b2e90510d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\identidade\\marca.png",
+      "destino": "privado/fontes/apresentacao/assets/imagens/identidade/marca.png",
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\assets\\imagens\\identidade\\README.md",
+      "destino": "privado/fontes/apresentacao/assets/imagens/identidade/README.md",
+      "sha256": "bdb1a81f904634e4fdd191ed97c3e6d4fce9ab6393c8cf866b1351b175ebc3fa"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\ASSETS_FONTE.json",
+      "destino": "privado/historico/planejamento_os/ASSETS_FONTE.json",
+      "sha256": "5c7292ec33cad767e7c73d81368c007d4f9af50efe3b98cd2800d05ee0bbd46b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\ASSETS_NECESSARIOS.csv",
+      "destino": "privado/historico/planejamento_os/ASSETS_NECESSARIOS.csv",
+      "sha256": "90194ef36a9bf7dca0da109d92a98d81710fc40ff96199d2e9292a214a08fda8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\GERACAO_REFERENCIAS.json",
+      "destino": "privado/historico/planejamento_os/GERACAO_REFERENCIAS.json",
+      "sha256": "12b61a0a0cd20d9eae68195acab003418a000d5b3643fe5922058b3a2843b90d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\index.html",
+      "destino": "privado/historico/planejamento_os/index.html",
+      "sha256": "817fbf3f26fff1f0bbb71f2db88f3b1dcdb293108b4530e424b7e6cc414f8950"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\LEIA_PRIMEIRO.md",
+      "destino": "privado/historico/planejamento_os/LEIA_PRIMEIRO.md",
+      "sha256": "6246dc30821397c2dc57e8204217a1e28cae9dce34a57e77a4a7f5b60fd9c314"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\MANIFESTO_ENTREGA.json",
+      "destino": "privado/historico/planejamento_os/MANIFESTO_ENTREGA.json",
+      "sha256": "a592527e24c4bde3fcf3d6d659330f35ded7f7ecabe2029ebaff543abb09fa21"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\ROTEIRO_IMPLEMENTACAO.md",
+      "destino": "privado/historico/planejamento_os/ROTEIRO_IMPLEMENTACAO.md",
+      "sha256": "2ee7a5052c6c016596dfdce4311774c31f761ab654364f39828364a7359af4da"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\VERIFICACAO.json",
+      "destino": "privado/historico/planejamento_os/VERIFICACAO.json",
+      "sha256": "47133e8859ca920d91fadbfe5530f305e2ab53bdc80e91e67e057bcf0bcb8b60"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\01_area_trabalho.png",
+      "destino": "privado/historico/planejamento_os/imagens/01_area_trabalho.png",
+      "sha256": "27a7440628d7f100a1885d4e6d4702c4bc925485a547b3532884a6ad897fe2dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\02_explorador.png",
+      "destino": "privado/historico/planejamento_os/imagens/02_explorador.png",
+      "sha256": "0a373cbfa54d94452baa8000e1352687901be83070d353e1836662c5589d7b01"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\03_ia.png",
+      "destino": "privado/historico/planejamento_os/imagens/03_ia.png",
+      "sha256": "e67fc847d519cd927d9684ac8214f4d851c4247ff422cd3af9531c161624d8b0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\04_registros.png",
+      "destino": "privado/historico/planejamento_os/imagens/04_registros.png",
+      "sha256": "31526c7fdff33a52ba50a608ac3c58f474665321a3c2bd4ab500b36e0ff7e7b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\05_cronologia.png",
+      "destino": "privado/historico/planejamento_os/imagens/05_cronologia.png",
+      "sha256": "141d4e1e1fc1714a35dbe9ecf26769f929b3c219628f47479c7020a26106c087"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\06_audio.png",
+      "destino": "privado/historico/planejamento_os/imagens/06_audio.png",
+      "sha256": "282cd31cdef4983e025ce74072e648f7e2f174a457907ee3be15415a47371ce9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\07_progressao.png",
+      "destino": "privado/historico/planejamento_os/imagens/07_progressao.png",
+      "sha256": "7501529e5722586ddf90945d1899929ec3a9b1ea1a8a4bfc2e5ca6a2e44011f7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\08_icones.png",
+      "destino": "privado/historico/planejamento_os/imagens/08_icones.png",
+      "sha256": "4f461e6739a8907e5c38cd6ced2302edeb5ff2419ef4f79f1356c6f8304b72b9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\09_falha.png",
+      "destino": "privado/historico/planejamento_os/imagens/09_falha.png",
+      "sha256": "9b90d69996d8c83f41a809cacd5b3d21467838ed376d0b6778c29b742ab99448"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\vigia_os_planejamento\\imagens\\10_fluxo_final.png",
+      "destino": "privado/historico/planejamento_os/imagens/10_fluxo_final.png",
+      "sha256": "30337b91165e1487fe9de8a2f53f8009960afb986ea0c1376ef6e7520c663c6f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\pdf\\VIGIA_OS_Roteiro_e_Referencias.pdf",
+      "destino": "privado/historico/planejamento_os/Roteiro_e_Referencias.pdf",
+      "sha256": "e90b01eb7c073feee9a6a6b53684eb60b4665287db2a19704a30265abb572314"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\cenas.json",
+      "destino": "privado/fontes/video_inicial/cenas.json",
+      "sha256": "2cf7049bde3e64ad22a7f40797a4e78ae3008b1d0d1a1e4694baba1d0af715d3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\legendas.srt",
+      "destino": "privado/fontes/video_inicial/legendas.srt",
+      "sha256": "06fb0364035fc15a265421bc5804b97fbcf22f70f4b0354cf3084e2b4adbd7c6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\LEIA-ME.txt",
+      "destino": "privado/fontes/video_inicial/LEIA-ME.txt",
+      "sha256": "b7a71ad779e20a09579550d5cb4fed040086e9298ffaf2e2cfbb4dcc6a8e75b1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\PLANEJAMENTO.json",
+      "destino": "privado/fontes/video_inicial/PLANEJAMENTO.json",
+      "sha256": "37dd5d67fb71849ad66ba9ce1542bbbd0cbd4968652bc0a8b4e4cdd3ca12feed"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\VERIFICACAO.json",
+      "destino": "privado/fontes/video_inicial/VERIFICACAO.json",
+      "sha256": "1460ac0a285434ee189e049dfa9e62880c459c996a8c46f2d48c8453a98ad846"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\abertura_corredor.png",
+      "destino": "privado/fontes/video_inicial/assets/abertura_corredor.png",
+      "sha256": "d8171a28df3880e55358b6ae78046dc583a6617bae27e88c3e89d46b03129e2f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_0.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_0.png",
+      "sha256": "9592092bf835cb424d358988f4f225ae976a037a3b89c933d4080236e76991c6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_1.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_1.png",
+      "sha256": "c4963140ee566ddc7e1b0e3cf143a67c5acae9550643edccdb755739d4c14087"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_2.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_2.png",
+      "sha256": "b23b7e3984b0dc8321edb11a0f771d613c913aab8a763187e9e965c17d168bff"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_3.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_3.png",
+      "sha256": "515aad2e09fafc8b7c294e3483f07b9dc83e45158485dfbf33a666c4632756ef"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_4.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_4.png",
+      "sha256": "f188f0e0e6168bdec93976e3e8a8745dae5f9ea46ff3ae0249e72ce8a2e0557f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_5.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_5.png",
+      "sha256": "202864e2c87ec0dad13bfd85ee5c2e0d64ba9481de79ce6d75131bfa58318cc9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_6.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_6.png",
+      "sha256": "4d1ed5735b44569619a455752ce722b0d296a4eabf4f9e383314499c938f5869"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\bloco_7.png",
+      "destino": "privado/fontes/video_inicial/assets/bloco_7.png",
+      "sha256": "3033ebb0c39c4bac0703d0e15ec8cfa20cc826404ade11768821005a64e6c830"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_10_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_10_0.png",
+      "sha256": "08eb032da7a2ea0e2edba725cbc326b5f391732dd5fbd65c946501d71b2c0271"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_10_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_10_1.png",
+      "sha256": "0f286aadf9012123da49a8452942ba97c788e95cc31561fd503020d1de2e6d1a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_10_2.png",
+      "destino": "privado/fontes/video_inicial/assets/call_10_2.png",
+      "sha256": "9bc2886b5efdeb8c2efc19152ffe2692e454e8178ed00df3899798b35f6f24f5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_4_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_4_0.png",
+      "sha256": "138e9accff74e28d1a4f43746995af7d116bac95f35e784f63e183a472742391"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_4_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_4_1.png",
+      "sha256": "f5b972077932f1f11bfd7f23fc3daabbd8522d5df6d13a97cce696eb9d34c671"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_5_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_5_0.png",
+      "sha256": "1a03b348ed5fee7724d16211878b2a2458d1ce451c6a545fa4e5c44b18812e74"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_5_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_5_1.png",
+      "sha256": "01d63ce2b2894740f3edd37835d8eb8d73963e9eca777db846664e7d85b342b7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_5_2.png",
+      "destino": "privado/fontes/video_inicial/assets/call_5_2.png",
+      "sha256": "3bdc1242d35607aaa93658ce0bd001847a7fc905983ddc9f4202077e9c10414f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_6_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_6_0.png",
+      "sha256": "d6e7c3b9348990ec0cae7052af692d87ea643ac51d1fefc8b6cc77041c6b57b1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_6_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_6_1.png",
+      "sha256": "53b840f95d1942017c40fb85c1683a253ad99d6d6b7bb18d7a460158961c4dde"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_7_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_7_0.png",
+      "sha256": "bbbec9458ebbfab6ececef1411a5b9bb66ee3203be27be6db3e80d2f86b53401"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_7_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_7_1.png",
+      "sha256": "c8e827f890f45c08e818262c96e871e6400b77d2b1ea4a06cb390b67362080d6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_7_2.png",
+      "destino": "privado/fontes/video_inicial/assets/call_7_2.png",
+      "sha256": "eba90f2589bfba2ca8f31198028f66a3abdee5555e42dadb55a3d5f13183ac9a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_8_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_8_0.png",
+      "sha256": "62ab550ba7f57cf2d57fb1d95a10d8c5701291f0f5c205290413ed8267b4cf5c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_8_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_8_1.png",
+      "sha256": "0b5549a5a0569fd722c63a30e0297977bcd4a917024f12c6f5c157cbe0f3cef8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_8_2.png",
+      "destino": "privado/fontes/video_inicial/assets/call_8_2.png",
+      "sha256": "e2342166e4129c8243b96195e3146f5008452216202fa4c30664292e457d1d92"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_9_0.png",
+      "destino": "privado/fontes/video_inicial/assets/call_9_0.png",
+      "sha256": "487bee9a7a62152a2ba073b5f48a066b10a56bf203867cbfa679eb33ab2cf4e8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\call_9_1.png",
+      "destino": "privado/fontes/video_inicial/assets/call_9_1.png",
+      "sha256": "1da369ca039430755cd587018a88a783ba8ae7d1ec028df3ac7d2398a5a79c93"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\fisico_0.png",
+      "destino": "privado/fontes/video_inicial/assets/fisico_0.png",
+      "sha256": "83a07de57977e9d06d439c7b9ea0f78f06ee8360e160e236df42a595a02b00ea"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\fisico_1.png",
+      "destino": "privado/fontes/video_inicial/assets/fisico_1.png",
+      "sha256": "bd3a50a799ec20e208d377c4ca7cfea70f54ef29fdeb252a73484d50116a7010"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\fisico_2.png",
+      "destino": "privado/fontes/video_inicial/assets/fisico_2.png",
+      "sha256": "ff87ba5472ed30fa4ec8a058b289830e7620b2d919483da57bc26d6d3a3716a5"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\fundo.png",
+      "destino": "privado/fontes/video_inicial/assets/fundo.png",
+      "sha256": "a7648b4b7b85b54d23a1bb67138b7b81dff9527d59e9711290e03fadaebc01d6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\fundo_tutorial.png",
+      "destino": "privado/fontes/video_inicial/assets/fundo_tutorial.png",
+      "sha256": "ca9297250714c7c8813037e6370aa8786bab945ea18f09e63010d3f8d13c2182"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_1.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_1.png",
+      "sha256": "97e57d8dbae77b1c50d5d65e6fc0158251e906c07d12dd2a973f03eacff71e8a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_10.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_10.png",
+      "sha256": "e169d5df1fa0d72f9a396e587ee56dc060f3d74a69b79146a6c9eba6ddddfd40"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_11.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_11.png",
+      "sha256": "d27795d5a5cb865aad4bd8475e9803d6e58c12f179bfb4aa0752acdb20d0bbf6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_12.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_12.png",
+      "sha256": "1895e0910e64169685943f15f6f0378daa04e4f12b5efe0ff8ed714ba6bde027"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_2.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_2.png",
+      "sha256": "e1000a33b99a9d110d0949b7bb694eab85e54d69a74ac63fe5187f6245b221dd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_3.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_3.png",
+      "sha256": "a9c208d598a1a8741c35129cf6074b5df09f38b94b300963949507ee180fc563"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_4.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_4.png",
+      "sha256": "c179e07ab2977d80640159f4e64596b813996d69986821071b3a0f8089859447"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_5.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_5.png",
+      "sha256": "a9c02cc101474609d4bdbe806dda318f6aa7dabbc749457e35c34b95fd970820"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_6.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_6.png",
+      "sha256": "ce316f16144ebae51715ad4f7954c568aee45effb7ca715232ddaf88bf663a0d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_7.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_7.png",
+      "sha256": "b62261a24737f942424e8748b075d2cf2e28362f74d01e23b4d1a4905fac8047"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_8.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_8.png",
+      "sha256": "d55d48e9a10cbbcf8a027c86b39c6ef085cbbda0094d8758a11c4070367baad3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\heading_9.png",
+      "destino": "privado/fontes/video_inicial/assets/heading_9.png",
+      "sha256": "d2137657c0f7bcb7641eb65b5ad19e8aa40192cd24be0125dcb1753c657e4d8d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\key.png",
+      "destino": "privado/fontes/video_inicial/assets/key.png",
+      "sha256": "92333bf4b74dbeafad39fdbbb74c5d18727237bec16b296b076c0019c42d5c91"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\manchete_0.png",
+      "destino": "privado/fontes/video_inicial/assets/manchete_0.png",
+      "sha256": "9e660bc0db12cd5034a07fb2e3b700eb47d09b5f9e6dc6635991b2b940473187"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\manchete_1.png",
+      "destino": "privado/fontes/video_inicial/assets/manchete_1.png",
+      "sha256": "1e28bfb6ba076beeef10402b342214fc62a62e5ef3448109e9250b40e1578844"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\manchete_2.png",
+      "destino": "privado/fontes/video_inicial/assets/manchete_2.png",
+      "sha256": "9a590c5cd22410782b3918b2b045308df2c17f0145e4a82b2c0e5b59265bbcb7"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\mission_0.png",
+      "destino": "privado/fontes/video_inicial/assets/mission_0.png",
+      "sha256": "6ba5800e53d3e615e7302be6a8b009a4baa57062941becfb39b1984d66ad2285"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\mission_1.png",
+      "destino": "privado/fontes/video_inicial/assets/mission_1.png",
+      "sha256": "5e333ed2cf6207dbdb58ee19a138cc8276163ead2d48f1620a276b5ffab063b4"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\mission_2.png",
+      "destino": "privado/fontes/video_inicial/assets/mission_2.png",
+      "sha256": "6286884c7a47b29852c86afb5f195e5fb491c9981f784d85cb22a818f0e63706"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_02.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_02.png",
+      "sha256": "f77ac750bb531af4a7d454ab531aad97b06d7dd22fc04c5d72acf431393ecad8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_03.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_03.png",
+      "sha256": "60c3e3a3d142bdae4869562d754790c7ab28497ffa613eeb442851653eaa54f3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_04.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_04.png",
+      "sha256": "966c6f5bec73d834692344495195a33208cdec061bf89352eaa25aca424c8c84"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_05.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_05.png",
+      "sha256": "a89879108cf54ff92bfa431b5c030f6f45afc22fd9e1895fee35ed0cfc18be3c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_06.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_06.png",
+      "sha256": "81e569f0c3740232403f2f777bda4c45c4d2e3441db09a51a6b55bab482b201e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_07.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_07.png",
+      "sha256": "3bd4ecf76d436fac640e4cedd6bf659582605aa484e5d4d723d43657aa1f4091"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_08.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_08.png",
+      "sha256": "c1997119db37f74340f26f0dc6764b92a12ed2e2ce7890735941be2d03f24dec"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_09.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_09.png",
+      "sha256": "ac339eb7d92073403359d0753c205bb5a52a680879c217f657b02dff1168016e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_10.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_10.png",
+      "sha256": "a5c28f0db7463b31e39c4135f87bc40ffae862224a42106ca9599b99ae376104"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_11.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_11.png",
+      "sha256": "cbb5e2600623edabd65e203109ab668f0ca41c23a6a1d631a61e22a51e2775b8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\assets\\titulo_12.png",
+      "destino": "privado/fontes/video_inicial/assets/titulo_12.png",
+      "sha256": "13d344ecb91a231b7e1b10d32b14b9673f05c215f55d9532d06378331ff69a4c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_01.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_01.mp3",
+      "sha256": "23a08d2c98614c8734096b5ef8c8cdcc372bf19546fb38f0fcb36ba940e93d03"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_02.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_02.mp3",
+      "sha256": "80827c7db208b384d0bf69675dafc6d4cb485e435bc495356061504dd6a9d25a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_03.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_03.mp3",
+      "sha256": "48720950f6c79e6c56b9e050bbfa2c848b7b9cce9f2126e1bedd635bf64d5a7a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_04.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_04.mp3",
+      "sha256": "49f7c61a02280a73f9d79603051e25b004bb230e0f8f5004e38b804db27cc1e4"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_05.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_05.mp3",
+      "sha256": "b61d0e6ed8efbbdc3cb3145af684df92a1e04dee027d954b6b5e2599b0925beb"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_06.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_06.mp3",
+      "sha256": "0cf0a663ada06c8989746a77f1d952116e70a0ce1346a9c74a33795cc50b314a"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_07.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_07.mp3",
+      "sha256": "42e5d9dee270cc8f33f3d451e79a0432f0585b077dc823b4d64b1e5830384836"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_08.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_08.mp3",
+      "sha256": "461cb4a9665877f68ecea3188d99a126715e13d01ab4dccca7b119994c9bf3c8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_09.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_09.mp3",
+      "sha256": "ceb24bd9b29683dd7f201ac510a5369e52c44e8e136c347e408fb9221ef9b35d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_10.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_10.mp3",
+      "sha256": "2a99fcb87929a6c80368a30e99172add4fb815a6f855b83e903c89dc8e0fcafc"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_11.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_11.mp3",
+      "sha256": "7a1b70959f0ffa9652dc7d436b46f7dc6494340b7b84ff74bd9df3b1428dc92f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\francisca_12.mp3",
+      "destino": "privado/fontes/video_inicial/audio/francisca_12.mp3",
+      "sha256": "e093c09c1445ec02fbd1aa9c2e3b3a4896c4101d1ed7ecff803f920b5283145f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\missao_sem_pausas_longas.wav",
+      "destino": "privado/fontes/video_inicial/audio/missao_sem_pausas_longas.wav",
+      "sha256": "6e62b085be747b6852e5b7d8b320d8ecf0fe3dd7cfbac6e3269dcd700c5f5355"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_01.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_01.wav",
+      "sha256": "3687e80495f0aef7fb5a958e498e23c123d53ef9e07e7060f3f3a349795f4dc6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_02.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_02.wav",
+      "sha256": "d053bf35570ce36f05de19f33821f49afa3f5960785e4bddb12a0fe162c8d746"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_03.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_03.wav",
+      "sha256": "49f010692b1032218daf2436db96f30b687c0f256b57994dec882391a3218f2c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_04.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_04.wav",
+      "sha256": "83e8772dbd64d3c9a7d5139f7c473bbb57297134ea2e6cd9cfef131b191217d9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_05.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_05.wav",
+      "sha256": "320f0c417ea1a3a6487f29d1103dc024e12bf47b6ec8c8debc7f5f28aea5dd4c"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_06.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_06.wav",
+      "sha256": "e6bc9c5f3a0a2f89e91b7077137fc798dffbf64ecba02cb64a88428fd24000cf"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_07.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_07.wav",
+      "sha256": "0b2e25ef46477f484d927631542c76e24d9c5a65fcf7c9e5a650bc055ea07fae"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_08.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_08.wav",
+      "sha256": "421e96399083d438c1879a09d2821f5f0839020055b8401e65692f0c8d5054a9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_09.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_09.wav",
+      "sha256": "4526bae4688b16a61013c234abd818a92945abb84764211da0bdaefea28f6627"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_10.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_10.wav",
+      "sha256": "1b3ed94a42d97c4b5a3b58fb99a6607952dd70f5ce690ce3c3f6c9bf4bef2965"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_11.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_11.wav",
+      "sha256": "adb7bca441fb731fd65ee731c7a83354892814b9bc80c2e8773a90ee750b8905"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\narracao_12.wav",
+      "destino": "privado/fontes/video_inicial/audio/narracao_12.wav",
+      "sha256": "1040f587780594ee27be322e61d8d4a79d61c4b97071616c0862ae718cafca8d"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\temporizacao.json",
+      "destino": "privado/fontes/video_inicial/audio/temporizacao.json",
+      "sha256": "aa520bbef426646648a085b88800b58115c81e44f708e3f79f8f524c03b5cb94"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\trilha_mixada.wav",
+      "destino": "privado/fontes/video_inicial/audio/trilha_mixada.wav",
+      "sha256": "b177394e701a86529a43acc25c20e123e0f87ce3e560d7896d1e293f3b6503a9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\volume_final.txt",
+      "destino": "privado/fontes/video_inicial/audio/volume_final.txt",
+      "sha256": "6b1f59a26542f7baa648b960e77988edb85ddf055d9c53a1bfb1956277838eab"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\VOZ.json",
+      "destino": "privado/fontes/video_inicial/audio/VOZ.json",
+      "sha256": "38cfbb737c92895113f822a248cb6d37e0c1f413434ea3c809f8a17089d76b79"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_01.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_01.wav",
+      "sha256": "5c9554e9783b1d6ea684c5e1510509a8aa091c1a2e8414937fd7623ab2d07898"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_02.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_02.wav",
+      "sha256": "6ba91800979724cca900a44e9ef4fdf23c6700ec1e160ba7060c54d4d76dea8e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_03.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_03.wav",
+      "sha256": "7ed70bbc5f9c2359bb40bb40eca9860331c4c7767c24201a9e5d307207b60475"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_04.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_04.wav",
+      "sha256": "a441b9774363775be0d063f52154cf869185dbba01939f5f3f99faa1a8452c29"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_05.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_05.wav",
+      "sha256": "52b645da2afdceece0a91f94a2c054556d1dfc8736a711307942f9cba01c5312"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_06.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_06.wav",
+      "sha256": "ec6a3e53b31f6ce5fecadce4dbbeebcdd08d976657e650703c385eb6514583e9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_07.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_07.wav",
+      "sha256": "aba6b3df3cadc0f05f25bed82a521d9594610495c03ed06b6fcd58c90a78c6b2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_08.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_08.wav",
+      "sha256": "3f9ccd438dc1e7ce08b1627c40f7f8fe582690ab73e3de53585020f642c47442"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_09.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_09.wav",
+      "sha256": "8ce9b1610ffc299c70ef4747ae3359df9cbd150ac6e0f8b918118335f67ff286"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_10.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_10.wav",
+      "sha256": "81580a07dc6cb51b04d351f34f650a9f149c73604ff7089f88f694abf535bd1f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_11.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_11.wav",
+      "sha256": "f274137993e55ea76ae56385d9c777e14d9efc2c34921ef622cbf0ed4607c5ce"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_12.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_12.wav",
+      "sha256": "2f677d30139c0a601467c414d1c4a2e526c7dbc44f947bbb1b2dbec917210eb0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_01.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_01.wav",
+      "sha256": "5c9554e9783b1d6ea684c5e1510509a8aa091c1a2e8414937fd7623ab2d07898"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_02.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_02.wav",
+      "sha256": "6ba91800979724cca900a44e9ef4fdf23c6700ec1e160ba7060c54d4d76dea8e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_03.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_03.wav",
+      "sha256": "7ed70bbc5f9c2359bb40bb40eca9860331c4c7767c24201a9e5d307207b60475"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_04.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_04.wav",
+      "sha256": "a441b9774363775be0d063f52154cf869185dbba01939f5f3f99faa1a8452c29"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_05.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_05.wav",
+      "sha256": "52b645da2afdceece0a91f94a2c054556d1dfc8736a711307942f9cba01c5312"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_06.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_06.wav",
+      "sha256": "ec6a3e53b31f6ce5fecadce4dbbeebcdd08d976657e650703c385eb6514583e9"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_07.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_07.wav",
+      "sha256": "aba6b3df3cadc0f05f25bed82a521d9594610495c03ed06b6fcd58c90a78c6b2"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_08.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_08.wav",
+      "sha256": "3f9ccd438dc1e7ce08b1627c40f7f8fe582690ab73e3de53585020f642c47442"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_09.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_09.wav",
+      "sha256": "8ce9b1610ffc299c70ef4747ae3359df9cbd150ac6e0f8b918118335f67ff286"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_10.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_10.wav",
+      "sha256": "81580a07dc6cb51b04d351f34f650a9f149c73604ff7089f88f694abf535bd1f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_11.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_11.wav",
+      "sha256": "f274137993e55ea76ae56385d9c777e14d9efc2c34921ef622cbf0ed4607c5ce"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\audio\\voz_original_12.wav",
+      "destino": "privado/fontes/video_inicial/audio/voz_original_12.wav",
+      "sha256": "2f677d30139c0a601467c414d1c4a2e526c7dbc44f947bbb1b2dbec917210eb0"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\01_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/01_quadro.png",
+      "sha256": "35e6e25284476f7147d5ad4ea980f017e60d3a03c157c16379f532b7be003e2b"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\02_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/02_quadro.png",
+      "sha256": "5a5153002564c49fcbab5f0a14396d81cb0bae2d53003a47466c12f033e893f6"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\03_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/03_quadro.png",
+      "sha256": "faefc611b5a3b0682970a5f05190715ac2526d31b4812d5fbc923b782650485e"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\04_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/04_quadro.png",
+      "sha256": "fcc0306e3bbcf2758173e1d2be36a364d9fe1ff2a2b4c76c82254138cd05026f"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\05_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/05_quadro.png",
+      "sha256": "e61d9b07dfb7b0857275c533505e7c73259c7c4a2f2fc86d06a5ac473d21f6fd"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\06_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/06_quadro.png",
+      "sha256": "51d487eb23c1ddd42c307f9f013e695b9e27c627250e74353ba7ebaf6139f1b3"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\07_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/07_quadro.png",
+      "sha256": "3de7e68b2546b3fa4b87634524341ebcb4d720304225de2700afa36e9263f371"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\08_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/08_quadro.png",
+      "sha256": "55426e4e24fb26c32e04cb23f540492b414b94430a358ef1e675b84061c365db"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\09_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/09_quadro.png",
+      "sha256": "914485a5238229ea37fc94dede960e7bef520f7126f90b2c11b4ead8c2699284"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\10_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/10_quadro.png",
+      "sha256": "c0642562bfea2be05e88a959963247dbd4c015003e70a4c5b5a2e978718967b8"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\11_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/11_quadro.png",
+      "sha256": "14a60e1311955f0f1f9c9e88f878160f7ed03628383b2750fb8ca843e78f0803"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\storyboard\\12_quadro.png",
+      "destino": "privado/fontes/video_inicial/storyboard/12_quadro.png",
+      "sha256": "ae02b226efe7437fdef02fb8417ff9a5eb789dd3b90199564997d578cc43d8ec"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\PLANEJAMENTO_STORYBOARD.md",
+      "destino": "privado/historico/video_inicial/PLANEJAMENTO_STORYBOARD.md",
+      "sha256": "cc54242cef5499ea938c17d9cea217a069670cbfb921df1cad1359ace7cc48df"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\GERACAO_IMAGENS.json",
+      "destino": "privado/historico/video_inicial/GERACAO_IMAGENS.json",
+      "sha256": "b48eb5b79c63462444820429c56a38fe5afdc512d292ee174f4e46a8035dd3c1"
+    },
+    {
+      "origem": "C:\\Users\\45061155890\\Documents\\ChatGPT\\Escape Room\\output\\video_inicial\\v4_francisca\\VIGIA_OS_Tutorial_Francisca_v4.mp4",
+      "destino": "public/video/Video_inicial.mp4",
+      "sha256": "83c2ee5b94b8c8360eaf237da60c56589049126c24d09e7362628e05fa542dfc"
+    }
+  ]
+}

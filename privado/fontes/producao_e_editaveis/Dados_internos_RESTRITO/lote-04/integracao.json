@@ -1,0 +1,26 @@
+{
+  "C1": {
+    "file": "C1_registro_catraca.png",
+    "available_at": "identidade_confirmada",
+    "status": "diagramado",
+    "purpose": "Identificar credencial utilizada às 22:31 sem atribuir automaticamente presença à titular."
+  },
+  "H1": {
+    "file": "H1_conversa_bryan_helena.png",
+    "available_at": "identidade_confirmada",
+    "status": "diagramado",
+    "purpose": "Explicar entrega coagida e pedido de devolução."
+  },
+  "R1": {
+    "file": "R1_acessos_anteriores.png",
+    "available_at": "identidade_confirmada",
+    "status": "diagramado",
+    "purpose": "Comprovar duas entradas irregulares vinculadas à credencial."
+  },
+  "R2": {
+    "file": "R2_mensagem_rafael.png",
+    "available_at": "identidade_confirmada",
+    "status": "diagramado",
+    "purpose": "Relacionar Rafael, sua tia e o uso do laboratório."
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="400" viewBox="0 0 1440 400" role="img" aria-labelledby="title desc">
+<title id="title">O Arquivo Corrompido — VIG.IA OS</title><desc id="desc">Identidade roxa e preta, linhas de transmissão e memória em recuperação.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080611"/><stop offset="1" stop-color="#21103c"/></linearGradient><linearGradient id="bar"><stop stop-color="#8257ef"/><stop offset="1" stop-color="#dc8dff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a98aff" stroke-opacity=".08"/></pattern></defs>
+<rect width="1440" height="400" rx="24" fill="url(#bg)"/><rect width="1440" height="400" rx="24" fill="url(#grid)"/>
+<path d="M1040 0v86h90v64h200v82h110M1120 400v-90h-80v-82h-80" fill="none" stroke="#b48bff" stroke-width="2" opacity=".3"/>
+<g fill="none" stroke="#c291ff" stroke-width="2" opacity=".45"><circle cx="1200" cy="185" r="90"/><circle cx="1200" cy="185" r="70"/><circle cx="1200" cy="185" r="50"/><path d="M1200 65v240m-120-120h240"/></g>
+<text x="72" y="76" fill="#c7a6ff" font-family="monospace" font-size="20" letter-spacing="5">7SET.DEV / INVESTIGAÇÃO INTERATIVA</text>
+<text x="68" y="173" fill="#f8f5ff" font-family="Arial,sans-serif" font-size="68" font-weight="900">O ARQUIVO</text>
+<text x="68" y="250" fill="#f8f5ff" font-family="Arial,sans-serif" font-size="68" font-weight="900">CORROMPIDO</text>
+<rect x="72" y="286" width="360" height="5" rx="2" fill="#423252"/><rect x="72" y="286" width="241" height="5" rx="2" fill="url(#bar)"/>
+<text x="72" y="339" fill="#c8bcd9" font-family="monospace" font-size="20">VIG.IA OS  ·  DOCUMENTOS  ·  MEMÓRIA  ·  TEMPO</text>
+</svg>

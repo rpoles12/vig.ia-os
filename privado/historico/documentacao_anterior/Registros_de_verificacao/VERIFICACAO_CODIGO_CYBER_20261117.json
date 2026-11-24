@@ -1,0 +1,19 @@
+{
+  "data": "2026-11-17",
+  "alteracao": "Anotação obrigatória, exibição de 30 segundos e visual cyber",
+  "resultado": "aprovado na prévia HTTP local",
+  "verificacoes": [
+    "Percurso completo sem consultar documentos: conclusões corretas abrem primeiro a anotação com código e 00:30.",
+    "Contagem observada em 00:30 e 00:14 enquanto o relógio de análise permaneceu em 12:05.",
+    "Expiração real levou automaticamente à inserção, apagou o código e manteve o filme fechado.",
+    "Entrada vazia e incorreta rejeitadas; Alt+2 não contorna a inserção.",
+    "Código correto com letras minúsculas e espaços abre automaticamente a reconstituição: Pausar e 00:00 / 04:15.",
+    "Recibo antigo simulado via página local de verificação: uma nova investigação mostrou normalmente a anotação com 00:30.",
+    "Escape mantém a anotação aberta; checkbox e botão permitem terminar antes do prazo.",
+    "Reinicialização pelo painel da equipe retorna à abertura, 08% e 12:30.",
+    "JavaScript verificado; console da prévia sem erros ou avisos.",
+    "Capturas conferidas em 1280x720; painel de anotação compactado para a altura disponível."
+  ],
+  "audio": "Tique-taque sintetizado localmente, alternado por segundo e desligado ao sair. Respeita o silenciamento existente. Volume percebido no equipamento definitivo não verificado.",
+  "limites": "Verificação via HTTP local. file:// e equipamento definitivo pendentes de homologação."
+}

@@ -1,0 +1,17 @@
+#os-desktop #desktop-shortcuts{position:absolute;inset:0;left:0;top:0;width:100%;height:calc(100% - var(--os-bottom));display:block;padding:0;gap:0}
+#desktop-shortcuts .desktop-shortcut{position:absolute;z-index:1;margin:0;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;transition:background .15s,border-color .15s,box-shadow .15s}
+.desktop-grid{display:none}
+#desktop-shortcuts .desktop-shortcut.is-selected{background:#9b6ac321;border-color:#ad7fd16b}
+#desktop-shortcuts .desktop-shortcut.is-icon-dragging{z-index:5;background:#563172c9;border-color:#c89cef;box-shadow:0 10px 30px #0007;cursor:var(--cursor-grabbing);opacity:.9}
+body.is-dragging-icon,body.is-dragging-icon *{cursor:var(--cursor-grabbing)!important;user-select:none!important}
+#desktop-context-menu{position:fixed;z-index:620;width:255px;max-width:calc(100vw - 16px);padding:7px;border:1px solid #9569ad;border-radius:11px;background:#21162cf7;box-shadow:0 14px 45px #0009;backdrop-filter:blur(15px);animation:context-menu-in .13s ease-out}
+#desktop-context-menu button{display:flex;justify-content:flex-start;gap:11px;width:100%;min-height:39px;padding:9px 10px;border:1px solid transparent;border-radius:6px;background:transparent;color:#ead9f7;font:12px/1.4 Arial;text-align:left}
+#desktop-context-menu button:hover,#desktop-context-menu button:focus-visible{background:#a06dc125;border-color:#a678c44d}
+#desktop-context-menu .icon{width:17px;height:17px;color:#c49ee0;flex:none}
+#desktop-context-menu hr{height:1px;margin:5px 3px;border:0;background:#79538c55}
+#desktop-context-menu>small{display:block;padding:9px 10px 5px;font:9px/1.5 Arial;color:#aa8abd}
+.session-locked #desktop-context-menu,.final-flow #desktop-context-menu{display:none!important}
+#time-up:not([hidden]){display:block;z-index:2000}
+body.investigation-expired #os-desktop,body.investigation-expired #os-window-layer,body.investigation-expired #os-taskbar,body.investigation-expired #workspace{visibility:hidden;pointer-events:none}
+@keyframes context-menu-in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){#desktop-context-menu{animation:none}#desktop-shortcuts .desktop-shortcut{transition:none}}

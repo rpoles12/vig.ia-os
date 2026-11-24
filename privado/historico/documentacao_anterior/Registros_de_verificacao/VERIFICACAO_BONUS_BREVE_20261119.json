@@ -1,0 +1,8 @@
+{
+  "data": "2026-11-19",
+  "alteracao": "Aviso breve de bônus sem botão",
+  "duracao_segundos": 2,
+  "bloqueia_formulario": false,
+  "verificacao": "Envio por Enter, indicador 2s, zero botões, nenhum diálogo aberto, foco e preenchimento no próximo campo; desaparecimento automático.",
+  "limites": "HTTP local; equipamento definitivo não homologado."
+}

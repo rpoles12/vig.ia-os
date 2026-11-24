@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen integrada",
+  "mode": "built-in",
+  "generated_on": "2026-11-19",
+  "assets": [
+    {
+      "file": "assets/abertura_corredor.png",
+      "role": "Ambientação da abertura; sem pistas ou personagens",
+      "prompt": "Use case: stylized-concept. Asset type: cinematic opening background for the Brazilian mystery game VIG.IA OS. Generate a single landscape 16:9 cinematic still, full frame, no panels. Scene: an abstract anonymous technology archive interior, empty dark corridor with distant server lights and glass partitions, violet light falling across charcoal black architecture, fine atmospheric haze. Restrained realistic editorial photography, high-end investigative thriller title sequence, subtle analog film grain, beautifully controlled contrast. Left and center of frame must be dark uncluttered negative space for animated newspaper headlines to be composited later. Right side has abstract distant violet-lit server shapes, no readable screens. Palette black #08070c, violet #a66bff, muted lavender, tiny cold white lights. No people, silhouettes, body, police tape, weapons, broken doors, security cameras, clocks, dates, names, badges, numbers, crime clues, visible data, text, typography, logos, watermark. This is atmosphere only and must not imply the solution or the cause of an incident. Save a useful cinematic bitmap."
+    },
+    {
+      "file": "storyboard/00_direcao_visual.png",
+      "role": "Prancha conceitual da abertura e passagem ao tutorial; não é uma captura do sistema",
+      "prompt": "Use case: illustration-story. Asset type: production storyboard concept sheet for a 150-second Portuguese investigative escape-room opening/tutorial called VIG.IA OS. Make one beautiful landscape storyboard contact sheet with 6 equal widescreen panels arranged in 3 columns and 2 rows, black gutters, clear small sequence numbers 01 to 06 outside the images. Detailed full-color film-storyboard concept art, charcoal black / dark violet / lavender color identity, subtle analog grain, precise editorial typography. Each frame must be visually distinct and tell this sequence: 01 abstract empty server-archive corridor, violet lighting, newspaper clippings entering from left; 02 overlapping generic fictional news pages with only these exact headlines 'INCIDENTE NO VÉRTICE' and 'REGISTROS COMPROMETIDOS', no other readable facts; 03 abstract damaged data blocks gently separating, no readable codes; 04 elegant dark-violet title card 'O ARQUIVO CORROMPIDO' and below 'Investigue. Compare. Reconstrua.'; 05 dark desktop operating system with large violet folder icon, geometric AI icon, clipboard icon and audio waveform icon, clean bottom taskbar, no documents open or evidence; 06 close-up of a violet chat bubble with just 'Como posso começar?' and a discreet typing indicator. Small caption below sheet: 'DIREÇÃO VISUAL • ABERTURA E TRANSIÇÃO AO TUTORIAL'. Frame 05 is illustrative, actual software will be recorded separately. Constraints: no characters, persons, faces, names, suspects, badges, credentials, numeric clocks, actual game codes, violence, causes of death, crime reconstruction, times, solution clues, blue-screen failure. Storyboard for atmosphere and usability only. No watermark. Text in Portuguese with accurate spelling."
+    }
+  ],
+  "composition": "Imagens geradas combinadas com tipografia editável e gravações da interface em cópia demonstrativa."
+}

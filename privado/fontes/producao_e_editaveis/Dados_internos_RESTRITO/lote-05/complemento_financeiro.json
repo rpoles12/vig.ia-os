@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "authorization": "Usuário autorizou dados fictícios para completar as seis notas e reembolsos.",
+  "requester": "Marcelo Vieira",
+  "supplier": "Oficina Nexo — fornecedor fictício",
+  "recipient": "Administração escolar — instituição fictícia",
+  "currency": "BRL",
+  "total_irregular_brl": 3840,
+  "interpretation": "Três serviços não executados e sem ordens autorizadas, cada qual apresentado em dois lançamentos. Todos os seis reembolsos são fictícios; R$ 3.840 não é apenas a soma das segundas vias.",
+  "invoice_disclaimer": "Documento cenográfico. Sem valor fiscal.",
+  "year": null,
+  "records": [
+    {"id":"NF-318", "issue_day_month":"03/08", "service_reference":"OS-078", "service":"Revisão de estações de trabalho", "amount_brl":720, "pair":"NF-318B", "service_authorized":false, "service_executed":false},
+    {"id":"NF-318B", "issue_day_month":"04/08", "service_reference":"OS-078", "service":"Revisão de estações de trabalho", "amount_brl":720, "pair":"NF-318", "service_authorized":false, "service_executed":false},
+    {"id":"NF-427", "issue_day_month":"07/08", "service_reference":"OS-083", "service":"Substituição de cabos e conectores", "amount_brl":560, "pair":"NF-427B", "service_authorized":false, "service_executed":false},
+    {"id":"NF-427B", "issue_day_month":"08/08", "service_reference":"OS-083", "service":"Substituição de cabos e conectores", "amount_brl":560, "pair":"NF-427", "service_authorized":false, "service_executed":false},
+    {"id":"NF-512", "issue_day_month":"11/08", "service_reference":"OS-091", "service":"Manutenção de equipamento de rede", "amount_brl":640, "pair":"NF-512B", "service_authorized":false, "service_executed":false},
+    {"id":"NF-512B", "issue_day_month":"12/08", "service_reference":"OS-091", "service":"Manutenção de equipamento de rede", "amount_brl":640, "pair":"NF-512", "service_authorized":false, "service_executed":false}
+  ]
+}

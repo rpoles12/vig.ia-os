@@ -1,0 +1,6 @@
+{
+  "data": "2026-11-17",
+  "alteracao": "Terminal de recuperação após anotação do código",
+  "verificacao": "Percurso de ponta a ponta via HTTP local: pop-up, anotação, tela roxa, código vazio/incorreto rejeitados, código correto abre automaticamente modal com narração em execução. Alt+2 não contorna a inserção.",
+  "limites": "File:// e volume no equipamento definitivo não homologados."
+}

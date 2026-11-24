@@ -1,0 +1,23 @@
+{
+  "license": "Pixabay Content License",
+  "license_url": "https://pixabay.com/service/license-summary/",
+  "downloaded_at": "2026-11-19",
+  "original_files_unchanged": true,
+  "files": [
+    {
+      "file": "electric-hum-141075.mp3",
+      "bytes": 682945,
+      "sha256": "a98634f8b80245195dfe7259bdb4a8f953ca054b3c98a87ed50efea6dc8d9abd"
+    },
+    {
+      "file": "glass-cracking-504028.mp3",
+      "bytes": 54528,
+      "sha256": "010ef779955cedabb5774462fe30a8506b936655967be2cf05975d64d44d82d6"
+    },
+    {
+      "file": "tv-static-noise-152056.mp3",
+      "bytes": 481489,
+      "sha256": "3e41a42b54633071082977d6111b1fffa7e2f60ed00c061fcfdf48ed9fabf59c"
+    }
+  ]
+}

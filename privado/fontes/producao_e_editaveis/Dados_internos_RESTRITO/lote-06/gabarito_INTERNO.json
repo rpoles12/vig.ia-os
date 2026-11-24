@@ -1,0 +1,37 @@
+{
+  "correct_order": [
+    "k7",
+    "m2",
+    "q8",
+    "r4",
+    "v9",
+    "b6"
+  ],
+  "internal_mapping": {
+    "A": "k7",
+    "B": "m2",
+    "C": "q8",
+    "D": "r4",
+    "E": "v9",
+    "F": "b6"
+  },
+  "critical_time": "22:46",
+  "camera_end": "22:46:32",
+  "answers": {
+    "identity": [
+      "BRYAN",
+      "BRYAN ALMEIDA",
+      "BA17",
+      "BA-17"
+    ],
+    "credential": [
+      "2847"
+    ],
+    "critical_time": [
+      "22:46",
+      "2246"
+    ],
+    "generated_protocol": "BA17-2847-2246"
+  },
+  "warning": "PRODUÇÃO INTERNA. Não exibir como documento ao jogador."
+}

@@ -1,0 +1,10 @@
+VIGIA_OS_Tutorial_Francisca_v4.mp4
+Vídeo de 1min40, Full HD, 30fps.
+
+Voz: pt-BR-FranciscaNeural, a mesma identificada no manifesto dos áudios do sistema. Prosódia-base: rate +5%, pitch -2Hz. O roteiro foi enviado ao serviço da Microsoft com autorização explícita do usuário. Não foi acrescentado chiado à locução didática.
+
+Montagem, conteúdo e animações preservados. Legendagem e mixagem ajustadas à nova voz. Música reduzida sob a narração.
+
+Música: Long Note One - Kevin MacLeod (incompetech.com), CC BY 4.0. https://creativecommons.org/licenses/by/4.0/. Atribuição no encerramento do vídeo. Modificações: uso de trecho, ajuste de volume e fades.
+
+A verificação técnica e seus limites estão em VERIFICACAO.json. O vídeo é uma entrega independente, não instalada automaticamente na abertura do OS.

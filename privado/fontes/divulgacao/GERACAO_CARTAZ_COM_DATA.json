@@ -1,0 +1,5 @@
+{
+  "tool": "image_gen integrada",
+  "reference": "O_Arquivo_Corrompido_Cartaz.png",
+  "change": "Acrescentar data e horário fornecidos pelo usuário: 03/12, das 7h às 15h."
+}

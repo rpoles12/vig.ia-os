@@ -1,0 +1,32 @@
+{
+  "alteracao": "VIGIA/3 com apoio contextual e memória progressiva",
+  "testes_automatizados": {
+    "total_consultas": 3351,
+    "perguntas_independentes": 112,
+    "assuntos": 55,
+    "variacoes_catalogadas": 580,
+    "falhas": []
+  },
+  "navegador": {
+    "data": "2026-11-17",
+    "ambiente": "Prévia HTTP local em 1280x720",
+    "resultado": "aprovado",
+    "verificacoes": [
+      "Abertura apresenta a assistente; navegação, faixa contextual e atalho flutuante mostram IA e memória.",
+      "Aos 08%, consulta sobre a câmera orienta a próxima recuperação e mostra somente documentos liberados.",
+      "Resposta com documentos abre A-17; botão IA no leitor volta à consulta sobre o documento.",
+      "Erro de identidade oferece Pedir ajuda à IA e orienta comparar L1/A-17.",
+      "Aos 34%, reconhece Pq a Helennna ajudou? e Marcelo estava na sala?, com fontes coerentes.",
+      "Três pedidos de dica aprofundam a ajuda até indicar os fornecedores de acesso.",
+      "Aos 67%, indica e abre o Extrato de ocorrências e encaminha para a Cronologia.",
+      "Após validar a cronologia, mantém 67% em acordo com a voz e libera interpretação temporal de CAM01.",
+      "Erro 22:47 no formulário final encaminha a ajuda específica sobre o confronto em 22:46.",
+      "Conclusões corretas abrem exibição 00:30; atalhos da IA ficam ocultos nas etapas da chave.",
+      "Anotação, inserção do código e recapitulação automática preservadas.",
+      "Aos 100%, explica responsabilidades e limites sobre pagamento e segundo exato da morte.",
+      "Nova versão: a mesma pergunta sobre Bryan muda de hipótese aos 08% para identidade confirmada aos 34% quando a IA é reaberta.",
+      "Console sem erros ou avisos durante o percurso."
+    ],
+    "limites": "Não substitui piloto com participantes nem homologação file:// e de áudio no equipamento definitivo."
+  }
+}

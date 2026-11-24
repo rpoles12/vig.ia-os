@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "duration": 15,
+    "kind": "headlines",
+    "title": "Um incidente. Muitas perguntas.",
+    "label": "O INCIDENTE",
+    "body": "Os fatos ainda precisam ser reconstruídos.",
+    "voice": "Um incidente interrompeu a operação do Repositório Vértice. Arquivos foram encontrados danificados. As circunstâncias ainda estão sob investigação. O que aconteceu ali permanece um mistério."
+  },
+  {
+    "id": 2,
+    "start": 15,
+    "duration": 15,
+    "kind": "data",
+    "title": "O tempo está correndo.",
+    "label": "REGISTROS COMPROMETIDOS",
+    "body": "Recuperar os dados é apenas o começo.",
+    "voice": "Parte dos registros foi recuperada. Mas o sistema está instável, e existe um prazo para preservar os dados. Entre documentos e fragmentos, sua equipe terá de encontrar as conexões."
+  },
+  {
+    "id": 3,
+    "start": 30,
+    "duration": 12,
+    "kind": "mission",
+    "title": "O ARQUIVO\nCORROMPIDO",
+    "label": "SUA MISSÃO",
+    "body": "Investigue. Compare. Reconstrua.",
+    "voice": "Sua missão é investigar os registros, comparar as evidências e reconstruir o que aconteceu. Antes de começar, conheça as ferramentas disponíveis nesta estação."
+  },
+  {
+    "id": 12,
+    "start": 42,
+    "duration": 16,
+    "kind": "physical",
+    "title": "A sala também\nfaz parte do caso.",
+    "label": "INVESTIGAÇÃO FÍSICA",
+    "body": "Consulte o painel de funcionários.\nProcure as pastas e o crachá escondidos.\nCompare com os registros do OS.",
+    "voice": "A investigação também acontece fora do computador. Consultem o painel de funcionários e procurem as pastas e o crachá escondidos na sala. Comparem esses materiais com os registros do sistema. Uma informação pode ajudar a interpretar outra."
+  },
+  {
+    "id": 4,
+    "start": 58,
+    "duration": 13,
+    "kind": "desktop",
+    "title": "Tudo começa\nna área de trabalho.",
+    "label": "01 / NAVEGAÇÃO",
+    "body": "Abra os aplicativos.\nMinimize as janelas.\nVolte pela barra de tarefas.",
+    "voice": "Esta é a área de trabalho. Abra os aplicativos pelos ícones. Você pode minimizar uma janela e voltar a ela pela barra de tarefas, sem perder o que estava consultando."
+  },
+  {
+    "id": 5,
+    "start": 71,
+    "duration": 17,
+    "kind": "files",
+    "title": "Abra. Leia.\nCompare.",
+    "label": "02 / ARQUIVOS",
+    "body": "Pesquise os registros.\nAbra as prévias.\nAmplie os detalhes.",
+    "voice": "No Explorador de Arquivos estão os documentos recuperados. Use a pesquisa para localizar um registro. Clique na prévia para abri-lo e amplie os detalhes quando precisar. Compare informações de fontes diferentes."
+  },
+  {
+    "id": 6,
+    "start": 88,
+    "duration": 15,
+    "kind": "media",
+    "title": "Ouça os\nfragmentos.",
+    "label": "03 / ÁUDIOS",
+    "body": "Reproduza e pause.\nVolte a um trecho.\nConsulte a transcrição.",
+    "voice": "Alguns registros estão em áudio. No player, você pode reproduzir, pausar e voltar a um trecho. A transcrição também está disponível. O controle na barra de tarefas acompanha a reprodução."
+  },
+  {
+    "id": 7,
+    "start": 103,
+    "duration": 18,
+    "kind": "vigia",
+    "title": "Converse com\na VIG.IA.",
+    "label": "04 / ASSISTENTE",
+    "body": "Pergunte onde procurar.\nPeça ajuda para comparar.\nA memória amplia o apoio.",
+    "voice": "Se precisar de direção, converse com a VIGIA. Pergunte onde procurar ou como comparar informações. Digite sua mensagem e envie. Conforme a memória é recuperada, a assistente passa a oferecer orientações mais completas."
+  },
+  {
+    "id": 8,
+    "start": 121,
+    "duration": 17,
+    "kind": "solve",
+    "title": "Transforme pistas\nem conclusões.",
+    "label": "05 / REGISTROS",
+    "body": "Preencha o campo.\nEnvie pelo botão ou Enter.\nObserve as orientações.",
+    "voice": "Reúnam as conclusões da equipe no aplicativo Registros. Preencham o campo e enviem pelo botão ou pela tecla Enter. Se a resposta não estiver certa, observem a orientação e voltem às evidências."
+  },
+  {
+    "id": 9,
+    "start": 138,
+    "duration": 11,
+    "kind": "timeline",
+    "title": "Coloque os fatos\nem sequência.",
+    "label": "06 / CRONOLOGIA",
+    "body": "Segure um cartão.\nArraste e solte.\nConfira antes de validar.",
+    "voice": "Na etapa de cronologia, segure um cartão, arraste até a posição desejada e solte. Organize os eventos do primeiro ao último e confira antes de validar."
+  },
+  {
+    "id": 10,
+    "start": 149,
+    "duration": 10,
+    "kind": "notes",
+    "title": "Saiba qual é\no próximo passo.",
+    "label": "07 / ACOMPANHAMENTO",
+    "body": "Consulte o arquivo de dicas.\nAcompanhe tempo e memória.\nSepare papel e caneta.",
+    "voice": "O arquivo Próximos passos mostra o objetivo atual. Acompanhe tempo e memória na barra de tarefas. Separe papel e caneta para suas anotações."
+  },
+  {
+    "id": 11,
+    "start": 159,
+    "duration": 7,
+    "kind": "end",
+    "title": "A investigação\ncomeça agora.",
+    "label": "VIG.IA OS",
+    "body": "Vocês conseguem reconstruir o que aconteceu?",
+    "voice": "Os arquivos estão nas suas mãos. Vocês conseguem reconstruir o que aconteceu?"
+  }
+]

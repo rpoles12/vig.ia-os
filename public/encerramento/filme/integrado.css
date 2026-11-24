@@ -1,0 +1,16 @@
+body.embedded>header{display:none}
+html:has(body.embedded),body.embedded{width:100%;height:100%;min-height:0;overflow:hidden}
+body.embedded{display:flex;flex-direction:column}
+body.embedded main{display:flex;flex:1;flex-direction:column;width:100%;height:100%;min-height:0;max-width:none;margin:0;padding:0;overflow:hidden}
+body.embedded #player{display:flex;flex:1;flex-direction:column;width:100%;height:100%;min-height:0;aspect-ratio:auto;border-radius:0}
+body.embedded #viewport{width:100%;height:auto;min-height:0;flex:1 1 auto;aspect-ratio:auto}
+body.embedded .controls{flex:0 0 auto;padding:7px 12px}
+body.embedded .controls #seek{display:block;margin:0 0 5px}
+body.embedded .control-row{gap:8px}
+body.embedded .control-group{gap:6px}
+body.embedded .controls button{min-height:34px;padding:6px 10px;font-size:12px}
+body.embedded #back,body.embedded #forward,body.embedded #chapter-name,body.embedded #volume,body.embedded #fullscreen{display:none}
+body.embedded .control-row>.control-group:last-child{margin-left:auto}
+body.embedded #clock{margin-left:3px;font-size:11px}
+body.embedded .review,body.embedded #chapters,body.embedded #transcript,body.embedded .note{display:none!important}
+@media(max-width:780px){body.embedded #player{border-radius:0}body.embedded .controls{padding:5px 8px}body.embedded .control-row{gap:5px}body.embedded .controls button{min-height:32px;padding:5px 8px}body.embedded #clock{font-size:10px}}

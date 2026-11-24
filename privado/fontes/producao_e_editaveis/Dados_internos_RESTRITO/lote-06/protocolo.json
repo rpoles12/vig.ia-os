@@ -1,0 +1,17 @@
+{
+  "title":"Protocolo de Reconstrução de Incidente",
+  "unlock":"fragmento03_consultado",
+  "fields":[
+    {"id":"identidade","label":"Identidade do invasor","placeholder":"Informe o nome ou a assinatura","type":"text"},
+    {"id":"credencial","label":"Credencial física","placeholder":"Informe o número da credencial","type":"text","inputmode":"numeric"},
+    {"id":"horario","label":"Horário do evento crítico","placeholder":"HH:MM","type":"text","inputmode":"numeric"}
+  ],
+  "button":"CONFIRMAR RECONSTRUÇÃO",
+  "invalid_identity":"A identidade não corresponde ao perfil legado. Compare o Log L1 com o arquivo estudantil.",
+  "invalid_credential":"Credencial inconsistente. Compare o crachá com o registro de catraca.",
+  "invalid_time":"Horário inconsistente. Compare o Fragmento 03 com o registro da câmera.",
+  "invalid_time_2247":"22:47 corresponde ao fim da cópia. Compare o áudio com o último registro da câmera.",
+  "success_title":"PROTOCOLO CONFIRMADO",
+  "success_next":"RECUPERANDO RECONSTITUIÇÃO...",
+  "answers_location":"gabarito_INTERNO.json — não preencher os campos por padrão"
+}

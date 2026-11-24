@@ -1,0 +1,134 @@
+{
+  "versao": "2.0",
+  "data": "2026-11-12",
+  "status": "roteiro_revisado_nao_sintetizado_nao_integrado",
+  "locutor_unico": "VIGIA/3",
+  "ponto_de_vista": "A própria IA relata memórias recuperadas e correlações; não encena personagens nem reproduz diálogos atribuídos a vozes humanas.",
+  "principios": [
+    "Uma só voz robótica, calma e inteligível, com o mesmo timbre em todos os arquivos.",
+    "A IA descreve evidências e lacunas em discurso indireto; não usa aspas para interpretar Carlos, Bryan ou Helena.",
+    "A recuperação depende das correlações realizadas no terminal, não da passagem do tempo.",
+    "A voz não inventa reconhecimento facial, leitura de emoções, câmera nova ou registro não previsto.",
+    "Antes do protocolo final, a memória do confronto permanece parcial; a causa da morte é esclarecida somente no encerramento.",
+    "As falas faladas e as transcrições devem nascer deste mesmo texto, com conversão de números apenas para exibição.",
+    "Não simular passos, luta, gritos, impacto corporal, gravação de atores ou troca de microfones. Um sinal discreto do sistema pode separar registros."
+  ],
+  "clips": [
+    {
+      "id": "audio01",
+      "arquivo": "audio01.wav",
+      "titulo": "Inicialização e memória parcial",
+      "liberacao": "Ao iniciar a análise",
+      "memoria": 8,
+      "funcao": "Explicar a corrupção e orientar a primeira comparação, sem revelar a identidade do invasor.",
+      "texto_falado": "VIGIA três iniciada. Memória disponível: oito por cento. Meus registros do incidente estão incompletos. O último acesso confiável ocorreu às vinte e duas horas e trinta e um minutos. Preciso identificar o perfil legado. Compare o Log L um com o arquivo estudantil e registre sua conclusão na aba Respostas."
+    },
+    {
+      "id": "audio02",
+      "arquivo": "audio02.wav",
+      "titulo": "Identidade correlacionada e duas rotas de acesso",
+      "liberacao": "Depois de consultar A17 e confirmar a identidade de Bryan",
+      "memoria": 34,
+      "funcao": "Confirmar a dedução já feita e abrir a investigação dos colaboradores, sem entregar seus nomes.",
+      "texto_falado": "Identidade correlacionada: Bryan Almeida. Memória disponível: trinta e quatro por cento. Recuperei duas rotas de acesso: a entrada física e a conta do repositório. Pessoas diferentes forneceram esses acessos. Compare a credencial e a catraca com as mensagens e a auditoria. Preciso que identifique quem forneceu cada acesso."
+    },
+    {
+      "id": "audio03",
+      "arquivo": "audio03.wav",
+      "titulo": "Memória parcial do confronto",
+      "liberacao": "Depois de confirmar os acessos e validar a ordem dos seis eventos",
+      "memoria": 67,
+      "funcao": "Substituir a cena com vozes humanas por um relato da IA; sustentar a comparação de horário sem explicar ainda a queda fatal.",
+      "texto_falado": "Sequência temporal validada. Memória disponível: sessenta e sete por cento. Recuperei parte do confronto às vinte e duas horas e quarenta e seis minutos. Carlos associou a credencial a Helena. Bryan pressionou Helena a intervir. O registro foi interrompido em seguida. Minha memória ainda é parcial. Compare esse minuto com o último registro da câmera e conclua o protocolo."
+    },
+    {
+      "id": "final01",
+      "arquivo": "final01.wav",
+      "titulo": "Memória recuperada e objetivo da invasão",
+      "liberacao": "Após confirmar o protocolo; início da reconstituição",
+      "memoria": 100,
+      "funcao": "Apresentar a recuperação completa e estabelecer o motivo econômico sem inventar pagamento.",
+      "texto_falado": "Protocolo confirmado. Memória disponível: cem por cento. Reconstruí o incidente. Bryan Almeida planejou o roubo dos projetos do Repositório Vértice. Localizei a oferta da NORTHSTAR: quinze mil reais pelo lote vê dezessete. Não encontrei comprovação de pagamento."
+    },
+    {
+      "id": "final02",
+      "arquivo": "final02.wav",
+      "titulo": "As duas chantagens",
+      "liberacao": "Segundo registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Relacionar as evidências já consultadas às duas formas de coação.",
+      "texto_falado": "Relacionei os dois acessos às chantagens de Bryan. Helena foi ameaçada pelo uso indevido do laboratório por seu sobrinho Rafael e forneceu o crachá dois oito quatro sete. Marcelo, técnico de TI, foi coagido com provas de fraude financeira."
+    },
+    {
+      "id": "final03",
+      "arquivo": "final03.wav",
+      "titulo": "Entrada e acesso digital",
+      "liberacao": "Terceiro registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Recompor a entrada, a sessão e a cópia; manter Marcelo como colaborador remoto.",
+      "texto_falado": "Confirmei que Marcelo criou remotamente a conta temporária às dezoito horas e dez minutos. Bryan entrou com o crachá às vinte e duas e trinta e um, iniciou a sessão às vinte e duas e trinta e seis e começou a cópia dois minutos depois."
+    },
+    {
+      "id": "final04",
+      "arquivo": "final04.wav",
+      "titulo": "O alerta e o retorno à sala técnica",
+      "liberacao": "Quarto registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Explicar por que Carlos recebeu um alerta e como os envolvidos chegaram ao confronto.",
+      "texto_falado": "Recuperei o alerta local enviado a Carlos às vinte e duas e quarenta e um. O sensor permaneceu ativo apesar da redução dos alertas de rede. Helena retornou às vinte e duas e quarenta e três. Carlos entrou na sala técnica no minuto seguinte."
+    },
+    {
+      "id": "final05",
+      "arquivo": "final05.wav",
+      "titulo": "Reconstrução do evento crítico",
+      "liberacao": "Quinto registro da reconstituição final; nunca antes do protocolo",
+      "memoria": 100,
+      "funcao": "Revelar o empurrão e a queda fatal, distinguindo a coação sofrida da ação de Helena.",
+      "texto_falado": "Com a correlação dos registros, reconstruí o evento crítico. Durante o confronto, Bryan pressionou Helena. Ela empurrou Carlos para fazê-lo soltar Bryan. Carlos caiu contra a bancada e morreu. Helena foi vítima de chantagem e também causou a queda fatal."
+    },
+    {
+      "id": "final06",
+      "arquivo": "final06.wav",
+      "titulo": "Cópia concluída e fuga",
+      "liberacao": "Sexto registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Separar a interrupção da câmera, o término da cópia e a fuga.",
+      "texto_falado": "Verifiquei a interrupção da câmera às vinte e duas horas, quarenta e seis minutos e trinta e dois segundos. Bryan concluiu a cópia às vinte e duas e quarenta e sete, corrompeu os registros e saiu às quarenta e nove. Helena fez uma ligação anônima às cinquenta e dois."
+    },
+    {
+      "id": "final07",
+      "arquivo": "final07.wav",
+      "titulo": "Participações distintas",
+      "liberacao": "Sétimo registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Encerrar a participação de Marcelo e manter Bryan como principal articulador.",
+      "texto_falado": "Confirmei que Marcelo desativou a conta às vinte e duas e cinquenta e quatro. Sua colaboração foi remota e coagida. Bryan articulou a invasão e as chantagens. Registrei as participações separadamente: os envolvidos não praticaram os mesmos atos."
+    },
+    {
+      "id": "final08",
+      "arquivo": "final08.wav",
+      "titulo": "Arquivo reconstruído",
+      "liberacao": "Último registro da reconstituição final",
+      "memoria": 100,
+      "funcao": "Fechar o relatório reconhecendo as correlações realizadas, sem linguagem de premiação.",
+      "texto_falado": "Identidade, credencial e horário confirmados. As correlações registradas permitiram que eu reconstruísse o incidente. Protocolo: bê á dezessete, dois oito quatro sete, dois dois quatro seis. A invasão, as chantagens e a morte estão relacionadas, mas não têm a mesma autoria. Arquivo reconstruído."
+    }
+  ],
+  "arquivos_auxiliares": {
+    "frag_vigia.wav": "Deixa de ser necessário: sua informação foi incorporada à fala contínua de audio03.",
+    "frag_carlos.wav": "Não produzir nova interpretação: a associação do crachá é relatada pela IA em audio03.",
+    "frag_bryan.wav": "Não produzir nova interpretação: a pressão exercida por Bryan é relatada pela IA em audio03.",
+    "frag_helena.wav": "Não produzir nova interpretação: a intervenção de Helena é contextualizada pela IA, sem encenação.",
+    "final_completo.wav": "Opcional: concatenar as oito novas locuções finais, sem acrescentar texto. Não é necessário para a reprodução por cenas."
+  },
+  "integracao_posterior": [
+    "Gerar os onze WAVs usando um único perfil de voz e manter os nomes esperados pela aplicação.",
+    "Substituir as transcrições em app.js pelo conteúdo deste roteiro, sem marcas de vozes humanas ou efeitos de uma cena encenada.",
+    "Atualizar roteiro_sintese.json, cenas.json e cenas.js e remover a substituição especial do texto de final08 em encerramento/index.html, usando uma única fonte de conteúdo.",
+    "Recalcular as durações após síntese e sincronizar legendas.vtt. Não reaproveitar durações antigas como se fossem medições novas.",
+    "Renomear o terceiro fragmento na interface para Memória parcial do confronto, mantendo seu identificador e bloqueio.",
+    "Manter as respostas, os nomes, os valores, a cronologia e o protocolo BA17-2847-2246.",
+    "Conservar em backup os áudios antigos e os segmentos isolados. Não são removidos por esta revisão de roteiro.",
+    "Se as consultas e dicas textuais forem sonorizadas futuramente, usar a mesma VIGIA/3; esta revisão não cria novos arquivos para cada consulta."
+  ]
+}

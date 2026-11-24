@@ -1,0 +1,56 @@
+[
+  {
+    "id": "r4",
+    "title": "Porta técnica aberta",
+    "visible_time": "22:44",
+    "time_label": "22:44",
+    "description": "Carlos entra na sala técnica e confronta o invasor.",
+    "image": "imagens/cartoes/T1_r4.png",
+    "alt": "Porta técnica aberta. 22:44. Carlos entra na sala técnica e confronta o invasor."
+  },
+  {
+    "id": "b6",
+    "title": "Saída de emergência",
+    "visible_time": "22:49",
+    "time_label": "22:49",
+    "description": "Saída acionada no corredor de emergência.",
+    "image": "imagens/cartoes/T1_b6.png",
+    "alt": "Saída de emergência. 22:49. Saída acionada no corredor de emergência."
+  },
+  {
+    "id": "k7",
+    "title": "Catraca lateral",
+    "visible_time": "22:31",
+    "time_label": "22:31",
+    "description": "Credencial 2847 utilizada na entrada lateral.",
+    "image": "imagens/cartoes/T1_k7.png",
+    "alt": "Catraca lateral. 22:31. Credencial 2847 utilizada na entrada lateral."
+  },
+  {
+    "id": "v9",
+    "title": "Câmera interrompida",
+    "visible_time": null,
+    "time_label": "CORROMPIDO",
+    "description": "Sinal perdido durante o confronto na sala técnica.",
+    "image": "imagens/cartoes/T1_v9.png",
+    "alt": "Câmera interrompida. Horário corrompido. Sinal perdido durante o confronto na sala técnica."
+  },
+  {
+    "id": "m2",
+    "title": "Sessão iniciada",
+    "visible_time": "22:36",
+    "time_label": "22:36",
+    "description": "Conta RV-MANUT. Assinatura recuperada: B_A_17.",
+    "image": "imagens/cartoes/T1_m2.png",
+    "alt": "Sessão iniciada. 22:36. Conta RV-MANUT. Assinatura recuperada: B_A_17."
+  },
+  {
+    "id": "q8",
+    "title": "Alerta local",
+    "visible_time": "22:41",
+    "time_label": "22:41",
+    "description": "Sensor de movimento envia um alerta a Carlos Mendes.",
+    "image": "imagens/cartoes/T1_q8.png",
+    "alt": "Alerta local. 22:41. Sensor de movimento envia um alerta a Carlos Mendes."
+  }
+]

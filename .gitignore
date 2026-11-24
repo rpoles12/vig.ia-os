@@ -1,0 +1,18 @@
+# Fontes e materiais da equipe são versionados: use repositório PRIVADO no GitHub.
+# Excluir apenas saídas geradas, caches, temporários e credenciais reais.
+/dist/
+/.reports/
+/node_modules/
+/.vercel/
+.env
+.env.*
+!.env.example
+*.log
+/*.zip
+/*.7z
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
+Desktop.ini

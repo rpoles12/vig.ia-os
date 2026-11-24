@@ -1,0 +1,45 @@
+{
+  "contagem": {
+    "data": "2026-11-19",
+    "verificacoes": 56,
+    "resultado": "aprovado",
+    "cobertura": [
+      "12:30 iniciais, fracionamento e zero",
+      "avisos do último minuto e 10 segundos finais",
+      "15 segundos por etapa; máximo de 45 segundos",
+      "sem bônus duplicado ou após esgotamento",
+      "reinicialização e novo cruzamento de limite",
+      "validações e código final preservados"
+    ]
+  },
+  "sons": {
+    "data": "2026-11-19",
+    "resultado": "aprovado",
+    "verificacoes": 6,
+    "cobertura": "Preparação de áudio sem emitir som, aviso duplo, tique-taque final, sinal de encerramento, respeito ao silêncio e preservação do tique-taque da chave. Dispositivo de áudio simulado; percepção no equipamento definitivo não conferida."
+  },
+  "navegador": {
+    "data": "2026-11-19",
+    "ambiente": "Prévia HTTP local em 1280x720; cenário de expiração com duração abreviada de 12 segundos em uma cópia de teste do contador.",
+    "resultado": "aprovado",
+    "verificacoes": [
+      "Rodapé: áudio à esquerda e IA/Respostas lado a lado à direita, todos com borda inferior em y=706; sem sobreposição horizontal.",
+      "Navegação principal Respostas: scrollY=0 e foco no conteúdo geral.",
+      "Atalho flutuante Respostas: foco em nome e campo visível abaixo da navegação, scrollY=560.",
+      "Enter na identidade concede bônus e mostra 12:45 partindo de 12:30 na execução imediata.",
+      "Enter no acesso físico com digital vazio aponta erro e não concede bônus.",
+      "Enter no acesso digital confirma os dois acessos e concede 15 segundos.",
+      "Cronologia correta concede 15 segundos e, após fechar o aviso, foca o campo de identidade da conclusão.",
+      "Enter no horário final gera a chave e inicia a contagem independente de 00:30.",
+      "Enter na inserção da chave abre a recapitulação automaticamente.",
+      "Reinicializar restaura 12:30 e permite conceder o bônus da identidade novamente.",
+      "Atalho do leitor de documentos abre a página na altura do campo ativo.",
+      "NumpadEnter confirma a identidade e concede o bônus.",
+      "Expiração abre tela roxa de tempo esgotado, para o áudio, oculta rodapé e preserva a memória.",
+      "Escape e Alt+2 não contornam a tela de esgotamento.",
+      "A equipe autenticada pode autorizar continuação com o relógio em 00:00.",
+      "Pop-up de bônus e tela de esgotamento conferidos visualmente; console sem erros ou avisos."
+    ],
+    "limites": "Percepção dos sons no equipamento definitivo e execução file:// não conferidas. A preparação de Web Audio na interação de início foi adicionada e verificada com dispositivo simulado."
+  }
+}

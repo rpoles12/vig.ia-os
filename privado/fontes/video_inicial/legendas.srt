@@ -1,0 +1,127 @@
+1
+00:00:00,450 --> 00:00:01,737
+Incidente no Vértice.
+
+2
+00:00:01,737 --> 00:00:03,024
+Arquivos danificados.
+
+3
+00:00:03,024 --> 00:00:05,782
+Sua equipe precisa descobrir o que aconteceu.
+
+4
+00:00:06,450 --> 00:00:09,289
+Os dados serão apagados ao fim do prazo.
+
+5
+00:00:09,289 --> 00:00:10,780
+Acompanhem o relógio.
+
+6
+00:00:11,450 --> 00:00:11,978
+Investiguem.
+
+7
+00:00:11,978 --> 00:00:12,858
+Comparem evidências.
+
+8
+00:00:12,858 --> 00:00:13,782
+Reconstruam os fatos.
+
+9
+00:00:14,450 --> 00:00:16,665
+Consultem o painel de funcionários.
+
+10
+00:00:16,665 --> 00:00:19,765
+Procurem as pastas e o crachá escondidos na sala.
+
+11
+00:00:19,765 --> 00:00:23,309
+Comparem esses materiais com os registros do computador.
+
+12
+00:00:25,450 --> 00:00:27,248
+Abram os aplicativos pelos ícones.
+
+13
+00:00:27,248 --> 00:00:30,367
+Minimizem as janelas e voltem a elas pela barra de tarefas.
+
+14
+00:00:33,450 --> 00:00:36,595
+No Explorador, pesquisem e abram os documentos.
+
+15
+00:00:36,595 --> 00:00:41,413
+Ampliem os detalhes e comparem as informações entre arquivos e materiais
+
+16
+00:00:41,413 --> 00:00:41,949
+da sala.
+
+17
+00:00:44,450 --> 00:00:47,948
+No player, reproduzam, pausem ou voltem a um trecho.
+
+18
+00:00:47,948 --> 00:00:51,581
+Usem a transcrição e os controles da barra de tarefas.
+
+19
+00:00:53,450 --> 00:00:53,761
+Peçam ajuda à VIG.IA: onde procurar ou como comparar informações.
+
+20
+00:00:53,761 --> 00:00:53,842
+Digitem e enviem.
+
+21
+00:00:53,842 --> 00:00:54,168
+Quanto mais memória recuperada, mais completas serão as orientações.
+
+22
+00:01:05,450 --> 00:01:09,661
+Em Registros, preencham a resposta e enviem pelo botão ou Enter.
+
+23
+00:01:09,661 --> 00:01:14,069
+Se errarem, sigam a orientação e consultem os documentos indicados.
+
+24
+00:01:16,450 --> 00:01:20,872
+Na cronologia, arrastem os cartões do primeiro ao último evento.
+
+25
+00:01:20,872 --> 00:01:23,221
+Confiram a ordem antes de validar.
+
+26
+00:01:24,450 --> 00:01:25,958
+Próximos passos mostra o objetivo atual.
+
+27
+00:01:25,958 --> 00:01:26,976
+Acompanhem tempo e memória.
+
+28
+00:01:26,976 --> 00:01:28,408
+Separem papel e caneta para anotações.
+
+29
+00:01:32,450 --> 00:01:33,272
+Anotem a chave quando aparecer.
+
+30
+00:01:33,272 --> 00:01:33,988
+Ela libera a recapitulação.
+
+31
+00:01:33,988 --> 00:01:34,836
+Os arquivos estão nas suas mãos.
+
+32
+00:01:34,836 --> 00:01:35,446
+Comecem a investigação.

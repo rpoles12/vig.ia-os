@@ -1,0 +1,18 @@
+{
+  "video": "VIGIA_OS_Tutorial_Francisca_v4.mp4",
+  "sha256": "83c2ee5b94b8c8360eaf237da60c56589049126c24d09e7362628e05fa542dfc",
+  "seconds": 100,
+  "previous_seconds": 166,
+  "reduction_seconds": 66,
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "full_decode": "passed",
+  "voice_fits_scenes": true,
+  "no_protected_content_in_voice_and_captions": true,
+  "visual_review": "Quadros de aplicativos e sequência de movimento amostrados; textos dos jornais e renderizações do PDF inspecionados visualmente. Não representa uma revisão humana integral do vídeo.",
+  "audio_review": "Francisca Neural, mesma voz do sistema, rate +5%, pitch -2Hz; mixagem com música reduzida sob voz. Duração, decodificação e loudness verificados por ferramenta; sem audição humana integral pelo agente.",
+  "preserved": "A investigação física, todos os aplicativos e controles, tempo e memória, bônus configurável, resposta por Enter, orientações dos erros, cronologia e anotação da chave foram mantidos."
+}
