@@ -18,9 +18,9 @@ test('documentação e material de impressão não entram na saída pública', (
   assert.equal(fs.existsSync(path.join(publicDir, 'OPERACAO_EQUIPE.md')), false);
   assert.equal(fs.existsSync(path.join(publicDir, 'README.md')), false);
   const ignore = fs.readFileSync(path.join(root, '.gitignore'), 'utf8');
-  assert.doesNotMatch(ignore, /^\/privado\//m);
+  assert.doesNotMatch(ignore, /^\/acervo\//m);
   const vercelIgnore = fs.readFileSync(path.join(root, '.vercelignore'), 'utf8');
-  assert.match(vercelIgnore, /^privado\//m);
+  assert.match(vercelIgnore, /^acervo\//m);
   const manifest = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'));
   assert.equal(manifest.engines.node, '24.x');
   assert.equal(manifest.private, true);
@@ -53,7 +53,7 @@ test('HTTP serve mídia, HEAD e intervalos, sem expor arquivos de fora da área 
     assert.equal((await suffix.arrayBuffer()).byteLength, 16);
     const invalid = await fetch(base + '/video/Video_inicial.mp4', { headers: { range: 'bytes=999999999-' } });
     assert.equal(invalid.status, 416);
-    for (const url of ['/README.md', '/privado/README.md', '/materiais/impressao/', '/.git/config', '/%2e%2e%5cREADME.md', '/inexistente.js']) assert.equal((await fetch(base + url)).status, 404);
+    for (const url of ['/README.md', '/acervo/README.md', '/materiais/impressao/', '/.git/config', '/%2e%2e%5cREADME.md', '/inexistente.js']) assert.equal((await fetch(base + url)).status, 404);
     assert.equal((await fetch(base, { method: 'POST' })).status, 405);
   } finally { server.closeAllConnections(); await new Promise(resolve => server.close(resolve)); }
 });

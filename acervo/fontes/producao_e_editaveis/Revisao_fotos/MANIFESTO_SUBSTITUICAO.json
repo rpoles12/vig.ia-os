@@ -1,0 +1,638 @@
+[
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-00\\04_PENDENCIAS_E_DECISOES.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-00\\04_PENDENCIAS_E_DECISOES.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_00\\04_PENDENCIAS_E_DECISOES.md",
+    "sha256": "a8b10e994b88821deece349e3e05eafb85cd8f6b10e3232fc37eca0c8564c119"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\editaveis\\cracha_frente.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\editaveis\\cracha_frente.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\editaveis\\cracha_frente.pdf",
+    "sha256": "30dde7279a3ba7a114d4af7a734af59c1facda1760413452a06b526720cebafc"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\editaveis\\ficha_helena_A5.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\editaveis\\ficha_helena_A5.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\editaveis\\ficha_helena_A5.pdf",
+    "sha256": "4e719382bd99df5dc6f319db272aa92fdd64540dc24e26681f90e5ebd1657f72"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\editaveis\\gerador_lote_01.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\editaveis\\gerador_lote_01.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\editaveis\\gerador_lote_01.py",
+    "sha256": "2a25a6802828b7212c94faae6e384e83aacead579fdaf69b84063be05266300c"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\editaveis\\portrait_assets.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\editaveis\\portrait_assets.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\editaveis\\portrait_assets.py",
+    "sha256": "a15bf8282574448211a4af373b1c230facec1a17204d3fe048e75bb1c14e7565"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\imagens\\01_ficha_helena.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\imagens\\01_ficha_helena.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\imagens\\01_ficha_helena.png",
+    "sha256": "2f7d67471eb6598aced691e5ff94191332cb66f5f389bafe7964802eed07a72b"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\imagens\\02_cracha_frente.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\imagens\\02_cracha_frente.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\imagens\\02_cracha_frente.png",
+    "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\impressao\\01_ficha_helena_A4_duas_A5.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\impressao\\01_ficha_helena_A4_duas_A5.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\impressao\\01_ficha_helena_A4_duas_A5.pdf",
+    "sha256": "cfdfb660e6919f29f02330ad2ef0b777b2a0f2be792cb23013ebfaac187730ae"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "sha256": "273958c82e58cdb1bab916d1c18812499e40890f63b628b60f4b729f7e088728"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\LEIA-ME.md",
+    "sha256": "0ae657932b89fed1fdb6a6d23ccf84fdc9b8304462aba9a88b78e3d8f6c03096"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\revisao\\01_ficha_folha_A4.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\revisao\\01_ficha_folha_A4.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\revisao\\01_ficha_folha_A4.png",
+    "sha256": "1cea711f27f91d579f2fbbf3838533617bade50d057e4ba56b5f1667a508ced3"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-01\\revisao\\02_cracha_folha_A4.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-01\\revisao\\02_cracha_folha_A4.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_01\\revisao\\02_cracha_folha_A4.png",
+    "sha256": "a8109591780cdfd48e5718b17f6ae0885bf895a275ca7b93ddb51a3658e6e133"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\gerador_lote_02.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\gerador_lote_02.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\gerador_lote_02.py",
+    "sha256": "02de46d7745d4961e4632f315ad5f1b70e4b44bb881507c7fe248e630c673b83"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\portrait_assets.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\portrait_assets.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\portrait_assets.py",
+    "sha256": "a15bf8282574448211a4af373b1c230facec1a17204d3fe048e75bb1c14e7565"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\cracha_frente.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\cracha_frente.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\cracha_frente.pdf",
+    "sha256": "30dde7279a3ba7a114d4af7a734af59c1facda1760413452a06b526720cebafc"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P01_carlos.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P01_carlos.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P01_carlos.pdf",
+    "sha256": "4dc2b848a4572b9326e56e2e130facf12acc1d2fe454699c312b605313a4f35c"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P02_helena.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P02_helena.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P02_helena.pdf",
+    "sha256": "e03a2570a87469df185ed028ac2f89bb59975b5835418e79eb657c7f72945392"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P03_marcelo.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P03_marcelo.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P03_marcelo.pdf",
+    "sha256": "0edabdb0cad806470c87904f61bf8ca0232205598ee0879f64d8db58c1a70ad7"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P04_renata.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P04_renata.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P04_renata.pdf",
+    "sha256": "326e93cb6dcf93e04c38fd9c0471de20655f7b17e61e5eb644e9b2df422ab126"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P05_eduardo.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P05_eduardo.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P05_eduardo.pdf",
+    "sha256": "539d7aad77d3a817910a51f1f01db23257fa36967ba9e1a1b505363e659295d7"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P06_patrícia.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P06_patrícia.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P06_patrícia.pdf",
+    "sha256": "5a321738db21c2bf65424b47efb601736b3ff5a1f9b7fa05555a8cb9c0b356a8"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P07_lucas.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P07_lucas.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P07_lucas.pdf",
+    "sha256": "1b443e0c69f527daf1d4efd41c0b02af5dea1e7493d230741ca7c189ab91b818"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\ficha_P08_camila.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\ficha_P08_camila.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\ficha_P08_camila.pdf",
+    "sha256": "2896885f68829f97ee1c74831e9801433a6e554e082735c6ba8dc87aaf4887f6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P01_carlos.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P01_carlos.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P01_carlos.pdf",
+    "sha256": "6f151e349c11cd74e2d3faeb2fc1e996fab95656067ec8f018ac13609b8e290f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P02_helena.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P02_helena.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P02_helena.pdf",
+    "sha256": "6d4160647a74fc94fc14d00b15e94e46de67d2a44c24607e0f30a1d9d50bb9eb"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P03_marcelo.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P03_marcelo.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P03_marcelo.pdf",
+    "sha256": "ce2d63a3afb341491b81b09603cac9b4f5dffd0608a857150218b67ee8f3092d"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P04_renata.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P04_renata.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P04_renata.pdf",
+    "sha256": "92e5180fab8c93123a5d33562f2e4c0bddd06cca22ca2807e79351e65228a472"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P05_eduardo.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P05_eduardo.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P05_eduardo.pdf",
+    "sha256": "6cd9364d466b0663196414719221b82af457eb5b84481733d28afd873ce7d8f2"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P06_patrícia.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P06_patrícia.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P06_patrícia.pdf",
+    "sha256": "dc8fc72c7a854b64c79ceb5da78ecb525c6c763116804dd1c9eca87c1139476d"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P07_lucas.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P07_lucas.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P07_lucas.pdf",
+    "sha256": "664b9c933e429f27340d1130b904b5dafa051ecb0148c22f897409e1e9dc347f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P08_camila.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P08_camila.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P08_camila.pdf",
+    "sha256": "2cb79e699eb854d5fc0395dfefaec7c35954d18de6dfea217bb76eb650c0b412"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P09_bryan.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\editaveis\\vetoriais\\retrato_provisorio_P09_bryan.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\editaveis\\vetoriais\\retrato_provisorio_P09_bryan.pdf",
+    "sha256": "876475a7fa9ee25056c8a6fd40688c489467a89c43f995e9f597df148128be7e"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\cracha\\helena_frente.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\cracha\\helena_frente.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\cracha\\helena_frente.png",
+    "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P01_carlos.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P01_carlos.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P01_carlos.png",
+    "sha256": "2389aceba5881d1e225130f98810153938ca48c671007ee92908c8592f5c8e3b"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P02_helena.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P02_helena.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P02_helena.png",
+    "sha256": "2f7d67471eb6598aced691e5ff94191332cb66f5f389bafe7964802eed07a72b"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P03_marcelo.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P03_marcelo.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P03_marcelo.png",
+    "sha256": "98140bdbcd410e4bd373d9a31905e67d6aa90f249ccfa9782a13de3e194b5bcb"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P04_renata.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P04_renata.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P04_renata.png",
+    "sha256": "f9566f67a73b22edc14bf24fada0cd19bfccd0cfe7b8811a71cfe22816408505"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P05_eduardo.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P05_eduardo.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P05_eduardo.png",
+    "sha256": "bc6c4cc3bfb9dfbc683952f423f4e019bd1051bfc2857dbe72422edd4ad17ba0"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P06_patrícia.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P06_patrícia.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P06_patrícia.png",
+    "sha256": "f432c12c56ca1385112786a2d48573fa2b0e3479ba22ac2f20acbf9a8dc548f2"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P07_lucas.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P07_lucas.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P07_lucas.png",
+    "sha256": "cf3287dd7be1daff14b641cbf15499074002d45ca6e4105f21366069be28c8cb"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\fichas\\P08_camila.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\fichas\\P08_camila.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\fichas\\P08_camila.png",
+    "sha256": "f5def2c389aba5ad142005f1cdfc5659c41824c2efda8eba9a1b0338473f31fd"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P01_carlos_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P01_carlos_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P01_carlos_PENDENTE.png",
+    "sha256": "79aee2497c180e7fbbae7e5dcb796a758dc0f3d627ac715f7e86ea48957f54fc"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P02_helena_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P02_helena_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P02_helena_PENDENTE.png",
+    "sha256": "10a06fa662e6eacd2d032145ba9706bb47445c4aa181d065a498e1923a3d74d9"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P03_marcelo_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P03_marcelo_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P03_marcelo_PENDENTE.png",
+    "sha256": "7dc92b27b3661a2f0fe4c4e15c80853d536d5cee98eefac86731ca900645bc78"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P04_renata_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P04_renata_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P04_renata_PENDENTE.png",
+    "sha256": "95811841e117cb82690dbff43162f4eabbcd39202ab0294978e5e52f96cfc394"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P05_eduardo_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P05_eduardo_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P05_eduardo_PENDENTE.png",
+    "sha256": "87f76e995f2a0cc19116bb44c7ba7a99c7d687c86ca44772e5234c86afb19198"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P06_patrícia_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P06_patrícia_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P06_patrícia_PENDENTE.png",
+    "sha256": "ea2b1b7dd956e9b2c1083066073e195f8875fc76987ca4c3db790ca3404048ad"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P07_lucas_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P07_lucas_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P07_lucas_PENDENTE.png",
+    "sha256": "98ab8bfa4df4e6825cc5fe9f7a539ee104bdf006793e2b39ba0c43b42b4b94c6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P08_camila_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P08_camila_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P08_camila_PENDENTE.png",
+    "sha256": "14e0f7e730a0f69f1785c944fe6080a0c2967d14c63f5e56ce68c2e91a14bb4c"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\imagens\\retratos-provisorios\\P09_bryan_PENDENTE.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\imagens\\retratos-provisorios\\P09_bryan_PENDENTE.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\imagens\\retratos-provisorios\\P09_bryan_PENDENTE.png",
+    "sha256": "33f5344cb3f63e1cb713d7af28a502b8c2abb6f900a6f2f8e6a9c251d7eb6715"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "sha256": "d3a28bc3b60b163a3992bba9d5c6dfcb038a52a01c7830e32d1ff64042319662"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "sha256": "273958c82e58cdb1bab916d1c18812499e40890f63b628b60f4b729f7e088728"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\inventario-entrega.csv",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\inventario-entrega.csv",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\inventario-entrega.csv",
+    "sha256": "1228fcc20a5b483bb6bff6989342fe03a06221791cb32cd9eadb09de8bcaf4c1"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\inventario.csv",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\inventario.csv",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\inventario.csv",
+    "sha256": "f9660062f43d70fa39d48d9166bed3b990cbfffed3562babdfd2a369198e722a"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\LEIA-ME.md",
+    "sha256": "b762b85f3bf9219b5e51ebe441fe4e97875ac3f0b8ce8107e8a22baff4cef41b"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\cracha.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\cracha.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\cracha.png",
+    "sha256": "a8109591780cdfd48e5718b17f6ae0885bf895a275ca7b93ddb51a3658e6e133"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\fichas-1.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\fichas-1.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\fichas-1.png",
+    "sha256": "f92de8b9318eccc8a38b66bfa1b949f142baed1e6cb2e8fc24396e1a304d3ccc"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\fichas-2.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\fichas-2.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\fichas-2.png",
+    "sha256": "dee627ce14c39d310f2a1824ee38678116e7eaa4977d43ae9157466e5fcd5f9f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\fichas-3.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\fichas-3.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\fichas-3.png",
+    "sha256": "b128f221c213f264a2e89c87a0b31ff7e2b1111bd1f73c89570fcd3b3ab2c2c3"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\fichas-4.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\fichas-4.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\fichas-4.png",
+    "sha256": "dec2616c9b175fdb43a33053347430c712f461f3c63a375eaa6656b6f39c468d"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-02\\revisao\\visao_geral_fichas.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-02\\revisao\\visao_geral_fichas.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_02\\revisao\\visao_geral_fichas.png",
+    "sha256": "2d0efe04d50f4a1ae07c90fa7025c901975ee6b1943a1568c32fcf69f60d6f6f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\dados\\conteudos.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\dados\\conteudos.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\dados\\conteudos.json",
+    "sha256": "f278fa270e2f15f5c0cd3f87bdec063a4842a0eaaa7653a09bdaf7cc07b425f7"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\dados\\integracao.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\dados\\integracao.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\dados\\integracao.json",
+    "sha256": "6056eb473e8a56eb13bb73472251a13b2fa4b08d21398bf33d6f43d8c01d8443"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\editaveis\\gerador_lote_03.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\editaveis\\gerador_lote_03.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\editaveis\\gerador_lote_03.py",
+    "sha256": "4bb1d7d6a1f4a6bca71d7dbc9f3de6f46bf926c4afcb7fdebe1c7145d7854132"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\editaveis\\portrait_assets.py",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\editaveis\\portrait_assets.py",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\editaveis\\portrait_assets.py",
+    "sha256": "a15bf8282574448211a4af373b1c230facec1a17204d3fe048e75bb1c14e7565"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\editaveis\\vetoriais\\A17_ficha_projeto.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\editaveis\\vetoriais\\A17_ficha_projeto.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\editaveis\\vetoriais\\A17_ficha_projeto.pdf",
+    "sha256": "a9e588059c3e94f0a9036f65c03389ef28699121a547c9abfc7341b049747d44"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\editaveis\\vetoriais\\F1_composicao_PROVISORIA.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\editaveis\\vetoriais\\F1_composicao_PROVISORIA.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\editaveis\\vetoriais\\F1_composicao_PROVISORIA.pdf",
+    "sha256": "076a6511fbf8e07bd76ce2be3a146ba09a3aa49a028a304fe80ac809822df815"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\editaveis\\vetoriais\\F1_identificacao_PROVISORIA.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\editaveis\\vetoriais\\F1_identificacao_PROVISORIA.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\editaveis\\vetoriais\\F1_identificacao_PROVISORIA.pdf",
+    "sha256": "6360d0e5b07c417add788937bafbaad18cc863c337aaa17e50cc668a0c4d6812"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\imagens\\A17_ficha_projeto.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\imagens\\A17_ficha_projeto.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\imagens\\A17_ficha_projeto.png",
+    "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\imagens\\F1_composicao.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\imagens\\F1_composicao.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\imagens\\F1_composicao.jpg",
+    "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\imagens\\F1_composicao_PROVISORIA.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\imagens\\F1_composicao_PROVISORIA.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\imagens\\F1_composicao_PROVISORIA.jpg",
+    "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\imagens\\F1_identificacao.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\imagens\\F1_identificacao.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\imagens\\F1_identificacao.png",
+    "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\imagens\\F1_identificacao_PROVISORIA.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\imagens\\F1_identificacao_PROVISORIA.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\imagens\\F1_identificacao_PROVISORIA.png",
+    "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\inventario.csv",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\inventario.csv",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\inventario.csv",
+    "sha256": "1461fb998931083fdfde06ec15349cd596ea03ab54bafed226273a7b5f080a18"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\LEIA-ME.md",
+    "sha256": "bc0a491961ea54b947a34f53d25cc1059c07c1b66082a9130c30db2002c213c7"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\revisao\\F1_composicao_PROVISORIA.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\revisao\\F1_composicao_PROVISORIA.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\revisao\\F1_composicao_PROVISORIA.png",
+    "sha256": "03df074aaeccbd58e1d780db8153cdd4612e9c935420ce4e5855566460378b59"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-03\\revisao\\visao_geral_lote_03.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-03\\revisao\\visao_geral_lote_03.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_03\\revisao\\visao_geral_lote_03.png",
+    "sha256": "243a51ed35c9f2ff383a7b43646b2ff4c2cdc6a7dcc955edae3404a5d624ff7e"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\impressao\\01_fichas_funcionarios_A4_8_fichas.pdf",
+    "sha256": "d3a28bc3b60b163a3992bba9d5c6dfcb038a52a01c7830e32d1ff64042319662"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\impressao\\02_cracha_helena_A4_frente_verso.pdf",
+    "sha256": "273958c82e58cdb1bab916d1c18812499e40890f63b628b60f4b729f7e088728"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\LEIA-ME.md",
+    "sha256": "a00b16e47348215086e56061c5ceaefefd49eb32769fc84e4d48887801da1d5d"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\producao_interna\\lote-03\\conteudos.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\producao_interna\\lote-03\\conteudos.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\producao_interna\\lote-03\\conteudos.json",
+    "sha256": "f278fa270e2f15f5c0cd3f87bdec063a4842a0eaaa7653a09bdaf7cc07b425f7"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\producao_interna\\lote-03\\integracao.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\producao_interna\\lote-03\\integracao.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\producao_interna\\lote-03\\integracao.json",
+    "sha256": "6056eb473e8a56eb13bb73472251a13b2fa4b08d21398bf33d6f43d8c01d8443"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\revisao\\RELATORIO.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\revisao\\RELATORIO.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\revisao\\RELATORIO.json",
+    "sha256": "a01a58e20cb41d7f1a812ce418293618ce8ecb5a778ff3146d88828817808b79"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\data.js",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\data.js",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\data.js",
+    "sha256": "07a5b6cf994ea4a73f0d185db4dd423beb082e1150aa6c11e7491d5d6dbc4061"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\evidencias\\A17_ficha_projeto.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\evidencias\\A17_ficha_projeto.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\evidencias\\A17_ficha_projeto.png",
+    "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\evidencias\\F1_composicao.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\evidencias\\F1_composicao.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\evidencias\\F1_composicao.jpg",
+    "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\evidencias\\F1_composicao_PROVISORIA.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\evidencias\\F1_composicao_PROVISORIA.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\evidencias\\F1_composicao_PROVISORIA.jpg",
+    "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\evidencias\\F1_identificacao.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\evidencias\\F1_identificacao.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\evidencias\\F1_identificacao.png",
+    "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\evidencias\\F1_identificacao_PROVISORIA.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\evidencias\\F1_identificacao_PROVISORIA.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\evidencias\\F1_identificacao_PROVISORIA.png",
+    "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\lote-08\\sistema\\index.html",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\lote-08\\sistema\\index.html",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Lote_08\\sistema\\index.html",
+    "sha256": "563c9100c20f85aa08a204ecc807b0b6031a915e21b3afe1ff14ac9e15cb30dd"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\personagens\\01_retratos_gerados\\GALERIA.html",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\personagens\\01_retratos_gerados\\GALERIA.html",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Personagens_gerados\\01_retratos_gerados\\GALERIA.html",
+    "sha256": "346dc2e421b603c66d15d5e797b0df538e346e3697793afde3e7333507d1317f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\personagens\\01_retratos_gerados\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\personagens\\01_retratos_gerados\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Personagens_gerados\\01_retratos_gerados\\LEIA-ME.md",
+    "sha256": "d994f2510a1dab17ecac84dc47f769d6fa3023bec4816ab390d2b4eda664d1b9"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\personagens\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v01.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\personagens\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v01.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Personagens_gerados\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v01.png",
+    "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\personagens\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v02.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\personagens\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v02.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Personagens_gerados\\01_retratos_gerados\\P09_Bryan_Almeida_4x3_v02.png",
+    "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\personagens\\01_retratos_gerados\\PROMPTS_E_REGISTRO.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\personagens\\01_retratos_gerados\\PROMPTS_E_REGISTRO.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Personagens_gerados\\01_retratos_gerados\\PROMPTS_E_REGISTRO.json",
+    "sha256": "7cb5c82634cae55ec7bb09e26db6d9e3a7cf21b818c76652553bce0433bac892"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\planejamento-producao-7set-dev.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\planejamento-producao-7set-dev.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\planejamento-producao-7set-dev.md",
+    "sha256": "a4de43bfd81de53571ed434f209d78dc6cbbf48a325c98b00e4974f900b34d9c"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\A17_no_sistema.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\A17_no_sistema.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\A17_no_sistema.png",
+    "sha256": "35a0964d889885b643a588d71775d3c5117411aef092dfcb09328d13087f7c6f"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\CONTATO_DOCUMENTOS.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\CONTATO_DOCUMENTOS.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\CONTATO_DOCUMENTOS.jpg",
+    "sha256": "e952cf69933bc586041a363a1d87694a375a2e597ac2bdab8740763cb6b548f5"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\imposicao\\a4-1.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\imposicao\\a4-1.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\imposicao\\a4-1.png",
+    "sha256": "fd0bbfa6501bfaccf1445592aec8461cbaf3d0db0c3579e9b09dec3c64a3cd7a"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\imposicao\\a4-2.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\imposicao\\a4-2.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\imposicao\\a4-2.png",
+    "sha256": "d5c508e55e87bbf2ca1b3235b2774cbea012c87a973e41882d099d022b772da5"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\imposicao\\a4-3.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\imposicao\\a4-3.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\imposicao\\a4-3.png",
+    "sha256": "534d8d0ee57efdeb94bc60f2d3190de2c71152623498abbc0c45345331348213"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\imposicao\\a4-4.png",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\imposicao\\a4-4.png",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\imposicao\\a4-4.png",
+    "sha256": "01ac3d6b2ed6231535e1bada846816d0451572febf4c4fd011178bdf3eef3d44"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\IMPOSICAO_A4.jpg",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\IMPOSICAO_A4.jpg",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\IMPOSICAO_A4.jpg",
+    "sha256": "4323f6081a0301ce6b5c19a13be1b8763dda605a9cc32ebef6922365d62cc0a5"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\LEIA-ME.md",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\LEIA-ME.md",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\LEIA-ME.md",
+    "sha256": "18ad76f500d060d47b279a8e5f00baf34b47d1675808766df746dbd82f445c17"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\RELATORIO_ATUALIZACAO_FOTOS.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\RELATORIO_ATUALIZACAO_FOTOS.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\RELATORIO_ATUALIZACAO_FOTOS.json",
+    "sha256": "d7caf7eda21cad31c60501234a5a486bc31b4c41395a5bfb03c76a690448e9e2"
+  },
+  {
+    "source": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos\\revisao\\VALIDACAO.json",
+    "local": "C:\\Users\\SEU_USUARIO\\.codex\\.chatgpt-projects\\g-p-6ad0b15279e8819195cbc975c8606540\\output\\atualizacao-fotos-verificada\\VALIDACAO.json",
+    "target": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Atualizacao_fotos\\VALIDACAO.json",
+    "sha256": "3752275a0702023f6246b585dd1636e0a286842c95b2ccbfd909b2363ebcacc8"
+  }
+]

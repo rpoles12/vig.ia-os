@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-19",
+  "changes": [
+    "app.js",
+    "cursors.css",
+    "desktop.js",
+    "index.html",
+    "taskbar-player.css",
+    "VIGIA_OS_LEIA-ME.md",
+    "VIGIA_OS_V2.md",
+    "assets\\os\\PRODUCAO.json",
+    "assets\\os\\cursors\\default.png",
+    "assets\\os\\cursors\\grab.png",
+    "assets\\os\\cursors\\grabbing.png",
+    "assets\\os\\cursors\\help.png",
+    "assets\\os\\cursors\\manifest.json",
+    "assets\\os\\cursors\\not-allowed.png",
+    "assets\\os\\cursors\\pointer.png",
+    "assets\\os\\cursors\\previa-cursores.png",
+    "assets\\os\\cursors\\resize-nwse.png",
+    "assets\\os\\cursors\\text.png",
+    "assets\\os\\cursors\\wait.png",
+    "assets\\os\\cursors\\zoom-in.png",
+    "assets\\os\\cursors\\zoom-out.png"
+  ],
+  "backup": "C:\\Users\\SEU_USUARIO\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\publicacao_player_cursores_20261119_103958",
+  "cursors": {
+    "count": 11,
+    "format": "PNG RGBA32x32",
+    "hotspots": "assets/os/cursors/manifest.json",
+    "preview": "assets/os/cursors/previa-cursores.png",
+    "method": "Desenho geométrico local combinado com a família SVG do OS"
+  },
+  "player": {
+    "play_pause": true,
+    "seek": true,
+    "volume_menu": true,
+    "mute_restore": true,
+    "transcription": true,
+    "single_shared_audio": true
+  },
+  "verification": {
+    "automated": {
+      "date": "2026-11-19",
+      "checks": 107,
+      "result": "passed",
+      "coverage": [
+        "Progressão 8/34/67/100 e catálogo8/23/24/25",
+        "Todas as respostas sem consulta a documentos",
+        "Bônus únicos, limites, reset e alertas",
+        "Gabarito e caminhos de mídias",
+        "Consultas básicas da assistente"
+      ]
+    },
+    "responsive_widths": [
+      390,
+      935,
+      1366
+    ],
+    "no_horizontal_overflow": true,
+    "cursor_css_in_browser": true,
+    "document_load_busy_clears": true,
+    "local_source_console_errors": 0
+  },
+  "preserved": [
+    "engine.js",
+    "data.js",
+    "production_countdown",
+    "all_audio_evidence_and_ending_media"
+  ],
+  "limitations": [
+    "Abertura direta file:// bloqueada pela política do navegador de teste; validar no equipamento do evento.",
+    "Conferir percepção do som e tamanho do cursor no equipamento do evento."
+  ]
+}

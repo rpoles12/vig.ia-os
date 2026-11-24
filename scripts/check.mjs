@@ -37,7 +37,7 @@ export function checkPublic(directory = publicDir) {
     bytes += size;
     if (!size) issues.push(`Arquivo vazio: ${file}`);
     if (size >= 100 * 1024 * 1024) issues.push(`Arquivo excede o limite do GitHub: ${file}`);
-    if (/(?:^|\/)(?:privado|node_modules|\.git|\.env)(?:\/|$)/i.test(file) || /(?:OPERACAO_EQUIPE|GABARITO|INVENTARIO_ORIGEM)/i.test(file)) issues.push(`Arquivo da equipe na área pública: ${file}`);
+    if (/(?:^|\/)(?:acervo|privado|node_modules|\.git|\.env)(?:\/|$)/i.test(file) || /(?:OPERACAO_EQUIPE|GABARITO|INVENTARIO_ORIGEM)/i.test(file)) issues.push(`Arquivo da equipe na área pública: ${file}`);
     if (/\.(html|css|js)$/.test(file)) {
       const source = fs.readFileSync(target, 'utf8');
       if (file.endsWith('.html')) {

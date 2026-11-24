@@ -1,0 +1,23 @@
+{
+  "data": "2026-11-12T14:03:55",
+  "sistema": "C:\\Users\\SEU_USUARIO\\Desktop\\Escape_Room_Pacote_Completo\\02_SISTEMA_OFFLINE",
+  "backup": "C:\\Users\\SEU_USUARIO\\OneDrive - SESISENAISP - Escolas\\Senai\\Escape Room Mentalist\\Producao_7set_dev\\Backup_feedback_respostas_20261112_140355\\Area_de_Trabalho",
+  "testes": {
+    "conferir_motor_pacote.cjs": {
+      "motor": "APROVADO",
+      "permutacoes": 720,
+      "sequencias_aceitas": 1,
+      "protocolo": "BA17-2847-2246",
+      "reset": "APROVADO",
+      "observacao": "Teste de regras e sintaxe; não substitui teste de interface e audição."
+    },
+    "testar_feedback_respostas.cjs": {
+      "campos": "APROVADO: identidade, acessos, 7 combinações do protocolo e campos vazios",
+      "som": "APROVADO: erro, acerto, conclusão e silêncio; envelopes e volume moderado",
+      "reset": "APROVADO"
+    }
+  },
+  "browser": "HTTP local: identidade inválida, erro isolado de acesso digital, campos vazios, 3 erros no protocolo, correção parcial (somente horário permanece inválido), controle de silêncio, cronologia incorreta e correta com áudio3 automático, protocolo final100%.",
+  "limites": "Som conferido por teste de agendamento e envelopes Web Audio; testar audição e volume no equipamento final. Preview via HTTP local; abertura file:// não testada pelo navegador de automação.",
+  "preservado": "11 locuções aprovadas, textos da IA, evidências, cronômetro, respostas corretas e impressos."
+}

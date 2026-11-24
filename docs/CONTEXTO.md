@@ -1,6 +1,6 @@
 # Contexto e continuidade do projeto
 
-**Referência vigente: entrega consolidada de 24/11/2026.** Este documento descreve o projeto sem revelar as soluções. A narrativa integral, as credenciais de interface e o gabarito estão em `privado/`, incluída no repositório **privado** e excluída da saída do site.
+**Referência vigente: entrega consolidada de 24/11/2026.** Este documento descreve o projeto sem revelar as soluções. A narrativa integral, as credenciais de interface e o gabarito estão em `acervo/`, incluída no repositório **público** e excluída da saída do site.
 
 ## Objetivo
 
@@ -42,17 +42,17 @@ O evento informado para a divulgação é **03/12, das 7h às 15h**. Nenhum ano 
 1. As instruções atuais do responsável pelo projeto orientam novas alterações.
 2. O comportamento entregue pode ser conferido em `public/` e nos testes.
 3. README, `docs/` e o novo guia da equipe descrevem a versão consolidada.
-4. `privado/historico/` conserva versões anteriores para rastreabilidade. Elas contêm decisões superadas e não devem orientar implementação sem comparação com os itens acima.
+4. `acervo/historico/` conserva versões anteriores para rastreabilidade. Elas contêm decisões superadas e não devem orientar implementação sem comparação com os itens acima.
 
 Não concatenar novas regras ao fim de um manual antigo mantendo instruções conflitantes no início. Reescreva as seções afetadas e registre a mudança no changelog.
 
 ## Continuidade por outra pessoa ou ferramenta
 
-Comece pelo README, pelo guia do jogo e pela arquitetura. Para alterar o enigma, leia o guia da equipe em `privado/`. Um clone atualizado do repositório privado inclui gabarito documentado, históricos e matrizes de impressão. Apenas pessoas com acesso ao repositório devem consultar esses materiais. Preserve a relação entre narrativa, documentos, horários e reconstituição. O relatório de inventário local registra os arquivos de origem e as novas divisões.
+Comece pelo README, pelo guia do jogo e pela arquitetura. Para alterar o enigma, leia o guia da equipe em `acervo/`. Um clone atualizado do repositório público inclui gabarito documentado, históricos e matrizes de impressão. Apenas pessoas com acesso ao repositório devem consultar esses materiais. Preserve a relação entre narrativa, documentos, horários e reconstituição. O relatório de inventário local registra os arquivos de origem e as novas divisões.
 
 ## Pendências externas à entrega local
 
-- Enviar os commits ao repositório informado pelo responsável, confirmando primeiro a visibilidade Private: `rpoless/vig.ia-os-escape-room`.
+O repositório é público para portfólio. Os materiais da equipe e as soluções são disponibilizados como acervo com spoilers.
 - Importar na Vercel e conferir a primeira URL de produção, inclusive permissões da conta.
 - Fazer uma rodada completa no computador da escola e conferir volume, impressão, montagem da sala e tempo real de troca entre grupos.
 - Informar sala/endereço ou instruções adicionais se forem desejados em uma futura edição do cartaz.

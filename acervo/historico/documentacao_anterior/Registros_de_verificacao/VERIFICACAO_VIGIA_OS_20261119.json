@@ -1,0 +1,62 @@
+{
+  "version": "VIGIA OS / 2026-11-19",
+  "backup": "C:\\Users\\SEU_USUARIO\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\vigia_os_20261119_090842\\Escape_Room_Pacote_Completo",
+  "motor": {
+    "date": "2026-11-19",
+    "checks": 104,
+    "result": "passed",
+    "coverage": [
+      "Progressão 8/34/67/100 e catálogo8/23/24/25",
+      "Todas as respostas sem consulta a documentos",
+      "Bônus únicos, limites, reset e alertas",
+      "Gabarito e caminhos de mídias",
+      "Consultas básicas da assistente"
+    ]
+  },
+  "sound": {
+    "date": "2026-11-19",
+    "result": "passed",
+    "coverage": "Aviso, tique-taque, chiado de1,2s, silêncio e limpeza de nós de áudio; dispositivo simulado. Percepção no equipamento do evento pendente."
+  },
+  "canonical_preserved": {
+    "key": true,
+    "engine": true,
+    "evidence": 25,
+    "cards": 6,
+    "media_files_identical": 103
+  },
+  "browser": {
+    "full_path": "passed",
+    "wrong_answers_and_docs": "passed",
+    "enter_and_fields": "passed",
+    "bonus": "passed",
+    "close_minimize_restore": "passed",
+    "reader_ai_side_by_side": "passed",
+    "timeline_pointer_drag": "passed",
+    "key_30s_auto_hide": "passed",
+    "invalid_and_valid_code": "passed",
+    "recap_autoplay": "passed",
+    "expiry_blue_12s_copy": "passed",
+    "escape_alt2_blocked": "passed",
+    "operator_overtime": "passed",
+    "reset": "passed",
+    "early_key_acknowledgement": "passed",
+    "resolutions": [
+      "1280x636",
+      "1366x768",
+      "1920x1080",
+      "390x844"
+    ],
+    "console": "No error associated with a local source file. One isolated MutationObserver error without URL after the final observation; no local JS uses this API and no associated functional failure observed."
+  },
+  "limitations": [
+    "Direct file:// browser verification blocked by browser URL policy; no bypass attempted.",
+    "Validate audio perception, local opening and pilot with group on event computer."
+  ],
+  "assets": {
+    "wallpaper": "Native image_gen PNG",
+    "icons": "8 local SVGs",
+    "ui": "HTML/CSS/SVG",
+    "existing_media": "preserved"
+  }
+}

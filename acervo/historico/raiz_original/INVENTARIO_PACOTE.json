@@ -1,0 +1,1823 @@
+{
+  "revisao": "2026-11-24 - jornais A3, três folhas sem reservas",
+  "pasta": "C:\\Users\\SEU_USUARIO\\Desktop\\Escape_Room_Pacote_Completo",
+  "quantidade_arquivos": 363,
+  "total_bytes": 316323057,
+  "arquivos": [
+    {
+      "arquivo": "01_PARA_IMPRESSAO\\Escape_Room_6_Documentos_Complementares_A4.pdf",
+      "bytes": 132937,
+      "sha256": "3c2fb057dc6d3348a47e58338efd863290dd8ccea8e3a8f38b8d2ee66d1e2d30"
+    },
+    {
+      "arquivo": "01_PARA_IMPRESSAO\\Escape_Room_Impressao_Completa_A4.pdf",
+      "bytes": 33830934,
+      "sha256": "681a06989956cf90d5ade0b7399df61a540d1cf5478c1e4a69c6e19eb74f6e4d"
+    },
+    {
+      "arquivo": "01_PARA_IMPRESSAO\\Jornais_A3_3_Folhas.pdf",
+      "bytes": 7328633,
+      "sha256": "c31c817be2ca12b0545634d30fdb8257d846ee4d65faa1267c75029ae2283aa1"
+    },
+    {
+      "arquivo": "01_PARA_IMPRESSAO\\Jornais_A3_Orientacao.json",
+      "bytes": 355,
+      "sha256": "e3709ece24ebd64defd8cfb557686cab0d27edbcfb637e856b849313ef281f8b"
+    },
+    {
+      "arquivo": "01_PARA_IMPRESSAO\\LEIA-ME.md",
+      "bytes": 1082,
+      "sha256": "86d62210dbe9218aa56e54f1f4b3ae3f69e8b6517911cfde57800a254cf27376"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\ambient.css",
+      "bytes": 1347,
+      "sha256": "d9d9e47d71b084699f62ebe6869c2c263eb5639f136f8249fa18a725ce873d92"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\ambient.js",
+      "bytes": 5331,
+      "sha256": "a9d28aef0725ae57fb6263fbc68c29f8202964d9ba421ae21e966967bcdd2d96"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\app.js",
+      "bytes": 50276,
+      "sha256": "16405f62515591016df6c204b387d9d60907e8ef56a0040c1a3ee23bcbcb5aed"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\7set-dev-wordmark-claro.png",
+      "bytes": 22308,
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\IBMPlexMono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\broken.svg",
+      "bytes": 372,
+      "sha256": "966961fa06e77db097806911cb9430fa35adbf1a5bcd62ba31059f3e38b77602"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\default.png",
+      "bytes": 1742,
+      "sha256": "2bfc3fc99416f655e362ff20e77354211abe228631937f0785b8f2d64276834e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\grab.png",
+      "bytes": 2697,
+      "sha256": "a55a140d2700b49917edc3f920a435a82c26386445809082a8a7fce122903904"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\grabbing.png",
+      "bytes": 1746,
+      "sha256": "b367fe168f66b19e37c98364f992c0c5370c47b01a58293ad10b72e12f8efb7b"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\help.png",
+      "bytes": 2211,
+      "sha256": "386ef479151da58000c623d47a5e5d15ef21d5e89f32446f7a1f2efe6fbfc56c"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\manifest.json",
+      "bytes": 2524,
+      "sha256": "d93473f00b8df25fdead4d4f372bfd5d91de26728375de3a255d0832ec3bf0e5"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\not-allowed.png",
+      "bytes": 1900,
+      "sha256": "a5453f442d97820cb270ab4c29e9627119e962bf82d2e5a0cea967ef19765db6"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\pointer.png",
+      "bytes": 1817,
+      "sha256": "fed5015445bc326a42160ef8da407f61ac1ac91c476571acab39afb0606585ab"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\previa-cursores.png",
+      "bytes": 66521,
+      "sha256": "d869d2092738b63267633e580cb0c51d18ee3072f40dff425d1a8b745d847186"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\resize-nwse.png",
+      "bytes": 1526,
+      "sha256": "52ca12fedab350f5ee161a1c77621a99cbb3d829b0d8c80c327248386211dcd3"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\text.png",
+      "bytes": 938,
+      "sha256": "8e4f6a3ab7b19873c94874b356c0483f7d1a20abbe349405563d31bc8deb7b7a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\wait.png",
+      "bytes": 2214,
+      "sha256": "4e8f45ca35d8e057728dcc398d9cd79ecb273ee7ffadadf6060bea81ac6e730b"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\zoom-in.png",
+      "bytes": 2073,
+      "sha256": "3510fd8bd119117e269f43ccec652acdf79a80d082114d90086e6888832cb7b5"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\cursors\\zoom-out.png",
+      "bytes": 1933,
+      "sha256": "2cbfeb9ce88e1602bc31891d855f2fcfa181e13b7aa7c4ebcaaa24f916867225"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\desktop.svg",
+      "bytes": 424,
+      "sha256": "c382dce680d50c6b183114bbdc8861c594fd773f490834736d61e6a2e004b6c0"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\failure\\cracked-glass-v1.png",
+      "bytes": 2739805,
+      "sha256": "8dc8975a76dcabb8d2886e59ab62d07d91c5d3a5b513f405239876e4fabb8219"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\failure\\GERACAO.md",
+      "bytes": 1707,
+      "sha256": "8451b1320175b088aa2092d2eacf24c0a555888d82f7e0f9f09060deab6fb705"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\file.svg",
+      "bytes": 380,
+      "sha256": "ec06978846ab6e7932c57ba533d1edf3d20e9b39aa55d0b329895815e45afebb"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\files.svg",
+      "bytes": 341,
+      "sha256": "045cd8e955a3e93f22a06b0f5ead0710b25842567f2b5d2a5cf5a8f943737433"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\introvideo.svg",
+      "bytes": 398,
+      "sha256": "0c6c70952648db97fb04d20bbf958b227be72b7b9dc5567f0925359708cf2138"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\media.svg",
+      "bytes": 337,
+      "sha256": "f9b46a8697ebb2034196606fb32f1e863be780b0baf3c89f3b8d908d295d5789"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\notes.svg",
+      "bytes": 225,
+      "sha256": "f93c09c9158c66c1b5ca2ec9037b8e41bbc9f1d1610c4e7f6afb064350af56ff"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\PRODUCAO.json",
+      "bytes": 2534,
+      "sha256": "0da4d95da384f8d6fbdd41a63a745ddaa9d9f37f9ab0ec6808e0024f5ce74b7a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\solve.svg",
+      "bytes": 463,
+      "sha256": "c11adc31e4c03a0d420a940b5d12e305e00e095f6b000765dab3be67ffd9cf19"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\timeline.svg",
+      "bytes": 450,
+      "sha256": "4811c7249488f08711337f804df6ce61903a3f7c392b1440edf3387e43c17040"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\trash.svg",
+      "bytes": 267,
+      "sha256": "0438d95955e54c4eba59b443ce83a0f6537244e3c1239846eea836cdfef81861"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\user.svg",
+      "bytes": 168,
+      "sha256": "930321049c63e99e26ee570fb984a2dfac1616b77414fe2bb579c052b971d62d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\vigia.svg",
+      "bytes": 397,
+      "sha256": "7dd0df298d2efaf7b55ebe3d733f17c7dd11dbace0eaa7c1b0a18a06286b0d48"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\os\\wallpaper.png",
+      "bytes": 1367379,
+      "sha256": "9aa382f1f71e5f1f82b7927a3b7578e35f35bf7da10f7e8c74740b26a5ecb439"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\paper-grain.svg",
+      "bytes": 461,
+      "sha256": "4e6e0d917e186ad925382a6c0b52a7e418bfbbcb68441bd2c5e0448d1d1005a8"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\SpaceGrotesk-Bold.ttf",
+      "bytes": 88256,
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\assets\\SpaceGrotesk-OFL.txt",
+      "bytes": 4495,
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\audio01.wav",
+      "bytes": 2163054,
+      "sha256": "2fd60e985891f921bfaa9e4a58db63720135a55a43b7a0e93df5ef39224ca190"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\audio02.wav",
+      "bytes": 2653806,
+      "sha256": "5a1d0be4d6a69b884d9639b1d048b1f1ba2d22b9496c29cbd89ef2eb2ab78613"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\audio03.wav",
+      "bytes": 2861166,
+      "sha256": "4177232183b00196d9f1ac0fed8d57b63b3f0525d414020caf1445fd44e56d4a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\failure\\CREDITOS.md",
+      "bytes": 1443,
+      "sha256": "694617c0a1445a8c28c0a1dd9609c7ef4c218c7b97924c090ebeda3487a4447a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\failure\\electric-hum-141075.mp3",
+      "bytes": 682945,
+      "sha256": "a98634f8b80245195dfe7259bdb4a8f953ca054b3c98a87ed50efea6dc8d9abd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\failure\\glass-cracking-504028.mp3",
+      "bytes": 54528,
+      "sha256": "010ef779955cedabb5774462fe30a8506b936655967be2cf05975d64d44d82d6"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\failure\\licenca.json",
+      "bytes": 699,
+      "sha256": "e55fe76c5eb63c76142d982ef2833cdbf4903b909fafedee114dc35a6ea7dbb9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\failure\\tv-static-noise-152056.mp3",
+      "bytes": 481489,
+      "sha256": "3e41a42b54633071082977d6111b1fffa7e2f60ed00c061fcfdf48ed9fabf59c"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final01.wav",
+      "bytes": 2398062,
+      "sha256": "0b99d0978efdb1d427ba5954dba85aae1b4a6b50bd8c0785abd30eea0a1bb3e5"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final02.wav",
+      "bytes": 3020142,
+      "sha256": "197d77a7e0bc0e6662986a97ce39f8943436b4e3b1ae5b0ade633cb9854be721"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final03.wav",
+      "bytes": 2960238,
+      "sha256": "ea5155923800abb525cf86fcf2c77e50e5658a9139e44a03ccf571820d5f30b0"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final04.wav",
+      "bytes": 3335790,
+      "sha256": "c6bd7fb8b194b8aacae2c8b86031efd5f7578910d3a947ea3311daf63c9e3d96"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final05.wav",
+      "bytes": 2983278,
+      "sha256": "0354d9eca1d68e77a820323e8d3a8a85a721c066ed6af8c7bf99c1ec0ad435ff"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final06.wav",
+      "bytes": 3252846,
+      "sha256": "f6f04e9e67545135df1e920011d9a639cf6f747434a742693ef4b13682210e37"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final07.wav",
+      "bytes": 3497070,
+      "sha256": "8ab10b7a92b055b04fdb720c58f5965f8f696a2ec49cdc698f8349d2770cba9c"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final08.wav",
+      "bytes": 3040878,
+      "sha256": "1caa29251b9cedcef4285a544cdf2607b696311713770137bea446831ef33b05"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\final_completo.wav",
+      "bytes": 24487724,
+      "sha256": "710924001e5fca66b03800a14f090756e1ba78d4c32667b28966507264d24d4a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\manifesto_integracao.json",
+      "bytes": 10912,
+      "sha256": "e79fbac8ef1d9134eec6c6be82a2fb94020020bf4dd280617f77c3104bf19253"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\roteiro_sintese.json",
+      "bytes": 6783,
+      "sha256": "75cba84b59e92911b97824d5375307aa9493781b274fb3a6dcaf722c9f778a83"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\roteiros.js",
+      "bytes": 7326,
+      "sha256": "8d2c5ecdb15effeb2dde66306a86a9efae0d25ca780e3cccdb4badba3a317fa7"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\trilha\\CREDITOS.md",
+      "bytes": 570,
+      "sha256": "61b9178df00798f19f6ce1ea321cff53a244a289c7b48f8af0f4c161cb68a76e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\trilha\\licenca.json",
+      "bytes": 711,
+      "sha256": "8e32f2dc6ea4aad72bc633a046c470f5b05968ed50dd133551c99600303728bb"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\audio\\trilha\\long-note-one.mp3",
+      "bytes": 17761954,
+      "sha256": "665aef3a5eaba25a0108f632e85895516868813a764a58bc203702829ac4c6c1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\catastrophic-failure.css",
+      "bytes": 3226,
+      "sha256": "bd9bb60abe712a4f0edf8750060cd40f3c79fac02f078a888eb66ba4845156b7"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\catastrophic-failure.js",
+      "bytes": 4326,
+      "sha256": "2397019bc616f3e599a5ca8d149c710396ca974899ece576ee22c417a22e6a9a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\countdown.js",
+      "bytes": 1548,
+      "sha256": "5ec1dabf87defdc3de49c9d3e674a93586010366ce74326bd6f6d1f748343876"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\cursors.css",
+      "bytes": 2080,
+      "sha256": "3e6455a117abcaf2c4454b15e69051418ba032073714e71bea60380de715536b"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\data.js",
+      "bytes": 12593,
+      "sha256": "aca6430987526a41f574e6082df8eadc8be13064171fed4e5a9f3facbc84417b"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\desktop-interactions.css",
+      "bytes": 2233,
+      "sha256": "82e91fad8a3a77c70891e0b36f85d87b6ba79253cada1798f32cbdc1521d2fa7"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\desktop-interactions.js",
+      "bytes": 9160,
+      "sha256": "6c25e69628dd4069ab3829a869ccfcc956b2ba3ce68d15e35a801d960d65821e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\desktop.css",
+      "bytes": 29746,
+      "sha256": "49a5a0aedcdcc8efc3355277ae6fe81465a59f49d7a4d5517e674f2097638d8e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\desktop.js",
+      "bytes": 36132,
+      "sha256": "83b28b1aab7e0f55d372199bf4ecacc82256813c938bfec34d5227bfe42a26a6"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\assets\\7set-dev-wordmark-claro.png",
+      "bytes": 22308,
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\assets\\IBMPlexMono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\assets\\IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\assets\\SpaceGrotesk-Bold.ttf",
+      "bytes": 88256,
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\assets\\SpaceGrotesk-OFL.txt",
+      "bytes": 4495,
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\cartela_final.png",
+      "bytes": 42667,
+      "sha256": "e330d4042e1f6e29d3f1b60ed77209dcab2693c9ff4c6c8ccd088ea88ec97ba8"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\cenas.js",
+      "bytes": 185,
+      "sha256": "43173b5d85885266ae35f5ab39545c74d0dcb7e1a571f43892f9b02d4bb16518"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\cenas.json",
+      "bytes": 6288,
+      "sha256": "a88146ee8608311f77bb83ac25824d411705b9b67691d7b18e47bf373480b52d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fontes\\IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fontes\\SpaceGrotesk-Bold.ttf",
+      "bytes": 88256,
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\01.png",
+      "bytes": 2183311,
+      "sha256": "47551057f2008068eed5e53027a2e3f2dfa930e490b6333d6f7b3ef22b56aacb"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\03.png",
+      "bytes": 2089703,
+      "sha256": "ad1cb9e11ee6a9035566b78b5c8c00bb6cb05751906b527303bb09f8d8bacddc"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\06.png",
+      "bytes": 2186584,
+      "sha256": "d655cae52783aa431e31d6db6189c73c00678f158668ce0e54b137dbb236f946"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\07.png",
+      "bytes": 2254564,
+      "sha256": "e5257a48b112793fb49019ff73cee399d8acac2443fad3548aae74f8d968709a"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\08.png",
+      "bytes": 1895383,
+      "sha256": "ee78d3ab275a61b6384c499f3e2c838ca242441acf60079e671fe1094d3390f1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\09.png",
+      "bytes": 1944641,
+      "sha256": "1146bf39cb09f17bcc4db1db43611ed05eabb46a1d87b0c62594628e1ecb2441"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\11.png",
+      "bytes": 1880660,
+      "sha256": "832aba8e0ff8f414a3a4a319d8d79095b8d892a04b902753442bcef972d578cc"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\12.png",
+      "bytes": 2127512,
+      "sha256": "254abac8fb978634f958a44fe55cf372bb103c4b767ff2ef15b842975ddc6a06"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\13.png",
+      "bytes": 2169428,
+      "sha256": "042afec0f6a5a9033681b2fec07720fcccef24d078262a9ab4a93930616564cf"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\14.png",
+      "bytes": 2029194,
+      "sha256": "f9d13cbfaeeb704a1a7383c3a8012cf2162c904b06893bfa6a4edad7da930ee7"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\15.png",
+      "bytes": 2239714,
+      "sha256": "e110ab00dab43e2f9f75dc32035ba555961e6cf9e0aea3178f3ea936617ae452"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\16.png",
+      "bytes": 2516329,
+      "sha256": "49bb037d1691efb592b6fbe367d3f06016b8e7be16bac6f4801a353f0afed740"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\17.png",
+      "bytes": 2344452,
+      "sha256": "1672ff305867b870511d4503bc55d3bca402ddbc20f4fdd36a1f76cc4be54324"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\18.png",
+      "bytes": 2321903,
+      "sha256": "bc428bf52da29f8dd41d02d16491ddfdcb2a37b015555b4eb31df4d25f4809be"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\19.png",
+      "bytes": 2193866,
+      "sha256": "2899a7890e61a0e18076b4c49dcb5415ac234bba2ae6bda07ecd02c0e6e8fc58"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\20.png",
+      "bytes": 2087560,
+      "sha256": "30f32e7f04377c38c1f648a468f9342f558352046d69d7956951393a25cd3587"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\21.png",
+      "bytes": 2166230,
+      "sha256": "703e0100befe51013831c17230123ad25406113fb8885503b9ee8fbeaf62b238"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\22.png",
+      "bytes": 1997074,
+      "sha256": "28abf416a13bf0ac4291c2d922e03a488c339359420595d4849bcb4fdb8d28aa"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\23.png",
+      "bytes": 2212149,
+      "sha256": "33e4e511ec3f6060c57e9be9389f8a3c2573f4fd6fd9fc5d2ee9cdc674aae82e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\fotos\\24.png",
+      "bytes": 1901234,
+      "sha256": "1e0e2049dfd7c2399132b61d2ac2bc28100f3ef1ae3cf9b37f6991827e750194"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\7set-dev-wordmark-claro.png",
+      "bytes": 22308,
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\A17_ficha_projeto.png",
+      "bytes": 327504,
+      "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\C1_registro_catraca.png",
+      "bytes": 92215,
+      "sha256": "c7a236dbdc067fe2be77980aade3ad645a7281a4e945c7c77cba4aaabd3c1767"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\CAM01_interrupcao_camera.png",
+      "bytes": 211587,
+      "sha256": "1fc7b27c30097244e81dc0b5420829baa83b78711a55d839ae1ab5f3ecb6bcf2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_318.png",
+      "bytes": 108375,
+      "sha256": "795e0231af91338df6e6370179c698e709d8d78406a28ecf7b063d8e861c079d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_318B.png",
+      "bytes": 108850,
+      "sha256": "69d84825cc914d62608b0a0301d081d55f2836ab376fb2910a6effb66bd76a97"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_427.png",
+      "bytes": 107584,
+      "sha256": "127446745be2b8fe289529077eea70579bc8ab5188b1f512ef536184d4c4da2e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_427B.png",
+      "bytes": 108105,
+      "sha256": "f82064b04bfe725c46827d277764c096f660093e6efc510991d48bb802648808"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_512.png",
+      "bytes": 106188,
+      "sha256": "cdf5152165fbfad1d5c9e568b5eb735c2415cecd73f2a3fe6a4b665a86b48b98"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN01_NF_512B.png",
+      "bytes": 107717,
+      "sha256": "51f5cf86efa4980e40dfdcec1f56380d3e48718100e73359343abd06c48d4b74"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\FIN02_resumo_financeiro.png",
+      "bytes": 145141,
+      "sha256": "3b7a667f8343023d2f1b57d671b334f0211ea9e3a625f5a109d372252d704888"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\H1_conversa_bryan_helena.png",
+      "bytes": 103125,
+      "sha256": "dee2ac4288202dac4975fe019635c583b1dadd59cd9969d7e3a002e737733194"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\helena_frente.png",
+      "bytes": 161996,
+      "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\L1_registro_acesso.png",
+      "bytes": 93955,
+      "sha256": "83df100078619758bcaac44b7d270363f55703db6c894046774a89b77b9c2be9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\M1_conversa_bryan_marcelo.png",
+      "bytes": 114951,
+      "sha256": "7e688272b31d8635774d1cefb6a04e765f3d4f42e78216caa0fabc6d009ffdf2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\N1_mensagem_northstar.png",
+      "bytes": 86368,
+      "sha256": "0797ea3b297ba5e590d9808066e3bee791a37e62317fbf4f4660cecb1840c564"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P01_Carlos_Mendes_4x3_v01.png",
+      "bytes": 2225355,
+      "sha256": "1fac0fa4e34ebcb76f994639a1d2ae6d2e8926075b64324bd3eb3c9eac9b1cba"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P02_Helena_Duarte_4x3_v01.png",
+      "bytes": 2219729,
+      "sha256": "a4752c52d2491663fe23d672a690ae0eb4eac89ab002b34e0cbfa9b63a4be025"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P03_Marcelo_Vieira_4x3_v01.png",
+      "bytes": 2161440,
+      "sha256": "9c5b5e3223afd8577383aa8228a1921222a9a85d84defa2c68c9cca6ad9f76dd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\P09_Bryan_Almeida_4x3_v02.png",
+      "bytes": 2135436,
+      "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\RVM_auditoria_conta.png",
+      "bytes": 99776,
+      "sha256": "912fe3905d6f9e7bd37de107e9922a6034dd3038aea0132ace4aa275fecd0efd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\assets\\referencias\\V17_manifesto_lote.png",
+      "bytes": 99861,
+      "sha256": "678aabfd67b708f18713e054dfff7109e852006ac666bc0cd9dc05ace9ae2524"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\dados.js",
+      "bytes": 14647,
+      "sha256": "c50cb482b6b4832d8fd1242f7f6aa604fe71644fe2b36785db9ad09df2a61939"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\estilo.css",
+      "bytes": 9766,
+      "sha256": "573eed614761c8110b0038ef4f4828869b583ccc50595bdab95d49aa091bee96"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\filme.js",
+      "bytes": 17977,
+      "sha256": "7a402c0bda084261f411dccaedc0f75e8b590797fdb0542d123afcd334fe33f3"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\index.html",
+      "bytes": 2458,
+      "sha256": "952ef9dbdb14fbe057300ea545c1ebec4a3b2c78155b896c75e3aaf448fd1ce3"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\integrado.css",
+      "bytes": 1433,
+      "sha256": "786001f8f0741802b747657d81997754d83296896c2759196cbad2808d8db5b8"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\filme\\LEIA-ME.md",
+      "bytes": 1247,
+      "sha256": "f813e94a657fc0a8da2d0b4413382dc7f285ca624f220a0c43d0bb2a9209f2f8"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\index.html",
+      "bytes": 5090,
+      "sha256": "998ed0afef5ba6f5d2e6862da36395f0765b672762e70ed664ab60e1275f62c2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\legendas.vtt",
+      "bytes": 4771,
+      "sha256": "ccd7096a90670b96d43d594318488948df71469e174e45c52b365c60cb72f87e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\encerramento\\Storyboard_documental.pdf",
+      "bytes": 8657,
+      "sha256": "1d2085c0ac0b70a649c2ea9ca11fb489b19468b1c8f41c098503c9cd98c6fb1b"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\engine.js",
+      "bytes": 8951,
+      "sha256": "574689c4e44ff80ced9b5a1e25c928654e01913c1104076dbed7015327b42f56"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\A17_ficha_projeto.png",
+      "bytes": 327504,
+      "sha256": "1342b6962cfae5c1484d822c016c97af28b4245b231505feb23c33fa8725dbac"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\AL_relatorio_presenca_remota.png",
+      "bytes": 96538,
+      "sha256": "6ba13958bc8991e0bef498c61bb1057e5d59fce18d9d27953692b2f5ed91c62f"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\APOIO_01_pessoas_registros.png",
+      "bytes": 96478,
+      "sha256": "a99193a1517405aa924b5d56b8ebedb6bf46ae7d340fd9a4cc83761e94e69a23"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\APOIO_02_pessoas_registros.png",
+      "bytes": 100142,
+      "sha256": "a114180ab4eee0d585a8f3ff04bfd98cbbf57f4f462016abc7c9e78c97c51e89"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\APOIO_03_pessoas_registros.png",
+      "bytes": 101085,
+      "sha256": "eba2d916f55ef68ec4290cc9b810413490b97ce19ba6bba57cb586f2d3ee41a9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\C1_registro_catraca.png",
+      "bytes": 92215,
+      "sha256": "c7a236dbdc067fe2be77980aade3ad645a7281a4e945c7c77cba4aaabd3c1767"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\CAM01_interrupcao_camera.png",
+      "bytes": 211587,
+      "sha256": "1fc7b27c30097244e81dc0b5420829baa83b78711a55d839ae1ab5f3ecb6bcf2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\F1_composicao.jpg",
+      "bytes": 371030,
+      "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\F1_composicao_PROVISORIA.jpg",
+      "bytes": 371030,
+      "sha256": "c96c44c0d9d0141d402fd04d68afaa3a96a136d1451112ba35844b4fae0630a6"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\F1_identificacao.png",
+      "bytes": 1135763,
+      "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\F1_identificacao_PROVISORIA.png",
+      "bytes": 1135763,
+      "sha256": "b6f9e543ba5c1631d8a5073eaffc45e1b46bd811194c724ea4209f5909068ea1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_318.png",
+      "bytes": 108375,
+      "sha256": "795e0231af91338df6e6370179c698e709d8d78406a28ecf7b063d8e861c079d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_318B.png",
+      "bytes": 108850,
+      "sha256": "69d84825cc914d62608b0a0301d081d55f2836ab376fb2910a6effb66bd76a97"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_427.png",
+      "bytes": 107584,
+      "sha256": "127446745be2b8fe289529077eea70579bc8ab5188b1f512ef536184d4c4da2e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_427B.png",
+      "bytes": 108105,
+      "sha256": "f82064b04bfe725c46827d277764c096f660093e6efc510991d48bb802648808"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_512.png",
+      "bytes": 106188,
+      "sha256": "cdf5152165fbfad1d5c9e568b5eb735c2415cecd73f2a3fe6a4b665a86b48b98"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN01_NF_512B.png",
+      "bytes": 107717,
+      "sha256": "51f5cf86efa4980e40dfdcec1f56380d3e48718100e73359343abd06c48d4b74"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\FIN02_resumo_financeiro.png",
+      "bytes": 145141,
+      "sha256": "3b7a667f8343023d2f1b57d671b334f0211ea9e3a625f5a109d372252d704888"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\H1_conversa_bryan_helena.png",
+      "bytes": 103125,
+      "sha256": "dee2ac4288202dac4975fe019635c583b1dadd59cd9969d7e3a002e737733194"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\L1_registro_acesso.png",
+      "bytes": 93955,
+      "sha256": "83df100078619758bcaac44b7d270363f55703db6c894046774a89b77b9c2be9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\M1_conversa_bryan_marcelo.png",
+      "bytes": 114951,
+      "sha256": "7e688272b31d8635774d1cefb6a04e765f3d4f42e78216caa0fabc6d009ffdf2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\N1_mensagem_northstar.png",
+      "bytes": 86368,
+      "sha256": "0797ea3b297ba5e590d9808066e3bee791a37e62317fbf4f4660cecb1840c564"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\R1_acessos_anteriores.png",
+      "bytes": 91844,
+      "sha256": "046d9134a0d28268bd9d7a4e0e0d225fc2076297db092f5cf6f2120216636a68"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\R2_mensagem_rafael.png",
+      "bytes": 72082,
+      "sha256": "86eace0597096e65b32836d08a12e54591c2d8c6cde39c52826a11bc680753b9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\RVM_auditoria_conta.png",
+      "bytes": 99776,
+      "sha256": "912fe3905d6f9e7bd37de107e9922a6034dd3038aea0132ace4aa275fecd0efd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\T3_extrato_ocorrencias.png",
+      "bytes": 183666,
+      "sha256": "160cd13303ee77489ee862fb4e696290bed8f4557d28aceb260292d55cc443a2"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\evidencias\\V17_manifesto_lote.png",
+      "bytes": 99861,
+      "sha256": "678aabfd67b708f18713e054dfff7109e852006ac666bc0cd9dc05ace9ae2524"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\feedback.js",
+      "bytes": 8324,
+      "sha256": "6f888a99547fa5b89f61b395f7e9dc727175d49b473254cfd65db96c48db3edd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\icons.js",
+      "bytes": 1597,
+      "sha256": "da2d91c33fe8718c768b19501d753b465cc33fffcd37a02560fd0d07b6caa735"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\index.html",
+      "bytes": 26918,
+      "sha256": "63c2f73c4c9c27ed1a226c88a8c3ee070ac9055a527dca3235cdc1472ef68e96"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\intro-video.css",
+      "bytes": 2271,
+      "sha256": "76f65cb73d8529d3f2a1cc9a986b489c20bd6ee9c84d1a8ff381dabcff0ce849"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\intro-video.js",
+      "bytes": 4792,
+      "sha256": "dde5de9968523b38785af487d60b3eac8f289480981bcd4de4c128feedea02e1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\LEIA-ME.md",
+      "bytes": 7762,
+      "sha256": "e2bb2bd9448dc16fe798b99c8c5afbf4b45b360c324e763124e2e998e2825ffe"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\OPERACAO_EQUIPE.md",
+      "bytes": 23095,
+      "sha256": "14c120c6430cd8a78db76b6b06bbf73aab5e1c0856595bee8d5fbcb1a80e00dd"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\os-v2.css",
+      "bytes": 23508,
+      "sha256": "1cd6d5b1b56e31f0267b97b062e7418d5d57d7993d2d824f0129a563b980641c"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\README.md",
+      "bytes": 22707,
+      "sha256": "d09918a6fec776b17c814737eb475a555decf5d7b87886a9ee2aa1d915fa430e"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\reconstituicao-modal.css",
+      "bytes": 1891,
+      "sha256": "ccaf30c8e129a549acf49fb2148340c7f0b79202c88e89b54e097778d8cd4678"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\session-settings.css",
+      "bytes": 5707,
+      "sha256": "96dc9d2073afc36c82ef798ef1ef71f9d1c097d5a8cc023abe9a8b006bfeec66"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\session-settings.js",
+      "bytes": 8952,
+      "sha256": "650bf010b72a97acb0aa478dea0bfe6467280198489d86bc94cb2882738dd69d"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\start-menu.css",
+      "bytes": 3579,
+      "sha256": "19d0d277e28a99bdc12ab2d13f858ac0a50a19b845713234528eb8824bdd59b1"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\style.css",
+      "bytes": 54172,
+      "sha256": "f94f9d3dba713ce53d6380c637b99e94ea259d9f8378dcf389455689cebf59da"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\taskbar-player.css",
+      "bytes": 5650,
+      "sha256": "f05948b3bdaeea60b8bd67f6a80c100f4e8d1a737dfc69ef8f671dc6a76a60c9"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\transmission-failure.css",
+      "bytes": 5411,
+      "sha256": "edf0f884995e9912d9044cedd22f104de8081caf2c4d1ade4ecee6ed77550028"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\transmission-failure.js",
+      "bytes": 2629,
+      "sha256": "2df1ffad1bdb53e468233f570a1785983f648672781f1e62bbdc2884af87ba6c"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\video\\Video_inicial.mp4",
+      "bytes": 19878155,
+      "sha256": "83c2ee5b94b8c8360eaf237da60c56589049126c24d09e7362628e05fa542dfc"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\vigia.js",
+      "bytes": 44615,
+      "sha256": "e79b3bde35b42817ff4e2a29da3545bdf606024af8d109e9d4dcdaad1b143232"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\VIGIA_OS_LEIA-ME.md",
+      "bytes": 13777,
+      "sha256": "7d1fc1cec54e395f11bb11cdbcf87d3a052761d504fac079349153a035062665"
+    },
+    {
+      "arquivo": "02_SISTEMA_OFFLINE\\VIGIA_OS_V2.md",
+      "bytes": 11646,
+      "sha256": "44f9e1886a9a7f097e157f1a5a33159af75a9f8fa27996dc00b3103919c2feea"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\GALERIA.html",
+      "bytes": 3114,
+      "sha256": "346dc2e421b603c66d15d5e797b0df538e346e3697793afde3e7333507d1317f"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\LEIA-ME.md",
+      "bytes": 328,
+      "sha256": "d39b9beb47b2f7489553c9886842daea83db6930ad7333fceb2d66a671fe1733"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P01_Carlos_Mendes_4x3_v01.png",
+      "bytes": 2225355,
+      "sha256": "1fac0fa4e34ebcb76f994639a1d2ae6d2e8926075b64324bd3eb3c9eac9b1cba"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P02_Helena_Duarte_4x3_v01.png",
+      "bytes": 2219729,
+      "sha256": "a4752c52d2491663fe23d672a690ae0eb4eac89ab002b34e0cbfa9b63a4be025"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P03_Marcelo_Vieira_4x3_v01.png",
+      "bytes": 2161440,
+      "sha256": "9c5b5e3223afd8577383aa8228a1921222a9a85d84defa2c68c9cca6ad9f76dd"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P04_Renata_Lima_4x3_v01.png",
+      "bytes": 2226827,
+      "sha256": "6852d1d33f0b25052c5ba4a949513a48f8154d68a158e717ebd6ad2dc5855a23"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P05_Eduardo_Nunes_4x3_v01.png",
+      "bytes": 2170569,
+      "sha256": "10539464e0f0d6b741575a36cd59f1ac8ac844a5dc5003a1f7e2d84af84f261b"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P06_Patricia_Alves_4x3_v01.png",
+      "bytes": 2089688,
+      "sha256": "d15f62a6461cc725f93d54933c429b4f585537a3179554079387a9efcc658b01"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P07_Lucas_Martins_4x3_v01.png",
+      "bytes": 1976855,
+      "sha256": "9f03334273578ba91215916799ee6f91d4ca9a71174b55179fccebd7dce5b172"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P08_Camila_Rocha_4x3_v01.png",
+      "bytes": 1953006,
+      "sha256": "7eae4fef9940a39fa65c0e46f1e1ac1e24c4266140fb6bb836c97b0fb96b2da7"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\P09_Bryan_Almeida_4x3_v02.png",
+      "bytes": 2135436,
+      "sha256": "322b08d58670c2611c07ea517afd6152a08f3632f99cf4e51c322cabc5ecdc2f"
+    },
+    {
+      "arquivo": "03_RETRATOS_PERSONAGENS\\PROMPTS_E_REGISTRO.json",
+      "bytes": 16909,
+      "sha256": "7cb5c82634cae55ec7bb09e26db6d9e3a7cf21b818c76652553bce0433bac892"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\dados_impressos.json",
+      "bytes": 5389,
+      "sha256": "efd9352289a18d04743392c1a5680bfbacf385ec327a9fb41f01d74a6c08a68b"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-03\\conteudos.json",
+      "bytes": 1601,
+      "sha256": "f278fa270e2f15f5c0cd3f87bdec063a4842a0eaaa7653a09bdaf7cc07b425f7"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-03\\integracao.json",
+      "bytes": 883,
+      "sha256": "6056eb473e8a56eb13bb73472251a13b2fa4b08d21398bf33d6f43d8c01d8443"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-04\\conteudos.json",
+      "bytes": 1646,
+      "sha256": "e86854e4941aed7138800f39ab5e1748d00bc54294f3876016a31b4793c875c0"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-04\\integracao.json",
+      "bytes": 867,
+      "sha256": "cac9df4a1fdb9a6780fdb5a9916f769b5be919c2fb490392740cf6bb01dc4c36"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\caso_consolidado_INTERNO.json",
+      "bytes": 7373,
+      "sha256": "1d2eb5fa86439f0a752b7678431408fe341428d1ceae927a78006ca9b06c5073"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\complemento_financeiro.json",
+      "bytes": 1957,
+      "sha256": "bf1492f7deadfa07f494306044f8a247d77b446ebfbf493a6d8ea31019522514"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\conteudos.json",
+      "bytes": 6920,
+      "sha256": "d03b60cea8ad5c248973d8bfd62a852f6350eaffddc800d8ef46c407360fb5fc"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\integracao.json",
+      "bytes": 2367,
+      "sha256": "5856b4b01e3363e61ee68f3edd18493b765394e3f7049daca91752f1dce928bb"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\matriz_consolidada_INTERNA.md",
+      "bytes": 9844,
+      "sha256": "dbf2446f9978faa3ceb15919e6e3c5df4c0eb633ca7fb909991407e6a6b28f8f"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-05\\pendencias_atualizadas_INTERNO.md",
+      "bytes": 3923,
+      "sha256": "397173322bd67fddf5bff88cb2d49dca057713c34f2bd8b0cf31e55ae106f51d"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\cartoes.json",
+      "bytes": 1977,
+      "sha256": "6aa8dc72ae7dfae1da837e7f86c952a763295cc9b72f98197655e60750dc36b2"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\gabarito_INTERNO.json",
+      "bytes": 624,
+      "sha256": "21d47b538778813bc30e20e43e3876cfa000caf58b07f72e1c0da00e4317e511"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\integracao.json",
+      "bytes": 1930,
+      "sha256": "e4ec784f0c97bbdfea128198ff31fabe024c3d3fb7f434f3dc2517eb3e48e6cf"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\protocolo.json",
+      "bytes": 1124,
+      "sha256": "a8aaf148809b87faab643b21909818c91329930a0c4c9c3b522e974d31b188d6"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\roteiros_audio.json",
+      "bytes": 1665,
+      "sha256": "406a6f92375ab982cd0e530c954c01668bd386fc35c9e530df49ca193ba4e70d"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Dados_internos_RESTRITO\\lote-06\\vigia.json",
+      "bytes": 7724,
+      "sha256": "c051859bcfc94e688a992d03e4b81c3489a535a492b8ad339abea1492a6a729c"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\gerar_documentos_investigacao.py",
+      "bytes": 11285,
+      "sha256": "9c8c2154302a7e45b6ffc752bfdebac07798ff1eaed51cda212ef17c2d3a883a"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\revisar_pistas_codigo.py",
+      "bytes": 11643,
+      "sha256": "2ce285f5d4dc3c1539b24a1c68751ad300c9adb35a920d58f0eddb21d28d35c9"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_documentos_complementares\\T3_extrato_ocorrencias.pdf",
+      "bytes": 23094,
+      "sha256": "7ceba20ec0daa2d74d46134f0488f89ca7f969d33f7de301cc8733173598e2ea"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\IBMPlexMono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\SpaceGrotesk-Bold.ttf",
+      "bytes": 88256,
+      "sha256": "d5de070d296a1be514f8355415b5bb5cc9fb806bba3e815feeee28a40b3305fa"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Fontes_e_licencas\\SpaceGrotesk-OFL.txt",
+      "bytes": 4495,
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Cracha\\helena_frente.png",
+      "bytes": 161996,
+      "sha256": "155f1d7de56affe159f431ef980bf2aa1347766527f45130a0e02938af800cbf"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Cracha\\helena_verso.png",
+      "bytes": 27905,
+      "sha256": "23d2f61390210ea673ade3e7163f16a576dcc30bf373be1458b434dcc8bb0ffc"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\acesso_restrito.png",
+      "bytes": 10647,
+      "sha256": "75faf9b026fa4ff1d05557ecb078c8c3afc905fc61a8cdec02a6f59165f87c0f"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\confidencial.png",
+      "bytes": 9527,
+      "sha256": "04efe40f61e0af8af2b8f82236d81c77683357527663ac2f5a8029a8cec9b83b"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Etiquetas\\evidencia.png",
+      "bytes": 9327,
+      "sha256": "402b8b56205673fefc554d08b0735eddc8ae31fa30640d13b65f1fdabc64f51a"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P01_carlos.png",
+      "bytes": 376087,
+      "sha256": "2389aceba5881d1e225130f98810153938ca48c671007ee92908c8592f5c8e3b"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P02_helena.png",
+      "bytes": 369171,
+      "sha256": "2f7d67471eb6598aced691e5ff94191332cb66f5f389bafe7964802eed07a72b"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P03_marcelo.png",
+      "bytes": 364007,
+      "sha256": "98140bdbcd410e4bd373d9a31905e67d6aa90f249ccfa9782a13de3e194b5bcb"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P04_renata.png",
+      "bytes": 377489,
+      "sha256": "f9566f67a73b22edc14bf24fada0cd19bfccd0cfe7b8811a71cfe22816408505"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P05_eduardo.png",
+      "bytes": 370481,
+      "sha256": "bc6c4cc3bfb9dfbc683952f423f4e019bd1051bfc2857dbe72422edd4ad17ba0"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P06_patrícia.png",
+      "bytes": 373180,
+      "sha256": "f432c12c56ca1385112786a2d48573fa2b0e3479ba22ac2f20acbf9a8dc548f2"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P07_lucas.png",
+      "bytes": 344766,
+      "sha256": "cf3287dd7be1daff14b641cbf15499074002d45ca6e4105f21366069be28c8cb"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Fichas\\P08_camila.png",
+      "bytes": 338325,
+      "sha256": "f5def2c389aba5ad142005f1cdfc5659c41824c2efda8eba9a1b0338473f31fd"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\central_A3.png",
+      "bytes": 75250,
+      "sha256": "fe393b3771061f600bfc09bbed10e5266c040f5c60189b8fdee2e2f30bf080d4"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\central_A4.png",
+      "bytes": 50817,
+      "sha256": "2cf94d3b8c3d72ec4f4ceab7a8b2edb2e61e6918258063425bc32684b337695a"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Imagens_diagramadas\\Placas\\terminal_A5.png",
+      "bytes": 33955,
+      "sha256": "8838c7c6936c23a34aa932dcc214797fdd69c39cc7d1e8687d5ef32bbf4b27f9"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\LEIA-ME.md",
+      "bytes": 859,
+      "sha256": "d68996e743e550791ab46f7e67f64cf73964f63b51187432d753358a537f84a0"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\A17_ficha_projeto.pdf",
+      "bytes": 3278227,
+      "sha256": "a9e588059c3e94f0a9036f65c03389ef28699121a547c9abfc7341b049747d44"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\01_L1_registro_acesso.pdf",
+      "bytes": 22960,
+      "sha256": "c9492bdaf83be4d210d2763b0f99d520e839ed16a5ce3d4d4ea40cc917fea25c"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\02_A17_arquivo_estudantil.pdf",
+      "bytes": 22959,
+      "sha256": "1a18f83e92d6a862bf3095dd1a47777f514df6a908b76e3b9b0af826a854cfb5"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\03_H1_conversa_recuperada.pdf",
+      "bytes": 22822,
+      "sha256": "1a2697f500a0fc820eb8eb419e5a3783f29e34619210344124708e19e46738dd"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\04_RVM_auditoria_conta.pdf",
+      "bytes": 22997,
+      "sha256": "a9a05061a4a1247a3cbec318f03957dd66a080b70c474534bf0d3a577851918e"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\05_estoque_consumiveis.pdf",
+      "bytes": 23029,
+      "sha256": "4ba4c7461d95ca591ac6ef55ffe1d3b2ff7075f704ef250ce181ff156fdd213c"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\06_solicitacao_sinalizacao.pdf",
+      "bytes": 22966,
+      "sha256": "41114a1433a07996d12c5261028e9ecae3f18face042e7922575a054d379d997"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\Complementares\\CAM01_relatorio_integridade.pdf",
+      "bytes": 23691,
+      "sha256": "3d69d932d9af8e15cfd4c343badd7f5653d4555c97e998873aecdce50d003d9b"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\cracha_frente.pdf",
+      "bytes": 3258737,
+      "sha256": "30dde7279a3ba7a114d4af7a734af59c1facda1760413452a06b526720cebafc"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\cracha_verso.pdf",
+      "bytes": 21538,
+      "sha256": "6a748e05d56e63d2dd8c0c7ee2c01dbb9fa3808a5798fec8508a8d1f141a21b8"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_acesso_restrito.pdf",
+      "bytes": 21267,
+      "sha256": "75f357f3466f241b511ab72ca872d755440b23d9d6ae7b70ee4ec1d0ef8e5d54"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_confidencial.pdf",
+      "bytes": 21263,
+      "sha256": "e6409e4900c284e727e72ab738322b8ea08ee8a315f3f3e3f04524d1af83f29e"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\etiqueta_evidencia.pdf",
+      "bytes": 21315,
+      "sha256": "d474656b5b3f87fdec0e0d48249ef0458d2c10425697568667b9e9861a159b81"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\F1_composicao.pdf",
+      "bytes": 10341575,
+      "sha256": "076a6511fbf8e07bd76ce2be3a146ba09a3aa49a028a304fe80ac809822df815"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\F1_identificacao.pdf",
+      "bytes": 10341606,
+      "sha256": "6360d0e5b07c417add788937bafbaad18cc863c337aaa17e50cc668a0c4d6812"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P01_carlos.pdf",
+      "bytes": 3436507,
+      "sha256": "4dc2b848a4572b9326e56e2e130facf12acc1d2fe454699c312b605313a4f35c"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P02_helena.pdf",
+      "bytes": 3285445,
+      "sha256": "e03a2570a87469df185ed028ac2f89bb59975b5835418e79eb657c7f72945392"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P03_marcelo.pdf",
+      "bytes": 3433296,
+      "sha256": "0edabdb0cad806470c87904f61bf8ca0232205598ee0879f64d8db58c1a70ad7"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P04_renata.pdf",
+      "bytes": 3825359,
+      "sha256": "326e93cb6dcf93e04c38fd9c0471de20655f7b17e61e5eb644e9b2df422ab126"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P05_eduardo.pdf",
+      "bytes": 3335477,
+      "sha256": "539d7aad77d3a817910a51f1f01db23257fa36967ba9e1a1b505363e659295d7"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P06_patrícia.pdf",
+      "bytes": 3451220,
+      "sha256": "5a321738db21c2bf65424b47efb601736b3ff5a1f9b7fa05555a8cb9c0b356a8"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P07_lucas.pdf",
+      "bytes": 3173741,
+      "sha256": "1b443e0c69f527daf1d4efd41c0b02af5dea1e7493d230741ca7c189ab91b818"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\ficha_P08_camila.pdf",
+      "bytes": 3276704,
+      "sha256": "2896885f68829f97ee1c74831e9801433a6e554e082735c6ba8dc87aaf4887f6"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\N1_mensagem_northstar.pdf",
+      "bytes": 22039,
+      "sha256": "c37288088b940bdd80f1072b0c3fb9a9cce50de68e03350fc2a96850885e022c"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\placa_terminal_A5.pdf",
+      "bytes": 48216,
+      "sha256": "5b3b4120c982dab6f1c587164aac6e397741bf345084571eed2cdb49bd035e61"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Matrizes_individuais_PDF\\V17_manifesto_lote.pdf",
+      "bytes": 22337,
+      "sha256": "a2ff4e3b1ba9fbabc6a89d1c15dea190b850149b3712029ea607c981bb616f9a"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\A17_no_sistema.png",
+      "bytes": 59314,
+      "sha256": "35a0964d889885b643a588d71775d3c5117411aef092dfcb09328d13087f7c6f"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\CONTATO_DOCUMENTOS.jpg",
+      "bytes": 287358,
+      "sha256": "e952cf69933bc586041a363a1d87694a375a2e597ac2bdab8740763cb6b548f5"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-1.png",
+      "bytes": 153162,
+      "sha256": "fd0bbfa6501bfaccf1445592aec8461cbaf3d0db0c3579e9b09dec3c64a3cd7a"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-2.png",
+      "bytes": 152907,
+      "sha256": "d5c508e55e87bbf2ca1b3235b2774cbea012c87a973e41882d099d022b772da5"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-3.png",
+      "bytes": 155133,
+      "sha256": "534d8d0ee57efdeb94bc60f2d3190de2c71152623498abbc0c45345331348213"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\imposicao\\a4-4.png",
+      "bytes": 145653,
+      "sha256": "01ac3d6b2ed6231535e1bada846816d0451572febf4c4fd011178bdf3eef3d44"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\IMPOSICAO_A4.jpg",
+      "bytes": 193233,
+      "sha256": "4323f6081a0301ce6b5c19a13be1b8763dda605a9cc32ebef6922365d62cc0a5"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\LEIA-ME.md",
+      "bytes": 1656,
+      "sha256": "18ad76f500d060d47b279a8e5f00baf34b47d1675808766df746dbd82f445c17"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\MANIFESTO_SUBSTITUICAO.json",
+      "bytes": 64189,
+      "sha256": "1c74b88912b4fc1feff49e94e063fdf3604d82afe6c5f20bb66c3947fc5fe29e"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\RELATORIO_ATUALIZACAO_FOTOS.json",
+      "bytes": 1519,
+      "sha256": "d7caf7eda21cad31c60501234a5a486bc31b4c41395a5bfb03c76a690448e9e2"
+    },
+    {
+      "arquivo": "04_PRODUCAO_E_EDITAVEIS\\Revisao_fotos\\VALIDACAO.json",
+      "bytes": 3628,
+      "sha256": "3752275a0702023f6246b585dd1636e0a286842c95b2ccbfd909b2363ebcacc8"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\00_INICIO_AQUI.md",
+      "bytes": 23751,
+      "sha256": "487a97fa35d63ad2d7cba7963bf2656f1c3d2acd6b48afa0439dbb4d987f5ad8"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\01_DOSSIE_CONTINUIDADE.md",
+      "bytes": 38022,
+      "sha256": "9e997aef124f4e3b0dcec6ad2310a188144021311f683bcff4e5cb62467f88c4"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\02_MANUAL_OPERACAO_E_HOMOLOGACAO.md",
+      "bytes": 28944,
+      "sha256": "720e49b7122436e245be35a7e2f7123f25d1aa2521817d7557caaaa79131c0e2"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\03_MAPA_DO_PACOTE_E_MANUTENCAO.md",
+      "bytes": 20997,
+      "sha256": "447b52aeb1881014048a7005a3bad943fc5a36698ba209e9b57058735a762a7b"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\04_HISTORICO_E_PENDENCIAS.md",
+      "bytes": 28198,
+      "sha256": "2c42e4b07051155635596c7c304b23c8b3a4feb35892896627d5e89ed323d2e5"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\00_GUIA_DE_CONTINUIDADE\\05_PROMPT_PARA_NOVA_CONTA.md",
+      "bytes": 8332,
+      "sha256": "67b509a096c62bbc1a5107822602bb134e84a6d82f04e5cc92652ffa2fdffb7a"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Escape_Room_Lista_Completa_Audios_e_Falas.md",
+      "bytes": 26905,
+      "sha256": "4131fa10da5d6d6a571eb5e644cf2c0d0858de03bae6e3ba3593cad283742e84"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Escape_Room_Lista_Completa_Audios_e_Falas.pdf",
+      "bytes": 105609,
+      "sha256": "37f56197ceb1b2b744235aee4a0672d98c1e35d6c543738a2ef3381d2503659c"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Inventario_Audios_e_Falas.json",
+      "bytes": 9681,
+      "sha256": "9803799541e56a55d0b69e879cd351a3c1dcbcd6e38ff53346dda0981eeb7b9b"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.json",
+      "bytes": 9856,
+      "sha256": "4636e77302bdee06ffaa1a4798066f6b409ee328e33c7e6da9dd797e014e1f58"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.md",
+      "bytes": 11848,
+      "sha256": "21eacd54e9f10a1314018c5b9c7b2b742c8f69d2ffff21c01f655e10ee77485c"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Audios_e_Falas\\Roteiro_IA_Voz_Unica_v2\\Roteiro_Audios_IA_Voz_Unica_v2.pdf",
+      "bytes": 87194,
+      "sha256": "e777f75c4c1f110b96b5270cc31a1026b9923bae66a3cfd2c3f4097e8c7fcf52"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Checklists\\Checklist_Desenvolvimento_Escape_Room.html",
+      "bytes": 32243,
+      "sha256": "d0e7aa35209aa5c3b878d56afaa340668fe7ec677ba2dd7a30394d606128f73b"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Checklists\\Checklist_Simples_Desenvolvimento_Escape_Room.html",
+      "bytes": 13668,
+      "sha256": "8f4300f38d46c48c6389376a6c1b3cb0cb70e371bfb3a879b3b2469957023274"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Documento_Base_Jogo_Feira_Crime_e_IA.pdf",
+      "bytes": 221524,
+      "sha256": "a82bf4d6e4de603b3da58a85b99b38332d02b43da6d50c26f03827bd2a4fe354"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_Manual_de_Resolucao_e_Operacao.pdf",
+      "bytes": 101340,
+      "sha256": "691f741468dbcd7e37370baacaefe7c7b23c9702767ac4d05e3cda79e509c8ff"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_O_Arquivo_Corrompido_Guia_Objetivo.pdf",
+      "bytes": 92742,
+      "sha256": "b7372aa6b4b901f83406263dde431a0f01a550ced940dcef9e7956e8165c4c20"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Escape_Room_O_Arquivo_Corrompido_Roteiro_Producao.pdf",
+      "bytes": 165660,
+      "sha256": "e17d6d6eddccd8cde149ae55535ff39878cc21e36ebb274e159edb165dc10e30"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\COMECE_AQUI_anterior.md",
+      "bytes": 3392,
+      "sha256": "04882c280812fc7b49aa69eaed06a5d6d2452450f3cc67584300ebdd98e5eb86"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME.md",
+      "bytes": 363,
+      "sha256": "b3fb33eac3544418f6fb1eb86b03acbdc580ee7d19c2dc396bb87d42ab6300b6"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME_DOCUMENTACAO_anterior.md",
+      "bytes": 660,
+      "sha256": "cd68f4f526e78486bc2494f9d10f60e10037f26b1cf6b016da77b488eaa1560f"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\LEIA-ME_SISTEMA_anterior.md",
+      "bytes": 1518,
+      "sha256": "be7c5957bd51446b3d51b9508ce7e6f590dc2617842b501ee2415691f74cc2fb"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\OPERACAO_EQUIPE_anterior.md",
+      "bytes": 3988,
+      "sha256": "97ba66b5a872f299d852bcc77ab26299bc60d9b54f23dd661eebcc4f1db6e525"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Documentos_anteriores_REFERENCIA\\Historico_documentacao_20261117\\README_SISTEMA_anterior.md",
+      "bytes": 47891,
+      "sha256": "3a9bc59e4f555307e9e406b7a58f83eabd8a580525c44a74b2d8a2b6b40da500"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Escape_Room_Guia_6_Documentos_EQUIPE.md",
+      "bytes": 1181,
+      "sha256": "a581cfd275fa9920396dc9da270f4ed09007f9b6c2c122de07e329c7e12bcd34"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\LEIA-ME.md",
+      "bytes": 899,
+      "sha256": "fccd15fd5e335129738aad8614f3313ee35bb8fd6cc149a71d09ce318505a7aa"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Planejamentos_de_referencia\\planejamento-producao-7set-dev.md",
+      "bytes": 20709,
+      "sha256": "a4de43bfd81de53571ed434f209d78dc6cbbf48a325c98b00e4974f900b34d9c"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Planejamentos_de_referencia\\Planejamento_atualizado_lotes_07_08.md",
+      "bytes": 20079,
+      "sha256": "9fde770a4a4c75556c05680d1458b37655ea6447e017eccbb38b8b247217037a"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\CATALOGO_CONSULTAS_VIGIA_20261117.json",
+      "bytes": 16286,
+      "sha256": "84c2f7d5ca0be026b511e88e3d8b8cf09f4f9d3e921bb9df33856b802194c840"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\CONFIGURACOES_SESSAO_20261119.json",
+      "bytes": 2116,
+      "sha256": "e984290b211ed1348be84e181471996cfcb2b64be81d35c2e7c42b9e99371a99"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\CONFIGURACOES_SESSAO_20261119.png",
+      "bytes": 42110,
+      "sha256": "2f26bd6e9a772f024d6a8073d28ff8b0ca53dda2217a36720f5638e94e1039b7"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\DESKTOP_BLOQUEIO_20261119.json",
+      "bytes": 2445,
+      "sha256": "c87abedde0a6ef69942620bd728a726701a75e59417f69869caf3b652f0a2fb5"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\DESKTOP_CONTEXTO_20261119.png",
+      "bytes": 43539,
+      "sha256": "7741e0f218ee045b517a5c1f2af81629ec721445a7d2c080ed350dd42d39d665"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\ETAPAS_CONFIGURAVEIS_20261119.json",
+      "bytes": 2629,
+      "sha256": "f6ef9d2fa05649c2687f712583e7bb6c32eebc643e0b75051803951221286172"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\ETAPAS_CONFIGURAVEIS_20261119.png",
+      "bytes": 44647,
+      "sha256": "73cd5034a2a2e0db90dac428b045561ef0397a0bb1f57db019946f14be863731"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\FALHA_TRANSMISSAO_20261119.json",
+      "bytes": 2209,
+      "sha256": "4721d95a88f8a633fe6c97029ac968d01fe135b5d2b0c2a41b59afbf0ba41d17"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\FALHA_TRANSMISSAO_20261119.png",
+      "bytes": 88197,
+      "sha256": "cb603e521ed34524fd4bb8d878f7767ba1a6d121e4fdafcb6dd0aeed113c36a3"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\FLUXO_VIDEO_INICIAL.json",
+      "bytes": 319,
+      "sha256": "14210d56159a5637beed66c71995ee984cdaffe8e4d5d3f7c4ee02a61b561c18"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\GRADE_DESKTOP_20261119.json",
+      "bytes": 1046,
+      "sha256": "cb754c48c8148d90ce8db23c3d72f5b264e0a84eda5bc0ef8cf37809cadd99ee"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\GRADE_DESKTOP_20261119.png",
+      "bytes": 39144,
+      "sha256": "0a80670a7f98da416e2aa8d99bd8bb0123416905eb3459e7b537b3faeb1c2c76"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\INICIAL_ENGRENAGEM_20261119.png",
+      "bytes": 54142,
+      "sha256": "9de3227618060035a02d19a793e11dccf818866f26d697809ed06a1b0cd62369"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\MENU_INICIAR_20261119.json",
+      "bytes": 464,
+      "sha256": "9bdd2a5482a769cc34cd625b70fd39f62348079f46243fd5061673a4fc390823"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\MENU_INICIAR_20261119.png",
+      "bytes": 46170,
+      "sha256": "8cba8c38b8b7cd5c4002f439f047c45d28f4e108b8823e4a7669318ae717adee"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\PANE_CATASTROFICA_20261119.json",
+      "bytes": 3685,
+      "sha256": "c0220b575497c4ea5b993981da740743ca2c076c3f3234169f21e17d99a476f1"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\PANE_CATASTROFICA_20261119.png",
+      "bytes": 143170,
+      "sha256": "73062f9758c49b875eac08d6800bf12210c6eb64ea8504366b44df59ec4fcc70"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\PLAYER_BARRA_20261119.png",
+      "bytes": 42994,
+      "sha256": "4f7fc3f50a7eea759fd2e6ee5f945a60c948b5c7d7df323aec9a6ad8a4f44563"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\PLAYER_CURSORES_20261119.json",
+      "bytes": 2335,
+      "sha256": "e983561277ed05e82bdf457fce2b9a4a0cf213b8f9d781360522498ca91826d6"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\README.md",
+      "bytes": 1093,
+      "sha256": "a771f2b951a21db8068d63cb248946dff2d340ed1885db46a754861352d6d910"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\SOM_BUG_20261119.json",
+      "bytes": 276,
+      "sha256": "883742de1b607e574bc7702c9824724e314fd299e2c6090884b0eb66a10066ed"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\TELA_AZUL_BLOQUEADA_20261119.png",
+      "bytes": 37320,
+      "sha256": "ecce88106b2fb4dde3b1a398253d6e5f823b211b2d39b8dc6317e8913ed5e970"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\TRILHA_AMBIENTE_20261119.json",
+      "bytes": 2983,
+      "sha256": "aec5ca7d78a8e07d7978fdacfad0631b27d054b28cab353b04e739527ab22bfc"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\TRILHA_AMBIENTE_20261119.png",
+      "bytes": 45444,
+      "sha256": "a0b22d396d01fb2226f23a793ad94557517f525b147a0958db8372e3675c0e20"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_AUDIOS_VOZ_APROVADA.json",
+      "bytes": 1994,
+      "sha256": "98759a70cbbe8f327cb3c841685896d1dcb81e4651f97b2b5d98b3d97be8feb2"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_BONUS_BREVE_20261119.json",
+      "bytes": 369,
+      "sha256": "510a3f1b9dfba93caf0832c0a9a8123efd676ead00ceedf9d91e5737ccbecbb8"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_CODIGO_CYBER_20261117.json",
+      "bytes": 1501,
+      "sha256": "b3ce876da998789bab2369ba3f9db2e8965bde00b5976bb12d07f9caa392a7ac"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_FEEDBACK_RESPOSTAS.json",
+      "bytes": 1504,
+      "sha256": "1a0a55d372f2fa92ae0b2130c0178f7edcefaeca71fcf8c53c90ca6ec53a2eba"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_INTERFACE_20261105.json",
+      "bytes": 1643,
+      "sha256": "4a8ab411bce0b8ce7859bc121b2d4c46adc095180235319483b5e3f56c7481b9"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_INTERFACE_20261112.json",
+      "bytes": 1435,
+      "sha256": "0b2a788a7f4c954170cc47070bf8716d58123fd984488209f098862113d69652"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_PISTAS_CODIGO_20261117.json",
+      "bytes": 905,
+      "sha256": "db156459b58bf5589b4fb08499c8da169227275a8e0a22a5201d6d343fb272b6"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_TEMPO_RODAPE_20261119.json",
+      "bytes": 2770,
+      "sha256": "cdddf67efd8a841a1052c43de3b7803c78a8684b4a6eddcd97ee82f261b4d7b9"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_TERMINAL_RECUPERACAO_20261117.json",
+      "bytes": 418,
+      "sha256": "a14bb1ddf5ede742b02c9952081ac1e0a0dcfe91e46e36d407452a03f91cbd62"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_EXPANDIDA_20261117.json",
+      "bytes": 1934,
+      "sha256": "5a0bf469f96e3e705ab527f0506c2bda01132e83975220a78967f965dc1fcba3"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_OS_20261119.json",
+      "bytes": 2172,
+      "sha256": "b65f45ceb011d25d4a79c40224641f3d7cea51bec17b9f478334b1b6fe9a942a"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VERIFICACAO_VIGIA_OS_V2_20261119.json",
+      "bytes": 1508,
+      "sha256": "19fd64f5f47976ea4daa41a15a2ff785da9cf3c721e07d68ad92964ae3646ed8"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIDEO_EXPIRACAO.json",
+      "bytes": 78,
+      "sha256": "9e664e612f6f4bf655f99f56393a645ff197aa914e70af2d48650b2d203bbf91"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_desktop.png",
+      "bytes": 52908,
+      "sha256": "b97638710ac1055a7fea6630a7047235bbd6bda08e7beaeadec69e435d50dd8f"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_explorador.png",
+      "bytes": 98076,
+      "sha256": "47326f84aa66e72b61875933c2ab4dbe4b8fbbb0d611c85889c52827c5082b62"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_chat.png",
+      "bytes": 60508,
+      "sha256": "61ed006ef116150e962b4c0e1dd460cd93281613b82978fe84be723a8a203cfb"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_desktop.png",
+      "bytes": 39981,
+      "sha256": "570a82cd898e39acc08ddd37e627b15f2af5ce71123c1d198c1412f154cdfc63"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\Registros_de_verificacao\\VIGIA_OS_v2_explorador.png",
+      "bytes": 52275,
+      "sha256": "de3be5d38bf0e8b68a4a791035ae79713df9f5748e025bf7a1a64760aa5b2a26"
+    },
+    {
+      "arquivo": "05_DOCUMENTACAO\\VIGIA_OS_IMPLEMENTADO.md",
+      "bytes": 13777,
+      "sha256": "7d1fc1cec54e395f11bb11cdbcf87d3a052761d504fac079349153a035062665"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-claro.png",
+      "bytes": 22308,
+      "sha256": "1f9789e3fe88942cca539e65f946e6c2e536dfeaaf97d4efc55c8ce84383431d"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-claro.svg",
+      "bytes": 506,
+      "sha256": "aba7b0cf7bf7c94d654c88a51a535b75261c1311b6f52e10f186bc9428a08e29"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-neon.svg",
+      "bytes": 958,
+      "sha256": "dc176219c4539022373b1dbf7922805cd7e8096dad16a9feca2115d22d645691"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-preto.png",
+      "bytes": 22352,
+      "sha256": "3cea29ae5992cfa31e3bf95588056f7ea3d343d8f9775d9d3544b081d7da82ff"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-preto.svg",
+      "bytes": 500,
+      "sha256": "cf39410f7a2a7fa47355c4252e643bd3c7424fc7af10fde3760131599e156c19"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-roxo.png",
+      "bytes": 22344,
+      "sha256": "ca8ec5816a0b089dcf17ddc08b2de264274967122b9cd9bce479c7009f761c6e"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\01-logo\\7set-dev-wordmark-roxo.svg",
+      "bytes": 504,
+      "sha256": "373d4c58ac2353c376dee461da38c9939b1acd86789369921e35ebb79c0b8608"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\02-elementos-graficos\\02-grades-e-texturas.png",
+      "bytes": 3001493,
+      "sha256": "70fe43230be838bebc49979055b72a1fefc7c5a6f42db8c1663b90e99f4b120b"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\03-telas\\01-terminal-principal.png",
+      "bytes": 1981124,
+      "sha256": "5c06fe22694f2759bc1306a48387fa7456927d8889eb94ab1edd876a65043e7d"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\03-telas\\04-tela-evidencias.png",
+      "bytes": 2212769,
+      "sha256": "91cc5f500da257a91d09299edced166b47a9d85f368554f3263e541e1bffde89"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\04-cartazes\\03-cartaz-neon.png",
+      "bytes": 2813931,
+      "sha256": "1aee5e1d15c75f843dfe0d1c7f97c181c3154eaacf1424c96c69249ba9d0474c"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\05-mockups\\05-aplicacoes-identidade.png",
+      "bytes": 2821300,
+      "sha256": "5f63b6d26715842cb7949c9ecf0783a9db1140ebc134a4eea2a15f2c1de371dd"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\05-mockups\\07-tecla-olho-aprovada.png",
+      "bytes": 1574301,
+      "sha256": "3445a6d1ecee068a8f38240133abb051a638d5804b20f6320de79d6862a4f854"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-identidade-neon.zip",
+      "bytes": 13939941,
+      "sha256": "a2843db5eabf44f49a2d162c1501fbbdca7c57a17e5e04774050232feaa1da3b"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-kit-marca.zip",
+      "bytes": 3204268,
+      "sha256": "e7719de7c7590d9e961783f97509eab13c3800ba3367751aace0e7b675ba8c2a"
+    },
+    {
+      "arquivo": "06_IDENTIDADE_VISUAL\\06-manual-e-kit\\7set-dev-manual-de-marca.pdf",
+      "bytes": 1947528,
+      "sha256": "6b63b824cb4d29bb06b4ac5c7d6505b338507c10cf44cec462e48eb0cd24d2af"
+    },
+    {
+      "arquivo": "COMECE_AQUI.md",
+      "bytes": 22100,
+      "sha256": "423c71dd0f1b57c2ce14995f5bc754ca8f25a08d4534f5ea8d0c1c8bcdd3f7c7"
+    }
+  ]
+}

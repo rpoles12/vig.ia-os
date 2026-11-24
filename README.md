@@ -1,139 +1,158 @@
-<p align="center"><img src="docs/assets/capa.svg" alt="O Arquivo Corrompido — VIG.IA OS" width="100%"></p>
-<p align="center"><strong>Investigue os registros. Recupere a memória. Resolva o caso antes que o tempo termine.</strong></p>
-<p align="center"><code>VIG.IA OS</code> · <code>HTML / CSS / JavaScript</code> · <code>Node 24</code> · <code>Vercel</code></p>
-<p align="center"><a href="#começar">Começar</a> · <a href="#o-jogo">O jogo</a> · <a href="#publicar-no-github-e-na-vercel">Publicação</a> · <a href="#materiais-físicos">Impressão</a> · <a href="#documentação">Documentação</a></p>
+<p align="center"><img src="docs/assets/capa.png" alt="VIG.IA OS — O Arquivo Corrompido" width="100%"></p>
+<p align="center"><strong>Um sistema operacional fictício que transforma um computador em uma cena de investigação.</strong></p>
+<p align="center"><code>Design de experiência</code> · <code>Interfaces</code> · <code>Narrativa interativa</code> · <code>HTML / CSS / JavaScript</code></p>
+<p align="center"><a href="#a-experiência">Projeto</a> · <a href="#por-dentro-do-sistema">Telas</a> · <a href="#vídeos">Vídeos</a> · <a href="#executar-localmente">Executar</a> · <a href="#publicação-na-vercel">Publicação</a></p>
 
-## O jogo
+## A experiência
 
-**O Arquivo Corrompido** é um escape room escolar que combina investigação na sala com um computador fictício. Notícias, documentos, um painel de funcionários, pastas e um crachá se conectam às evidências do **VIG.IA OS**. A proposta é interpretar registros, cruzar fontes e reconstruir um incidente.
+**O Arquivo Corrompido** é um escape room escolar que conecta uma investigação presencial ao **VIG.IA OS**, um ambiente de computador criado para o jogo. Jornais, um painel de funcionários, pastas e um crachá escondidos na sala se relacionam com documentos, áudios e registros digitais.
 
-O computador oferece um explorador de arquivos, um chat com a VIG.IA, registros de respostas, áudios, anotações e o vídeo inicial. As janelas podem ser abertas, minimizadas e restauradas pela barra de tarefas. Os atalhos podem ser reorganizados em posições sem sobreposição durante a sessão.
+Os participantes precisam interpretar evidências, relacionar pessoas e reconstruir um incidente antes de o relógio terminar. A interface faz parte da narrativa: a memória se recupera, novos arquivos aparecem e a assistente passa a oferecer orientações mais completas conforme a investigação avança.
 
-| Recurso | Comportamento atual |
+Este repositório público apresenta a experiência, a implementação e o processo de produção como **portfólio**. O acervo inclui soluções e bastidores, identificados como spoilers.
+
+| Frente | O que foi desenvolvido |
 | --- | --- |
-| Preparação | Configurações da equipe antes de entregar o computador ao grupo. |
-| Tutorial | Vídeo narrado de aproximadamente **1min40s**, em tela cheia, iniciado por um clique dos participantes. |
-| Relógio | Começa **somente ao terminar a primeira reprodução do vídeo**. Padrão: **12min30s**. |
-| Etapas | Identidade → acessos → cronologia → conclusões. A equipe pode escolher quais serão exigidas. |
-| Bônus | **+15s**, uma vez em cada uma das três primeiras etapas; configurável ou desativável. |
-| VIG.IA | Assistente local com dicas e links para documentos; capacidade cresce com a memória recuperada. |
-| Respostas | Acertos são válidos mesmo sem abrir previamente os documentos. Enter envia os formulários. |
-| Conclusão | Código exibido por **30s** para anotação no papel → inserção do código → reconstituição narrada. |
-| Tempo esgotado | Efeito de corrupção, tela trincada, ruído contínuo e cursor invisível. |
+| Experiência | Investigação híbrida, progressão por etapas e condução de grupos. |
+| Interface | Área de trabalho, explorador, chat, janelas, barra de tarefas e cursores próprios. |
+| Narrativa | Caso fictício, documentos cruzados, áudios, pistas e reconstituição. |
+| Audiovisual | Tutorial narrado, trilha ambiente, redução de volume durante voz e efeitos de falha. |
+| Produção física | Painel, crachá, jornais, documentos complementares e cartaz de divulgação. |
+| Implementação | Aplicação estática, regras locais, configurações de sessão e publicação na Vercel. |
 
-> A VIG.IA usa regras e conteúdo local. Não há chamada a um modelo externo, conta de IA, banco de dados ou chave de API para jogar.
+## Por dentro do sistema
 
-<p align="center"><img src="docs/assets/desktop.png" alt="Área de trabalho do VIG.IA OS, com aplicativos e barra de tarefas" width="920"><br><sub>Área de trabalho do sistema. A duração de cada rodada é configurável.</sub></p>
+### Uma área de trabalho para investigar
 
-## Começar
+![Área de trabalho do VIG.IA OS](docs/assets/desktop.png)
 
-**Com Node.js 24 instalado**, abra um terminal nesta pasta:
+Atalhos arrastáveis em grade invisível, menu iniciar, menu de contexto e janelas com minimizar, maximizar e restaurar. A barra de tarefas reúne os aplicativos, o tempo restante, a memória e o áudio.
+
+### Arquivos que conectam as pistas
+
+![Explorador de evidências](docs/assets/explorador.png)
+
+Os documentos aparecem em blocos com prévia, busca e categorias. Cada arquivo abre em uma janela de leitura; o catálogo cresce conforme as etapas são resolvidas.
+
+### VIG.IA: assistência dentro da narrativa
+
+![Chat com a VIG.IA](docs/assets/chat.png)
+
+Um chat com histórico, sugestões de pergunta, indicador de digitação e respostas ligadas à fase da investigação. A assistente aponta documentos e explica o que comparar. Ela funciona com regras e conteúdo local, sem serviço externo de IA.
+
+<table><tr><td width="50%"><img src="docs/assets/configuracoes.png" alt="Configurações da rodada"><br><strong>Uma rodada para cada público</strong><br>Tempo, bônus e seleção de etapas configuráveis.</td><td width="50%"><img src="docs/assets/player.png" alt="Controles de áudio na barra de tarefas"><br><strong>Som integrado à experiência</strong><br>Trilha contínua e redução automática durante voz e vídeo.</td></tr></table>
+
+### O tempo também conta a história
+
+![Tela de corrupção ao terminar o tempo](docs/assets/expiracao.png)
+
+Quando o tempo termina, o OS dá lugar a uma composição de erros de transmissão, códigos, trincas e ruído contínuo. É um efeito ficcional: nenhum arquivo real do computador é apagado.
+
+As telas de desktop, explorador, chat, configurações e áudios foram capturadas novamente para esta apresentação. O acervo também preserva registros de versões anteriores.
+
+## Vídeos
+
+Clique nas prévias para abrir os arquivos de vídeo no repositório. Os MP4 também podem ser baixados para reprodução local.
+
+### Apresentação e tutorial · aproximadamente 1min40s
+
+[![Abrir vídeo de apresentação e tutorial](docs/assets/tutorial.png)](public/video/Video_inicial.mp4)
+
+[▶ Assistir ou baixar o tutorial em MP4](public/video/Video_inicial.mp4)
+
+O vídeo apresenta o desafio e ensina a investigar no OS sem antecipar as soluções. Na partida, ele termina antes de o cronômetro começar. A voz de narração aprovada é Francisca Neural.
+
+### Navegação pelo OS · gravação de produção
+
+[![Abrir gravação de navegação pelo sistema](docs/assets/explorador.png)](docs/videos/Navegacao_OS.mp4)
+
+[▶ Assistir ou baixar a gravação de navegação](docs/videos/Navegacao_OS.mp4)
+
+Gravação de tela utilizada na produção do tutorial, com interações e navegação reais. É um registro de produção, sem narração, e pode conter estados de demonstração.
+
+<details><summary><strong>Encerramento e materiais da equipe — contém spoilers</strong></summary>
+
+![Reconstituição do incidente](docs/assets/reconstituicao.png)
+
+Após concluir as etapas, o grupo anota uma chave exibida por 30 segundos, insere o código e libera automaticamente uma reconstituição narrada de aproximadamente 4min15s. Essa reconstituição é um player feito em HTML, com imagens e narração sincronizadas, e não um segundo MP4 do tutorial.
+
+O [guia da equipe](acervo/equipe/GUIA_DA_EQUIPE.md) documenta a solução. As fontes do encerramento ficam em [public/encerramento/filme](public/encerramento/filme/index.html), e a [narração completa](public/audio/final_completo.wav) também acompanha o projeto. Para assistir ao player, execute o projeto localmente.
+
+</details>
+
+## Como a investigação funciona
+
+Preparação da equipe → tutorial → área de trabalho → identidade → acessos → cronologia → conclusões → anotação da chave → inserção → reconstituição.
+
+| Recurso | Comportamento |
+| --- | --- |
+| Relógio | Padrão de 12min30s; começa somente ao terminar o primeiro vídeo. |
+| Bônus | +15s por acerto nas três primeiras etapas, uma vez por etapa; configurável. |
+| Memória | Na rodada completa: 8% → 34% → 67% → 67% → 100%. |
+| Documentos | Catálogo progressivo de 8 até 25 evidências. |
+| Respostas | Enter envia; acertos são aceitos mesmo sem abrir previamente os documentos. |
+| Dificuldade | A equipe pode selecionar quais etapas serão exigidas. |
+| Sessão | Configurações e posições dos atalhos voltam ao padrão ao recarregar. |
+
+## Executar localmente
+
+Com **Node.js 24**, abra um terminal na raiz:
 
 ```bash
 npm ci
 npm start
 ```
 
-Acesse **http://127.0.0.1:4173**. O projeto não possui dependências de execução. Para encerrar o servidor, use `Ctrl+C`.
-
-Também é possível abrir **public/index.html** diretamente no Chrome ou Edge, mantendo toda a pasta `public` junto. O servidor local é o caminho recomendado para conferir o mesmo carregamento de arquivos usado na publicação. O jogo não precisa de Node quando já está hospedado.
-
-**Para uma sessão:** prepare a sala, abra as configurações pela engrenagem, ajuste a rodada e entregue a tela de boas-vindas ao grupo. O clique em **Iniciar** libera vídeo e áudio. Ao fim do vídeo, a área de trabalho aparece e o relógio começa. As credenciais e o gabarito estão no [guia da equipe](privado/equipe/GUIA_DA_EQUIPE.md), incluído no repositório privado junto dos editáveis e do histórico.
-
-## Publicar no GitHub e na Vercel
-
-**Esta estrutura está preparada para GitHub → Vercel.** A construção copia somente `public/` para `dist/`. Os impressos, documentos e arquivos da equipe não são servidos no site.
-
-1. Use um repositório **Private (privado)** no GitHub. O projeto inclui soluções e materiais da equipe; a privacidade depende dessa configuração do repositório.
-2. Envie **o conteúdo desta pasta raiz**, incluindo `public`, `scripts`, `package.json` e `vercel.json`. O guia [Publicação](docs/PUBLICACAO.md) contém os comandos Git.
-3. Na Vercel, escolha **Add New → Project**, conecte o GitHub e importe o repositório.
-4. Mantenha a configuração abaixo e publique.
-
-| Campo na Vercel | Valor |
-| --- | --- |
-| Root Directory | Raiz do repositório (`.`); não selecionar `public` |
-| Framework Preset | **Other** |
-| Build Command | `npm run build` |
-| Output Directory | `dist` |
-| Install Command | Automático (`npm ci` com o lockfile) |
-| Node.js | **24.x**, definido em `package.json` |
-| Variáveis de ambiente | Nenhuma |
-
-O `vercel.json` já declara a construção e a pasta de saída. Não há reescrita de todas as rotas para `index.html`: imagens, vídeo, áudios e a reconstituição são arquivos reais. O endereço definitivo depende da criação do repositório e do primeiro deploy na sua conta.
-
-Consulte as fontes oficiais: [configuração de construção](https://vercel.com/docs/builds/configure-a-build), [integração com GitHub](https://vercel.com/docs/git/vercel-for-github) e [limites de arquivos no GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). O maior arquivo desta entrega fica abaixo do limite de 100 MiB por arquivo; o envio por Git não exige Git LFS. Use Git ou GitHub Desktop, pois o upload pelo navegador tem um limite menor.
-
-## Organização da entrega
-
-```text
-o-arquivo-corrompido/
-├── public/                 Sistema completo que será publicado
-│   ├── index.html          Entrada do jogo
-│   ├── assets/             Fontes, identidade, ícones e cursores
-│   ├── evidencias/         Documentos do explorador
-│   ├── audio/              Fragmentos, narração, trilha e efeitos
-│   ├── video/              Vídeo inicial em MP4
-│   └── encerramento/       Reconstituição e seus recursos
-├── materiais/
-│   ├── impressao/          Cenário A4, documentos A4 e jornais A3
-│   └── divulgacao/         Cartaz PNG e PDF A4 com data e horário
-├── docs/                   Documentação vigente, sem gabarito
-├── scripts/                Verificação, construção e servidor local
-├── tests/                  Testes de regras, configuração e entrega
-├── privado/                Equipe, gabarito, editáveis e histórico — no Git privado
-├── .github/workflows/      Verificação automática no GitHub
-├── package.json            Comandos e versão do Node
-└── vercel.json             Configuração da hospedagem
-```
-
-**Código, impressos, divulgação e `privado/` são versionados no GitHub privado.** Isso inclui os editáveis, as referências, os ZIPs de identidade e o histórico. O nome `privado/` apenas organiza o conteúdo: o controle de acesso é a visibilidade **Private** do repositório.
-
-`dist/`, `.reports/`, `node_modules/`, `.vercel/`, credenciais reais `.env*`, caches e arquivos temporários ficam fora do Git. São saídas regeneráveis ou dados de ambiente, não as fontes do projeto. A Vercel publica exclusivamente `dist/`, gerada de `public/`; `.vercelignore` também lista as áreas da equipe para exclusão nos fluxos que a utilizam.
-
-## Materiais físicos
-
-| Arquivo | Impressão / uso |
-| --- | --- |
-| [Cenário](materiais/impressao/01_cenario/Cenario_A4_horizontal.pdf) | **9 folhas A4 horizontais**, tamanho real; painel, fichas, crachá e peças de montagem. |
-| [Documentos complementares](materiais/impressao/02_documentos/Documentos_A4_vertical.pdf) | **6 folhas A4 verticais**, tamanho real; pistas selecionadas e documentos de distração. |
-| [Jornais](materiais/impressao/03_jornais/Jornais_A3_3_folhas.pdf) | **3 folhas A3 verticais**, fundo branco, uma cópia de cada. Inclui a folha de recortes/manchetes. |
-| [Cartaz em PNG](materiais/divulgacao/Cartaz_03-12.png) | Arquivo principal para divulgação: **03/12, das 7h às 15h**. |
-| [Cartaz em PDF A4](materiais/divulgacao/Cartaz_03-12_A4.pdf) | Versão diagramada para impressão do cartaz. |
-
-As instruções de papel e montagem estão em [materiais/impressao/README.md](materiais/impressao/README.md). A distribuição das pistas entre as pastas e os objetos escondidos está no guia local da equipe. Os impressos complementam o sistema; não precisam conter sozinhos todas as respostas.
-
-## Verificação e manutenção
+Acesse **http://127.0.0.1:4173**. Não são necessárias variáveis de ambiente, banco de dados ou chaves de API. Também é possível abrir `public/index.html` no Chrome ou Edge, mantendo a pasta completa; o servidor local é recomendado para conferir a publicação.
 
 ```bash
-npm test          # Regras, progressão, bônus, combinações de etapas e entrega HTTP
-npm run check     # Referências, maiúsculas/minúsculas, mídia e configuração
-npm run build     # Verifica e gera dist/ exclusivamente a partir de public/
-npm run preview   # Abre o mesmo conteúdo construído em http://127.0.0.1:4173
+npm test          # Regras, etapas, tempo, HTTP e links
+npm run check     # Referências e capitalização dos arquivos
+npm run build     # Gera dist/ a partir exclusivamente de public/
+npm run preview   # Serve a versão construída
 ```
 
-O fluxo do GitHub executa instalação, testes e construção em Linux. Para o teste visual opcional, veja [Testes](docs/TESTES.md). Relatórios da conferência desta entrega ficam na pasta local `.reports/`; eles não são publicados nem enviados ao GitHub.
+## Publicação na Vercel
 
-## Limites que a equipe deve conhecer
+Importe este repositório do GitHub e mantenha:
 
-- O jogo funciona no navegador, com gabarito e controles no código do cliente. As senhas da interface **não são autenticação de servidor**. Mesmo em repositório privado, participantes podem inspecionar o JavaScript recebido.
-- Cada aba tem sua rodada. Não há sincronização de equipes, placar online ou recuperação de progresso depois de recarregar a página. Recarregar restaura as configurações padrão.
-- A versão hospedada precisa de internet para obter os arquivos; não existe cache offline garantido. Para a escola, mantenha uma cópia completa de `public/` no computador.
-- O primeiro clique do participante é necessário para áudio e vídeo pelas regras dos navegadores. Teste Chrome ou Edge no computador, na resolução e nas caixas de som reais da sala.
-- O aviso de apagamento é parte da ficção: o sistema não apaga arquivos do computador.
-
-## Documentação
-
-| Documento | Conteúdo |
+| Configuração | Valor |
 | --- | --- |
-| [Guia do jogo](docs/JOGO.md) | Fluxo do participante, aplicações, progressão e tempo. |
-| [Publicação](docs/PUBLICACAO.md) | GitHub, Vercel, atualização e solução de problemas. |
-| [Backup na nuvem](docs/NUVEM.md) | O que fica no GitHub privado e o que chega ao site. |
-| [Arquitetura](docs/ARQUITETURA.md) | Estrutura do código, mídia e fronteira de publicação. |
-| [Contexto e continuidade](docs/CONTEXTO.md) | Decisões vigentes, histórico resumido e próximos trabalhos. |
-| [Testes](docs/TESTES.md) | Comandos, cobertura e o que conferir na sala. |
-| [Créditos e licenças](LICENCAS.md) | Música, efeitos, fontes e identidade. |
-| [Histórico da entrega](CHANGELOG.md) | Alterações desta organização final. |
+| Framework | Other |
+| Root Directory | Raiz do repositório |
+| Build Command | `npm run build` |
+| Output Directory | `dist` |
+| Node.js | 24.x |
+| Variáveis de ambiente | Nenhuma |
 
-A pasta [privado/](privado/README.md) contém guia da equipe, narrativa integral, editáveis e documentação histórica. Ela acompanha o clone do **repositório privado**, mas não aparece no site da Vercel. Após commit e push, esses materiais ficam guardados na nuvem com o restante do projeto. Mudanças ainda sem commit/push continuam apenas na cópia local.
+O [vercel.json](vercel.json) já define a construção e a saída. Somente o sistema de `public/` chega ao site; o acervo, os impressos e os materiais de portfólio ficam acessíveis no GitHub. O [guia de publicação](docs/PUBLICACAO.md) detalha o envio pelo GitHub Desktop.
 
-<p align="center"><sub>7set.dev · Entrega consolidada em 24/11/2026 · Projeto escolar “O Arquivo Corrompido”</sub></p>
+## Estrutura e bastidores
+
+```text
+public/       Sistema jogável, documentos, sons e vídeo inicial
+materiais/    PDFs de impressão, jornais e cartaz em PNG/PDF
+docs/         Documentação, capturas e vídeos de portfólio
+acervo/       Fontes, editáveis, planejamento, histórico e guia com spoilers
+scripts/      Servidor local, verificação e construção
+tests/        Testes de regras e entrega
+```
+
+O antigo nome `privado/` foi substituído por **`acervo/`**: são materiais públicos de produção e operação do jogo, sem restrição de acesso pretendida. Caches, temporários, `dist/` e credenciais reais `.env*` permanecem fora do Git.
+
+| Material | Arquivo |
+| --- | --- |
+| Cenário · 9 folhas A4 horizontais | [PDF de montagem](materiais/impressao/01_cenario/Cenario_A4_horizontal.pdf) |
+| Documentos · 6 folhas A4 verticais | [PDF complementar](materiais/impressao/02_documentos/Documentos_A4_vertical.pdf) |
+| Jornais · 3 folhas A3, fundo branco | [PDF dos jornais](materiais/impressao/03_jornais/Jornais_A3_3_folhas.pdf) |
+| Divulgação · 03/12, das 7h às 15h | [Imagem PNG](materiais/divulgacao/Cartaz_03-12.png) · [PDF A4](materiais/divulgacao/Cartaz_03-12_A4.pdf) |
+
+## Documentação e créditos
+
+[Guia do jogo](docs/JOGO.md) · [Arquitetura](docs/ARQUITETURA.md) · [Contexto](docs/CONTEXTO.md) · [Nuvem e portfólio](docs/NUVEM.md) · [Testes](docs/TESTES.md) · [Acervo](acervo/README.md) · [Histórico](CHANGELOG.md).
+
+Trilha: **Long Note One**, Kevin MacLeod, CC BY 4.0. Efeitos de falha: Pixabay. Fontes: Space Grotesk e IBM Plex Mono. Consulte os [créditos e licenças](LICENCAS.md) antes de reutilizar os materiais. Um repositório público não concede, por si só, uma licença geral de reutilização.
+
+O sistema é totalmente cliente: soluções e controles podem ser inspecionados no código. As credenciais da interface são mecanismos de condução do jogo, não autenticação de servidor. Cada aba executa sua própria rodada; não há sincronização de equipes nem persistência do progresso após recarregar.
+
+<p align="center"><sub>7set.dev · O Arquivo Corrompido · Projeto escolar e portfólio de experiência interativa · 2026</sub></p>

@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-19",
+  "changes": [
+    "transmission-failure.js",
+    "transmission-failure.css",
+    "desktop.js",
+    "feedback.js",
+    "app.js",
+    "index.html",
+    "VIGIA_OS_LEIA-ME.md",
+    "VIGIA_OS_V2.md"
+  ],
+  "backup": "C:\\Users\\SEU_USUARIO\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\falha_transmissao_20261119_134459",
+  "browser": {
+    "isolated_qa_timeout_seconds": 12,
+    "expiry_shows_transmission_failure": true,
+    "binary_and_error_streams": 38,
+    "escape_does_not_dismiss": true,
+    "desktop_inert_on_expiry": true,
+    "cancel_operator_auth_stays_locked": true,
+    "authorized_overtime_hides_failure_and_unlocks": true,
+    "viewport_390x844_panel_fits": true,
+    "console_errors": []
+  },
+  "sound": {
+    "duration_seconds": 4.8,
+    "peak_gain": 0.85,
+    "ambient_duck_ms": 5500,
+    "automated": {
+      "date": "2026-11-19",
+      "result": "passed",
+      "coverage": "Aviso, tique-taque, corrupção de disco de4,8s com falhas de leitura, estalos, ruído digital e desaceleração, amostras sem clipping, silêncio e limpeza de nós de áudio; dispositivo simulado. Percepção no equipamento do evento pendente."
+    },
+    "physical_event_speaker_listening": "not verified"
+  },
+  "game": {
+    "date": "2026-11-19",
+    "checks": 114,
+    "result": "passed",
+    "coverage": [
+      "Progressão 8/34/67/100 e catálogo8/23/24/25",
+      "Todas as respostas sem consulta a documentos",
+      "Bônus únicos, limites, reset e alertas",
+      "Gabarito e caminhos de mídias",
+      "Consultas básicas da assistente"
+    ]
+  },
+  "music": {
+    "date": "2026-11-19",
+    "result": "passed",
+    "checks": 21,
+    "coverage": [
+      "mesma faixa local em loop",
+      "volume ambiente e redução de88%",
+      "áudio e vídeo sobrepostos",
+      "retorno gradual após pausa/fim",
+      "controle e silêncio independentes",
+      "efeito de tela azul",
+      "reinício limpo",
+      "ativação após bloqueio de autoplay"
+    ]
+  },
+  "preserved": {
+    "production_countdown_seconds": 750,
+    "stage_bonus_seconds": 15,
+    "ambient_volume": 0.4,
+    "grid_invisible": true
+  }
+}

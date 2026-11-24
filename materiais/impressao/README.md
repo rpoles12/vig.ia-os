@@ -14,6 +14,6 @@ As três imagens originais dos jornais com fundo branco estão em `03_jornais/im
 
 Imprima uma prova e confira a área útil da impressora antes da tiragem. Recorte e monte as peças do cenário depois da impressão. Não imprima novamente todas as matrizes individuais de produção: elas estão arquivadas para manutenção.
 
-A disposição dos seis documentos entre as duas pastas e o posicionamento das pistas estão no guia da equipe do repositório privado em `privado/equipe/GUIA_DA_EQUIPE.md`. Essa orientação contém soluções e não acompanha os documentos de participantes.
+A disposição dos seis documentos entre as duas pastas e o posicionamento das pistas estão no guia da equipe do repositório público em `acervo/equipe/GUIA_DA_EQUIPE.md`. Essa orientação contém soluções e não acompanha os documentos de participantes.
 
 O cartaz de divulgação é um material separado, em [../divulgacao](../divulgacao/README.md), disponível como imagem PNG e PDF A4.
