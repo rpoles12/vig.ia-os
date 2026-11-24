@@ -1,4 +1,4 @@
-# Fontes e materiais da equipe são versionados: use repositório PRIVADO no GitHub.
+# Fontes e materiais da equipe são versionados: o repositório público apresenta o portfólio.
 # Excluir apenas saídas geradas, caches, temporários e credenciais reais.
 /dist/
 /.reports/

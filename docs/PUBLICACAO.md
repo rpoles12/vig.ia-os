@@ -21,50 +21,15 @@ npm run preview
 
 Abra `http://127.0.0.1:4173`. Confira o vídeo inicial, um documento, um fragmento de áudio e as configurações. Os testes automáticos não substituem ouvir as caixas de som na sala.
 
-## 2. Enviar para o GitHub
+## 2. Enviar pelo GitHub Desktop
 
-O destino informado pelo responsável é [rpoless/vig.ia-os-escape-room](https://github.com/rpoless/vig.ia-os-escape-room). Mantenha a visibilidade **Private** antes de enviar: `privado/` agora faz parte do versionamento, incluindo gabarito, fontes, histórico e editáveis. Repositório privado limita o acesso a esse material; não esconde o JavaScript que o site entrega aos jogadores. O Git local já foi iniciado em `main`; confira `git status`.
+O destino é o repositório público de portfólio [rpoless/vig.ia-os-escape-room](https://github.com/rpoless/vig.ia-os-escape-room). Os materiais de produção são públicos e o acervo contém spoilers do jogo.
 
-### Pelo GitHub Desktop
+1. Selecione a cópia local `vig.ia-os-escape-room` em Documents/GitHub no GitHub Desktop.
+2. Revise as alterações, crie o commit e use **Push origin**.
+3. Confira no GitHub se aparecem o README, os prints, os vídeos e a pasta `acervo/`.
 
-1. No GitHub, confirme que o repositório de destino está como **Private**. Ele estava público na última conferência; a preparação local não altera essa configuração.
-2. No GitHub Desktop, use **File → Add local repository** e selecione a pasta final `O_Arquivo_Corrompido` do Desktop, onde estão `README.md` e `package.json`.
-3. Confira que o remoto `origin` é `https://github.com/rpoless/vig.ia-os-escape-room.git` e a branch é `main`.
-4. Envie o commit preparado usando **Push origin** ou **Publish branch**, conforme a opção exibida. As fontes e os materiais de `privado/` estão incluídos; caches e saídas geradas continuam ignorados.
-5. Abra o repositório no GitHub e confirme que o commit e a pasta `privado/` aparecem. Só depois o backup foi enviado à nuvem.
-
-Se o GitHub Desktop já estiver mostrando outra cópia local do repositório, selecione a pasta final acima para enviar esta entrega. Não é necessário arrastar arquivos no site nem copiar tudo para dentro de `public/`.
-
-### Pelo terminal, como alternativa
-
-Se a pasta ainda não possuir repositório:
-
-```bash
-git init -b main
-```
-
-Prepare a versão local e confira a seleção antes de enviá-la:
-
-```bash
-git add .
-git status
-git commit -m "Organiza entrega final do Arquivo Corrompido"
-```
-
-Se a entrega já tiver um commit inicial, não será necessário criar outro sem mudanças. Se o Git pedir identificação, configure seu nome e email próprios antes do commit. Não use uma identidade inventada.
-
-Depois, substitua o endereço pelo repositório que você criou:
-
-```bash
-git remote add origin https://github.com/rpoless/vig.ia-os-escape-room.git
-git push -u origin main
-```
-
-Se já existir `origin`, confira `git remote -v` antes de alterá-lo. GitHub Desktop também pode publicar a pasta existente. Não selecione a pasta acima desta entrega, pois ela contém arquivos de trabalho e versões anteriores.
-
-**`privado/` está incluída no Git normal, sem forçar arquivos ignorados.** Ela contém narrativa, gabarito, credenciais de interface, históricos e editáveis. Os ZIPs de fontes dentro dela também são versionados. Mantenha o repositório **Private**: se ele se tornar público, qualquer visitante poderá consultar os materiais e o histórico. Nenhum desses arquivos é copiado para `dist/`. Veja [Backup na nuvem](NUVEM.md).
-
-O maior arquivo atual tem menos de 100 MiB, limite individual para Git comum. O PDF do cenário excede o limite de 25 MiB do upload pelo navegador do GitHub: envie por Git ou GitHub Desktop. Git LFS não é necessário para os arquivos atuais. O limite de upload da CLI da Vercel é um fluxo diferente; a implantação planejada usa integração com GitHub.
+Não é necessário tornar o repositório privado. A pasta `acervo/` e os ZIPs de fontes são versionados normalmente; apenas caches, temporários, saídas geradas e credenciais reais ficam ignorados. A pasta do Desktop anteriormente usada foi movida pelo responsável para esta cópia local; use o repositório atual.
 
 ## 3. Importar na Vercel
 
@@ -82,7 +47,7 @@ As opções disponíveis e cotas dependem da conta. Publicar em uma conta ou cri
 - `/` apresenta a preparação da rodada.
 - O primeiro vídeo termina antes de o tempo começar.
 - Documentos, áudio, cursores e a reconstituição carregam sem erro.
-- Tentar `/README.md`, `/materiais/` ou `/privado/` não fornece os arquivos da entrega local.
+- Tentar `/README.md`, `/materiais/` ou `/acervo/` não fornece os arquivos da entrega local.
 - Em **Deployments**, a produção corresponde ao commit esperado. Previews de branches servem para revisão antes de levar mudanças à produção.
 
 O `vercel.json` adiciona headers de revalidação de cache para reduzir versões antigas, tipagem estrita de arquivos e orientação para os buscadores não indexarem o jogo. A orientação de não indexação não restringe acesso; qualquer pessoa com o link pode abrir a página, conforme as opções da conta Vercel.
@@ -101,7 +66,7 @@ Edite os arquivos de `public/`, execute testes e build, faça commit e push. A i
 | Alteração não aparece | Aguarde o deploy concluir, abra a URL do deploy novo e recarregue; evite atualizar durante uma rodada. |
 | Configuração voltou ao padrão | Comportamento esperado ao recarregar; prepare a sessão antes de cada grupo. |
 | Sem internet na escola | Use a cópia completa de `public/` localmente; visitar uma vez o site não garante cache offline. |
-| Guia da equipe não veio no clone | Confira se foi enviado o commit que inclui `privado/` e se a cópia está na branch `main` atualizada. |
+| Guia da equipe não veio no clone | Confira se foi enviado o commit que inclui `acervo/` e se a cópia está na branch `main` atualizada. |
 
 ## Limite da arquitetura
 

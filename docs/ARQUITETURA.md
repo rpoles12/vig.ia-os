@@ -53,7 +53,7 @@ O servidor local implementa MIME, HEAD e intervalos de bytes para testar MP4 e �
 | `public/` | Sim | Sim, copiada para `dist/` |
 | `materiais/` | Sim | Não |
 | `docs/`, `tests/`, `scripts/` | Sim | Não; apenas scripts necessários participam do build |
-| `privado/` | Sim, em repositório **Private** | Não |
+| `acervo/` | Sim, em repositório **Public** | Não |
 | `dist/`, `.reports/`, `.env*` | Não | `dist/` é gerada no build; relatórios e ambiente não são publicados |
 
 As respostas necessárias à validação continuam em `public/data.js` e no motor. A fronteira acima separa documentos e produção; ela não oferece sigilo contra inspeção do aplicativo.
@@ -66,4 +66,4 @@ As respostas necessárias à validação continuam em `public/data.js` e no moto
 4. Revise a versão servida por `npm run preview`.
 5. Faça commit e push somente depois da conferência; não publique durante uma rodada em andamento.
 
-Os editáveis e scripts históricos estão em `privado/fontes/` e acompanham o repositório privado. Alguns dependem de caminhos e ferramentas do ambiente de produção original. Eles são arquivos de origem e histórico, não dependências para jogar ou publicar.
+Os editáveis e scripts históricos estão em `acervo/fontes/` e acompanham o repositório público. Alguns dependem de caminhos e ferramentas do ambiente de produção original. Eles são arquivos de origem e histórico, não dependências para jogar ou publicar.

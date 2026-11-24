@@ -1,6 +1,6 @@
 # Guia do jogo · VIG.IA OS
 
-Documento vigente em 24/11/2026. Não contém o gabarito. O guia integral da equipe está em `privado/equipe/GUIA_DA_EQUIPE.md`, no repositório privado e fora do site dos participantes.
+Documento vigente em 24/11/2026. Não contém o gabarito. O guia integral da equipe está em `acervo/equipe/GUIA_DA_EQUIPE.md`, no repositório público e fora do site dos participantes.
 
 ## Proposta
 

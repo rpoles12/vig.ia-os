@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-19",
+  "function": "Menu Iniciar",
+  "checks": {
+    "opens_six_apps": true,
+    "resume_opens_records": true,
+    "current_phase_and_memory_update": true,
+    "desktop_minimizes_all_windows": true,
+    "escape_closes_menu": true,
+    "outside_click_closes_menu": true,
+    "local_source_console_errors": 0
+  },
+  "backup": "C:\\Users\\SEU_USUARIO\\Documents\\ChatGPT\\Escape Room\\tmp\\backups\\publicacao_menu_20261119_104507"
+}
