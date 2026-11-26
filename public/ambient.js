@@ -30,9 +30,15 @@
   fadeFrame=requestAnimationFrame(step);
  }
  function update(){
-  ducked=foregroundPlaying()||performance.now()<holdUntil;
+  const foreground=foregroundPlaying();
+  ducked=foreground||performance.now()<holdUntil;
   const target=!started||muted?0:baseVolume*(ducked?.12:1);
-  fadeTo(target,target<track.volume?180:1100);showState();
+  if(foreground&&target<track.volume){
+   cancelAnimationFrame(fadeFrame);
+   fadeFrame=0;
+   track.volume=target;
+  }else fadeTo(target,target<track.volume?180:1100);
+  showState();
  }
  function ensurePlayback(){
   if(!started||muted||baseVolume===0||!track.paused)return;

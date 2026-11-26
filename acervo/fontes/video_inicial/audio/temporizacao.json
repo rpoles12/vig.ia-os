@@ -2,26 +2,26 @@
   {
     "scene": 1,
     "original_seconds": 6.456,
-    "tempo_factor": 1.206728971962617,
-    "voice_seconds": 5.332125,
+    "tempo_factor": 1.2535922330097087,
+    "voice_seconds": 5.136270833333334,
     "start": 0.45,
-    "end": 5.782125
+    "end": 5.586270833333334
   },
   {
     "scene": 2,
     "original_seconds": 4.608,
-    "tempo_factor": 1.0593103448275862,
-    "voice_seconds": 4.3298125,
+    "tempo_factor": 1.1103614457831323,
+    "voice_seconds": 4.132270833333333,
     "start": 6.45,
-    "end": 10.7798125
+    "end": 10.582270833333334
   },
   {
     "scene": 3,
     "original_seconds": 4.728,
-    "tempo_factor": 2.0119148936170212,
-    "voice_seconds": 2.3320416666666666,
+    "tempo_factor": 2.1990697674418604,
+    "voice_seconds": 2.1486666666666667,
     "start": 11.45,
-    "end": 13.782041666666666
+    "end": 13.598666666666666
   },
   {
     "scene": 12,
@@ -33,11 +33,11 @@
   },
   {
     "scene": 4,
-    "original_seconds": 4.92,
-    "tempo_factor": 1.0,
-    "voice_seconds": 4.917395833333333,
+    "original_seconds": 7.345958333333333,
+    "tempo_factor": 1.0274067599067598,
+    "voice_seconds": 7.129333333333333,
     "start": 25.45,
-    "end": 30.367395833333333
+    "end": 32.57933333333333
   },
   {
     "scene": 5,
@@ -57,11 +57,11 @@
   },
   {
     "scene": 7,
-    "original_seconds": 0.72,
-    "tempo_factor": 1.0,
-    "voice_seconds": 0.7176875,
+    "original_seconds": 11.593958333333333,
+    "tempo_factor": 1.0398168908819132,
+    "voice_seconds": 11.130083333333333,
     "start": 53.45,
-    "end": 54.1676875
+    "end": 64.58008333333333
   },
   {
     "scene": 8,
@@ -81,18 +81,18 @@
   },
   {
     "scene": 10,
-    "original_seconds": 3.96,
-    "tempo_factor": 1.0,
-    "voice_seconds": 3.9579166666666667,
+    "original_seconds": 9.001958333333333,
+    "tempo_factor": 1.2590151515151513,
+    "voice_seconds": 7.135041666666667,
     "start": 84.45,
-    "end": 88.40791666666667
+    "end": 91.58504166666667
   },
   {
     "scene": 11,
-    "original_seconds": 3.0,
-    "tempo_factor": 1.0,
-    "voice_seconds": 2.995833333333333,
+    "original_seconds": 8.233958333333334,
+    "tempo_factor": 1.151602564102564,
+    "voice_seconds": 7.132395833333334,
     "start": 92.45,
-    "end": 95.44583333333334
+    "end": 99.58239583333334
   }
 ]

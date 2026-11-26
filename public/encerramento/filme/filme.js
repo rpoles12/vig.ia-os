@@ -99,6 +99,17 @@ voice.onplay=()=>{$('#play').textContent='Ⅱ';$('#play').setAttribute('aria-lab
 voice.onended=()=>{draw(D.duration);$('#play').textContent='↻';$('#play').setAttribute('aria-label','Rever reconstituição');};
 voice.addEventListener('error',()=>{$('#error').hidden=false;$('#error').textContent='Áudio não encontrado. Mantenha a pasta assets junto deste HTML.';});
 window.addEventListener('message',e=>{if(e.source!==window.parent||e.data?.type!=='vigia-movie-state')return;const s=e.data;externalPaused=!!s.paused;externalEnded=!!s.ended;externalTime=clamp(Number(s.time)||0,0,D.duration);if(s.reset){hasStarted=false;externalTime=0;$('#start').hidden=false;$('#error').hidden=true;draw(0);return}if(!externalPaused){hasStarted=true;$('#start').hidden=true;$('#error').hidden=true}else if(s.blocked){$('#start').hidden=false;$('#error').hidden=false;$('#error').textContent=s.error||'O navegador bloqueou o início automático. Selecione Reproduzir para continuar.'}draw(externalTime);$('#play').textContent=externalEnded?'↻':externalPaused?'▶':'Ⅱ';$('#play').setAttribute('aria-label',externalEnded?'Rever reconstituição':externalPaused?'Reproduzir':'Pausar');if(Number.isFinite(s.volume))$('#volume').value=String(s.volume);$('#mute').textContent=s.muted?'Sem som':'Som';});
+document.addEventListener('keydown',event=>{
+ if(!externalController)return;
+ if(VigiaKeyboard.operatorShortcut(event)){
+  event.preventDefault();
+  event.stopImmediatePropagation();
+  window.parent.postMessage({type:'vigia-movie-operator'},'*');
+ }else if(VigiaKeyboard.blocksBrowser(event)||VigiaKeyboard.appShortcut(event,['files','vigia','solve','media'])){
+  event.preventDefault();
+  event.stopImmediatePropagation();
+ }
+},true);
 document.addEventListener('keydown',e=>{if(['INPUT','BUTTON','TEXTAREA'].includes(document.activeElement.tagName))return;if(e.code==='Space'){e.preventDefault();toggle();}if(e.code==='ArrowRight'){e.preventDefault();seek(movieTime()+10);}if(e.code==='ArrowLeft'){e.preventDefault();seek(movieTime()-10);}});
 // Audio currentTime is the only animation clock: pause, seek and buffering stay synchronized.
 function tick(){draw(movieTime());requestAnimationFrame(tick);}draw(0);requestAnimationFrame(tick);

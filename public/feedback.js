@@ -14,10 +14,15 @@
    context??=new Audio();
    const notes=kind==='error'?[[220,0,.18],[165,.22,.18],[110,.44,.34]]:kind==='complete'?[[659,0,.14],[880,.18,.14],[1047,.36,.23],[659,.72,.14],[880,.90,.14],[1047,1.08,.30]]:[[523,0,.10],[659,.11,.10],[880,.23,.14]];
    const start=()=>{
-    if(!enabled)return;stop();const base=context.currentTime+.015;
+    if(!enabled)return;
+    stop();
+    const narration=document.getElementById('audio-player');
+    const speaking=narration&&!narration.paused&&!narration.ended;
+    const volume=(kind==='error'?.23:.12)*(speaking?.25:1);
+    const base=context.currentTime+.015;
     for(const [frequency,offset,duration] of notes){
      const osc=context.createOscillator(),gain=context.createGain(),when=base+offset;
-     osc.type=kind==='error'?'sawtooth':'triangle';osc.frequency.value=frequency;if(kind==='error')osc.frequency.exponentialRampToValueAtTime(frequency*.8,when+duration);gain.gain.setValueAtTime(0,when);gain.gain.linearRampToValueAtTime(kind==='error'?.23:.12,when+.012);gain.gain.exponentialRampToValueAtTime(.0001,when+duration);
+     osc.type=kind==='error'?'sawtooth':'triangle';osc.frequency.value=frequency;if(kind==='error')osc.frequency.exponentialRampToValueAtTime(frequency*.8,when+duration);gain.gain.setValueAtTime(0,when);gain.gain.linearRampToValueAtTime(volume,when+.012);gain.gain.exponentialRampToValueAtTime(.0001,when+duration);
      osc.connect(gain);gain.connect(context.destination);osc.start(when);osc.stop(when+duration+.015);active.push(osc);
      osc.onended=()=>{osc.disconnect();gain.disconnect();active=active.filter(x=>x!==osc)};
     }

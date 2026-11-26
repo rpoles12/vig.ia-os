@@ -1,33 +1,33 @@
 1
-00:00:00,450 --> 00:00:01,737
+00:00:00,450 --> 00:00:01,690
 Incidente no Vértice.
 
 2
-00:00:01,737 --> 00:00:03,024
+00:00:01,690 --> 00:00:02,930
 Arquivos danificados.
 
 3
-00:00:03,024 --> 00:00:05,782
+00:00:02,930 --> 00:00:05,586
 Sua equipe precisa descobrir o que aconteceu.
 
 4
-00:00:06,450 --> 00:00:09,289
+00:00:06,450 --> 00:00:09,160
 Os dados serão apagados ao fim do prazo.
 
 5
-00:00:09,289 --> 00:00:10,780
+00:00:09,160 --> 00:00:10,582
 Acompanhem o relógio.
 
 6
-00:00:11,450 --> 00:00:11,978
+00:00:11,450 --> 00:00:11,936
 Investiguem.
 
 7
-00:00:11,978 --> 00:00:12,858
+00:00:11,936 --> 00:00:12,747
 Comparem evidências.
 
 8
-00:00:12,858 --> 00:00:13,782
+00:00:12,747 --> 00:00:13,599
 Reconstruam os fatos.
 
 9
@@ -43,11 +43,11 @@ Procurem as pastas e o crachá escondidos na sala.
 Comparem esses materiais com os registros do computador.
 
 12
-00:00:25,450 --> 00:00:27,248
+00:00:25,450 --> 00:00:28,056
 Abram os aplicativos pelos ícones.
 
 13
-00:00:27,248 --> 00:00:30,367
+00:00:28,056 --> 00:00:32,579
 Minimizem as janelas e voltem a elas pela barra de tarefas.
 
 14
@@ -71,15 +71,15 @@ No player, reproduzam, pausem ou voltem a um trecho.
 Usem a transcrição e os controles da barra de tarefas.
 
 19
-00:00:53,450 --> 00:00:53,761
+00:00:53,450 --> 00:00:58,273
 Peçam ajuda à VIG.IA: onde procurar ou como comparar informações.
 
 20
-00:00:53,761 --> 00:00:53,842
+00:00:58,273 --> 00:00:59,534
 Digitem e enviem.
 
 21
-00:00:53,842 --> 00:00:54,168
+00:00:59,534 --> 00:01:04,580
 Quanto mais memória recuperada, mais completas serão as orientações.
 
 22
@@ -99,29 +99,29 @@ Na cronologia, arrastem os cartões do primeiro ao último evento.
 Confiram a ordem antes de validar.
 
 26
-00:01:24,450 --> 00:01:25,958
+00:01:24,450 --> 00:01:27,168
 Próximos passos mostra o objetivo atual.
 
 27
-00:01:25,958 --> 00:01:26,976
+00:01:27,168 --> 00:01:29,003
 Acompanhem tempo e memória.
 
 28
-00:01:26,976 --> 00:01:28,408
+00:01:29,003 --> 00:01:31,585
 Separem papel e caneta para anotações.
 
 29
-00:01:32,450 --> 00:01:33,272
+00:01:32,450 --> 00:01:34,407
 Anotem a chave quando aparecer.
 
 30
-00:01:33,272 --> 00:01:33,988
+00:01:34,407 --> 00:01:36,111
 Ela libera a recapitulação.
 
 31
-00:01:33,988 --> 00:01:34,836
+00:01:36,111 --> 00:01:38,131
 Os arquivos estão nas suas mãos.
 
 32
-00:01:34,836 --> 00:01:35,446
+00:01:38,131 --> 00:01:39,582
 Comecem a investigação.

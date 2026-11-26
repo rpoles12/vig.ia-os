@@ -75,7 +75,7 @@ const ok = value => { assert.ok(value); checks++; };
     eq(new Set(positions).size, 7);
     await page.locator('.desktop-shortcut[data-app=introvideo]').click();
     await page.waitForFunction(() => document.querySelector('#intro-replay-player').currentTime > .3);
-    eq(await page.locator('#intro-replay-player').getAttribute('src'), 'video/Video_inicial.mp4');
+    eq(await page.locator('#intro-replay-player').getAttribute('src'), 'video/Video_inicial.mp4?v=falas-completas-2');
     await page.waitForFunction(() => document.querySelector('#ambient-track').dataset.mode === 'ducked');
     const beforeReplay = await timer(page);
     await page.waitForTimeout(1200);

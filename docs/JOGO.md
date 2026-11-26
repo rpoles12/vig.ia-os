@@ -41,6 +41,18 @@ Depois da primeira exibição, o mesmo MP4 permanece como atalho e app na área 
 
 O botão de início reúne aplicativos e ações do OS. O menu de contexto da área de trabalho e a barra de tarefas também dão acesso à navegação. A barra mantém ícones dos apps, estado da memória, relógio e controles de áudio. Janelas conservam o estado ao minimizar e restaurar. Posições dos atalhos usam uma grade invisível e duram somente a sessão da página.
 
+## Atalhos durante a investigação
+
+| Atalho | Aplicativo |
+| --- | --- |
+| Win + E | Arquivos |
+| Win + 1 / Alt + 1 | Arquivos |
+| Win + 2 / Alt + 2 | VIG.IA |
+| Win + 3 / Alt + 3 | Registros |
+| Win + 4 / Alt + 4 | Áudios |
+
+Os números seguem a ordem da barra de tarefas. Os atalhos de apps ficam suspensos durante a digitação, em janelas modais e após o encerramento. Se o Windows reservar a tecla Win, use Alt + número. Para preparar uma máquina dedicada, veja [Modo quiosque](QUIOSQUE_WINDOWS.md).
+
 ## Progressão padrão
 
 | Situação | Memória | Evidências disponíveis | Próxima ação |

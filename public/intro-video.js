@@ -1,6 +1,6 @@
 (()=>{
  'use strict';
- const source='video/Video_inicial.mp4';
+ const source='video/Video_inicial.mp4?v=falas-completas-2';
  // This section is created before the desktop builds its windows and shortcuts.
  const replay=document.createElement('section');replay.id='introvideo';replay.className='pane intro-replay';
  replay.innerHTML='<video id="intro-replay-player" controls playsinline preload="metadata" aria-label="Vídeo inicial da investigação"></video><div class="intro-replay-footer"><span>Vídeo inicial.mp4</span><a href="'+source+'" download="Video_inicial.mp4">Salvar MP4</a></div>';
