@@ -2,6 +2,12 @@
 
 Na página, o VIG.IA OS trata os atalhos de aplicativos e intercepta comandos de navegação que o navegador entrega à sessão. A conta dedicada do Windows restringe o acesso aos outros aplicativos. O Filtro de Teclado é a opção para combinações do sistema que escaparem dessa restrição, incluindo Win + L. A compatibilidade depende da edição do Windows e da política da escola. [Quiosque do Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-configure-kiosk-mode) · [Filtro de Teclado](https://learn.microsoft.com/windows/configuration/keyboard-filter/)
 
+## Quando Win + E abre o Explorador ou Win + L bloqueia o PC
+
+Isso indica que o Windows tratou a combinação antes de o navegador entregar o evento ao jogo. Use Alt + 1 para abrir Arquivos imediatamente. Os primeiros quatro botões da barra de tarefas também mostram seus atalhos Alt ao passar o mouse.
+
+Para impedir o bloqueio da tela na conta dedicada, a TI pode ativar a regra predefinida WindowsL do Filtro de Teclado. O filtro suprime a combinação configurada. Usar Win + E para abrir Arquivos do VIG.IA exige redirecionar a tecla no próprio computador, além da configuração do site. [Regra WindowsL](https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-embedded-keyboardfilterservice) · [Regras do Filtro de Teclado](https://learn.microsoft.com/en-us/windows/configuration/keyboard-filter/keyboardfilter-wmi-provider-reference)
+
 ## Preparação pela organização
 
 1. No computador da atividade, confirme a edição em **Configurações → Sistema → Sobre**. No computador consultado durante o desenvolvimento, a edição é Windows 11 Education 25H2, que oferece suporte ao Filtro de Teclado. Confirme a existência do recurso na máquina efetivamente usada na escola.
