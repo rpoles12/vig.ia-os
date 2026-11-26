@@ -15,9 +15,11 @@ As configurações duram até recarregar a página; não são uma preferência p
 
 ## Condução e controles
 
+Na tela de boas-vindas ou durante a primeira exibição do tutorial, pressione **Ctrl+Alt+P** para abrir o controle reservado. Digite a senha das configurações da rodada e pressione Enter ou clique em **Pular apresentação**. O sistema começa a rodada e a contagem na hora. Use o atalho apenas na organização, por exemplo em ensaios ou quando a equipe já assistiu ao tutorial.
+
 Os participantes devem usar documentos, painel, pastas, crachá, áudios e VIG.IA. Não é preciso consultar tudo, e não há bloqueio de resposta por leitura de documento. A IA pode indicar onde procurar e como comparar informações; sua capacidade cresce com a memória.
 
-O atalho **Ctrl+Shift+O** abre o acesso do operador. Credencial: **7SET-OPERACAO**. O painel permite controle da contagem, reinício e, após expiração, continuidade sem tempo. O reinício exige confirmação no próprio botão e retorna à preparação, limpando progresso e o primeiro vídeo. Confira duração e seleção de etapas antes de entregar a próxima sessão. Recarregar restaura os padrões.
+O atalho **Ctrl+Shift+O** abre o acesso do operador. Credencial: **7SET-OPERACAO**. O painel permite controle da contagem e reinício. Após o encerramento, o reinício prepara uma nova rodada. O reinício exige confirmação no próprio botão e retorna à preparação, limpando progresso e o primeiro vídeo. Confira duração e seleção de etapas antes de entregar a próxima sessão. Recarregar restaura os padrões.
 
 As credenciais estão no código do navegador: servem para condução escolar, não para segurança real. Não use senhas pessoais nem apresente esses controles como autenticação protegida.
 
@@ -103,7 +105,7 @@ Na rodada padrão: memória 8/34/67/67/100; catálogo 8/23/24/25. Identidade, ac
 
 Reservar aproximadamente **20 minutos mais troca e conversa** para tutorial, investigação no limite, bônus, anotação e reconstituição. O tempo de investigação configurado não inclui o primeiro tutorial nem a reconstituição final. O grupo pode concluir antes.
 
-Se o tempo terminar, a corrupção continua com som e cursor invisível. Esc não devolve o desktop. A equipe pode encerrar, reiniciar ou liberar continuidade sem contagem pelo painel de operador. Se o grupo perder a anotação da chave, a interface não reapresenta o código; qualquer ajuda é uma decisão de condução do responsável.
+Se o tempo terminar, a corrupção continua com som e cursor invisível. Esc não devolve o desktop. A equipe pode iniciar uma nova rodada pelo painel de operador. Se o grupo perder a anotação da chave, a interface não reapresenta o código; qualquer ajuda é uma decisão de condução do responsável.
 
 ## Conferência presencial
 

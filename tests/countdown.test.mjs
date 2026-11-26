@@ -39,6 +39,10 @@ test('alertas não se repetem no mesmo segundo', () => {
   const t = game().VigiaCountdown.create();
   assert.equal(t.signal(690), 'warning');
   assert.equal(t.signal(690.5), null);
+  assert.equal(t.signal(705), null);
+  assert.equal(t.signal(720), 'warning');
+  assert.equal(t.signal(730), null);
+  assert.equal(t.signal(735), 'warning');
   for (let i = 10; i > 0; i--) assert.equal(t.signal(750 - i), 'urgent');
   assert.equal(t.signal(750), 'expired');
   assert.equal(t.signal(751), null);

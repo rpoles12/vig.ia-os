@@ -9,7 +9,15 @@
   return {
    remaining,
    award(stage,elapsed){if(!settings.bonusEnabled||settings.bonusSeconds===0||!['identity','access','chronology'].includes(stage)||stages.has(stage)||remaining(elapsed)===0)return null;stages.add(stage);bonus+=settings.bonusSeconds;return {stage,added:settings.bonusSeconds,remaining:remaining(elapsed),totalBonus:bonus}},
-   signal(elapsed){const left=remaining(elapsed);if(left===lastSecond)return null;lastSecond=left;if(left===0)return 'expired';if(left<=10)return 'urgent';if([60,45,30,20,15].includes(left))return 'warning';return null},
+   signal(elapsed){
+    const left=remaining(elapsed), previous=lastSecond;
+    lastSecond=left;
+    if(previous!==null&&left>=previous)return null;
+    if(left===0)return 'expired';
+    if(left<=10)return 'urgent';
+    if([15,30,60].some(mark=>left===mark||(previous!==null&&previous>mark&&left<mark)))return 'warning';
+    return null;
+   },
    reset(){stages.clear();bonus=0;lastSecond=null},
    configure(options){settings=normalize(options);this.reset()},
    totalBonus:()=>bonus

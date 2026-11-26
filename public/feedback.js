@@ -41,20 +41,31 @@
    if(context.state==='suspended')context.resume().then(tick).catch(()=>{});else tick();
   }catch{/* A contagem visual permanece independente do áudio. */}
  }
- function deadlineTone(notes){
+ function deadlineTone(notes,volume=.22){
   if(!enabled)return;
   try{
    const Audio=window.AudioContext||window.webkitAudioContext;if(!Audio)return;context??=new Audio();
    const play=()=>{if(!enabled)return;for(const [frequency,offset,duration] of notes){
     const osc=context.createOscillator(),gain=context.createGain(),when=context.currentTime+.01+offset;
-    osc.type='sine';osc.frequency.setValueAtTime(frequency,when);osc.frequency.exponentialRampToValueAtTime(frequency*.75,when+duration);
-    gain.gain.setValueAtTime(.0001,when);gain.gain.exponentialRampToValueAtTime(.13,when+.012);gain.gain.exponentialRampToValueAtTime(.0001,when+duration);
+    osc.type='triangle';osc.frequency.setValueAtTime(frequency,when);osc.frequency.exponentialRampToValueAtTime(frequency*.63,when+duration);
+    gain.gain.setValueAtTime(.0001,when);gain.gain.exponentialRampToValueAtTime(volume,when+.012);gain.gain.exponentialRampToValueAtTime(.0001,when+duration);
     osc.connect(gain);gain.connect(context.destination);osc.start(when);osc.stop(when+duration+.01);active.push(osc);
     osc.onended=()=>{osc.disconnect();gain.disconnect();active=active.filter(x=>x!==osc)};
    }};if(context.state==='suspended')context.resume().then(play).catch(()=>{});else play();
   }catch{/* A indicação visual independe do dispositivo de som. */}
  }
- function deadlineWarning(urgent,seconds){if(urgent)clockTick(seconds%2===0);else deadlineTone([[620,0,.12],[470,.18,.16]])}
+ function deadlineWarning(urgent,seconds){
+  if(urgent){
+   const pitch=seconds%2===0?1540:1100;
+   deadlineTone([[pitch,0,.075],[pitch*.58,.13,.07]],.28);
+   if(seconds===10)deadlineTone([[310,.25,.32],[440,.59,.27]]);
+   return;
+  }
+  const pitch=seconds<=15?920:seconds<=30?770:620;
+  const notes=[[pitch,0,.22],[pitch*.78,.27,.22],[pitch,.54,.29]];
+  if(seconds<=30)notes.push([pitch*.58,.88,.34]);
+  deadlineTone(notes);
+ }
  let failureActive=false;
  const failureTracks=[['failure-static','audio/failure/tv-static-noise-152056.mp3',.72],['failure-hum','audio/failure/electric-hum-141075.mp3',.58],['failure-glass','audio/failure/glass-cracking-504028.mp3',.86]].map(([id,src,volume])=>{
   const track=document.createElement('audio');track.id=id;track.src=src;track.volume=volume;track.loop=true;track.preload='auto';track.hidden=true;track.setAttribute('aria-hidden','true');document.body.append(track);track.addEventListener('canplay',()=>{if(failureActive&&enabled&&track.paused)track.play().catch(()=>{})});return track;

@@ -1,5 +1,6 @@
 (()=>{
  'use strict';
+ const acceptsTeamPassword=value=>value==='verset.dev';
  const definitions=VigiaEngine.stages;
  const defaults=Object.freeze({...VigiaCountdown.defaults,autoNarration:true,timeWarnings:true,stages:Object.freeze(definitions.map(stage=>stage.id))});
  let settings={...defaults,stages:[...defaults.stages]};
@@ -22,11 +23,11 @@
  $('#settings-close').onclick=close;
  dialog.addEventListener('cancel',event=>{event.preventDefault();close()});
  dialog.addEventListener('close',()=>{auth.reset();auth.hidden=false;form.hidden=true;$('#settings-auth-error').textContent='';if(intro.open)gear.focus()});
- auth.onsubmit=event=>{event.preventDefault();if($('#settings-login').value.trim()!=='admin'||$('#settings-password').value!=='verset.dev'){$('#settings-auth-error').textContent='Login ou senha incorretos.';$('#settings-password').value='';$('#settings-password').focus();return}auth.reset();auth.hidden=true;form.hidden=false;fill(settings);form.scrollTop=0;dialog.scrollTop=0;$('#settings-minutes').focus({preventScroll:true})};
+ auth.onsubmit=event=>{event.preventDefault();if($('#settings-login').value.trim()!=='admin'||!acceptsTeamPassword($('#settings-password').value)){$('#settings-auth-error').textContent='Login ou senha incorretos.';$('#settings-password').value='';$('#settings-password').focus();return}auth.reset();auth.hidden=true;form.hidden=false;fill(settings);form.scrollTop=0;dialog.scrollTop=0;$('#settings-minutes').focus({preventScroll:true})};
  auth.addEventListener('input',()=>{$('#settings-auth-error').textContent=''});
  form.addEventListener('input',summary);
  $('#settings-defaults').onclick=()=>fill(defaults);
  form.onsubmit=event=>{event.preventDefault();if(!form.reportValidity())return;const draft=read();if(draft.durationSeconds<1||draft.durationSeconds>10859){$('#settings-error').textContent='Defina pelo menos 1 segundo de rodada.';$('#settings-seconds').focus();return}if(!draft.stages.length){$('#settings-error').textContent='Selecione pelo menos uma etapa para a rodada.';form.querySelector('[name=selected-stage]').focus();return}settings=draft;updateIntro();document.dispatchEvent(new CustomEvent('vigia-settings-change'));close()};
- window.VigiaSettings={current:()=>({...settings,stages:[...settings.stages]})};
+ window.VigiaSettings={acceptsTeamPassword,current:()=>({...settings,stages:[...settings.stages]})};
  updateIntro();
 })();

@@ -63,13 +63,15 @@ A VIG.IA é uma personagem e um mecanismo local de orientação. Não acessa a i
 
 A duração padrão é 12min30s. O bônus padrão soma 15s uma única vez por acerto nas etapas identidade, acessos e cronologia: máximo de 45s em uma rodada completa. O aviso de acréscimo desaparece sozinho. Conclusões finais não geram bônus. A equipe pode alterar duração, ativar/desativar o bônus e ajustar seu valor antes de iniciar.
 
-Os avisos sonoros aparecem nos últimos 60, 45, 30, 20 e 15 segundos e nos 10 segundos finais. A opção de alertas não desliga os efeitos da falha final. A música ambiente é a mesma ao longo da investigação e abaixa quando há voz ou vídeo; o usuário também dispõe dos controles de áudio.
+Aos 60, 30 e 15 segundos, surgem alertas visuais com sirenes. Nos últimos 10 segundos, o painel mostra a contagem e o relógio marca cada segundo. Os avisos visuais ficam ativos mesmo com os alertas sonoros desligados. A opção de alertas não desliga os efeitos da falha final. A música ambiente é a mesma ao longo da investigação e abaixa quando há voz ou vídeo; o usuário também dispõe dos controles de áudio.
 
-Ao terminar o tempo, a corrupção ocupa a tela com fragmentação visual, binários, trincas, efeitos contínuos e cursor invisível. Esc não retorna ao OS. O aviso faz parte da ficção e não altera arquivos do computador. A condução de uma sessão expirada pertence à equipe.
+Ao terminar o tempo, a corrupção ocupa a tela com fragmentação visual, binários, trincas, efeitos contínuos e cursor invisível. Esc não retorna ao OS. O aviso faz parte da ficção e não altera arquivos do computador. A sessão permanece encerrada ao atualizar a aba. A equipe pode reiniciar para uma nova rodada pelo painel reservado.
 
 ## Código e encerramento
 
 Concluídas as etapas, o relógio de investigação para. Um pop-up mostra a chave com contagem própria de 30 segundos e som de relógio. O grupo deve anotá-la no papel. É possível confirmar a anotação antes do fim; ao fechar, o código deixa de ficar disponível para consulta e abre o terminal de inserção. O formato de exemplo é `XXXX-XXXX-XXXX`.
+
+Ao fim da recapitulação, a tela de parabéns orienta o grupo a sair da sala ou rever o vídeo. A rodada permanece encerrada mesmo ao atualizar a aba.
 
 A inserção correta abre automaticamente uma reconstituição de aproximadamente 4min15s, com narração, imagens e legendas. A chave não deve aparecer no tutorial, nos cartazes ou na documentação destinada aos participantes.
 

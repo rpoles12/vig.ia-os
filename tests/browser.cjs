@@ -154,13 +154,29 @@ const ok = value => { assert.ok(value); checks++; };
     checks++;
     for (const item of await page.evaluate(() => CASE_DATA.evidence)) eq((await context.request.get(base + '/' + item.file)).status(), 200);
 
+    await page.keyboard.press('Escape');
+    await page.keyboard.press('Alt+1');
+    eq(await page.locator('#reconstruction').evaluate(d => d.open), true);
+    await page.locator('#ending-audio').evaluate(a => { a.currentTime = a.duration - .15; });
+    await page.locator('#investigation-complete').waitFor();
+    await page.keyboard.press('Escape');
+    eq(await page.locator('#investigation-complete').evaluate(d => d.open), true);
+    await page.locator('#replay-reconstruction').click();
+    await page.waitForFunction(() => document.querySelector('#ending-audio').currentTime > 0);
+    ok(await page.locator('#ending-audio').evaluate(a => a.currentTime < 5 && !a.paused));
+    await page.locator('#ending-audio').evaluate(a => { a.currentTime = a.duration - .15; });
+    await page.locator('#investigation-complete').waitFor();
+
     // Expiração durante replay e bloqueio de retorno por Esc.
     const expired = await context.newPage();
-    await configure(expired, 3);
+    await configure(expired, 16);
     await finishIntro(expired);
+    await expired.locator('#deadline-popup').waitFor();
+    eq((await expired.locator('#deadline-time').textContent()).trim(), '00:15');
     await expired.locator('.desktop-shortcut[data-app=introvideo]').click();
     await expired.evaluate(() => document.querySelector('#intro-replay-player').requestFullscreen());
-    await expired.waitForFunction(() => !document.querySelector('#time-up').hidden, {}, { timeout: 6000 });
+    await expired.waitForFunction(() => document.querySelector('#deadline-popup').dataset.urgent === 'true', {}, { timeout: 9000 });
+    await expired.waitForFunction(() => !document.querySelector('#time-up').hidden, {}, { timeout: 13000 });
     await expired.waitForFunction(() => document.fullscreenElement !== document.querySelector('#intro-replay-player'));
     await expired.keyboard.press('Escape');
     eq(await expired.locator('#time-up').isVisible(), true);
@@ -168,12 +184,14 @@ const ok = value => { assert.ok(value); checks++; };
     eq(await expired.locator('#intro-replay-player').evaluate(v => v.paused), true);
     eq(await timer(expired), '00:00');
     await expired.screenshot({ path: path.join(out, '04-expiracao.png') });
+    await expired.reload();
+    eq(await expired.locator('#time-up').isVisible(), true);
     await expired.close();
 
-    // Configurações voltam ao padrão em uma nova carga da página.
+    // A aba restaurada mantém o encerramento e oferece a recapitulação.
     await page.reload();
-    eq(await timer(page), '12:30');
-    eq(await page.locator('#intro').evaluate(d => d.open), true);
+    eq(await page.locator('#investigation-complete').evaluate(d => d.open), true);
+    eq(await page.locator('#intro').evaluate(d => d.open), false);
     eq(await page.evaluate(() => VigiaIntroVideo.finished), false);
     eq(errors, []);
     eq(failedRequests.filter(x => !x.endsWith('/favicon.ico')), []);
